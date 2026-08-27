@@ -8,8 +8,7 @@ var CATEGORIES = [
   { key: "coating",    label: "Thiết Bị Phun Sơn",         icon: "🎨" },
   { key: "compressor", label: "Máy Nén Khí",                icon: "🌀" },
   { key: "vacuum",     label: "Bơm Chân Không",             icon: "🧲" },
-  { key: "fluid",      label: "Hệ Thống Cấp Liệu Sơn",      icon: "🛢️" },
-  { key: "gear",       label: "Phụ Kiện & Quà Lưu Niệm",    icon: "🧢" }
+  { key: "fluid",      label: "Hệ Thống Cấp Liệu Sơn",      icon: "🛢️" }
 ];
 
 var PRODUCTS = [
