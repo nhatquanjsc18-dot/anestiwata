@@ -19,6 +19,12 @@ app.use(
   })
 );
 
+// URL đẹp cho trang chi tiết sản phẩm: /ten-slug -> product.html
+// (chỉ khớp 1 segment không có dấu chấm, để không đụng tới các request tài nguyên)
+app.get(/^\/[a-zA-Z0-9-]+$/, (req, res) => {
+  res.sendFile(path.join(__dirname, "product.html"));
+});
+
 app.use((req, res) => {
   res.status(404).sendFile(path.join(__dirname, "404.html"));
 });

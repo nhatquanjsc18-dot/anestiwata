@@ -59,7 +59,6 @@ function aiFooterHTML() {
       "</div>" +
       '<div class="footer-bottom">' +
         "<span>© " + new Date().getFullYear() + " Anest Iwata Việt Nam. Dữ liệu sản phẩm tổng hợp và biên soạn lại từ tài liệu kỹ thuật của hãng Anest Iwata.</span>" +
-        '<span>Thiết kế bởi Anest Iwata Việt Nam</span>' +
       "</div>" +
     "</div></footer>"
   );

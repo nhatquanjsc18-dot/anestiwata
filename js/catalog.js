@@ -9,7 +9,7 @@ function aiFormatImg(p) {
 
 function aiProductCardHTML(p) {
   return (
-    '<a class="product-card" href="product.html?slug=' + encodeURIComponent(p.slug) + '">' +
+    '<a class="product-card" href="/' + encodeURIComponent(p.slug) + '">' +
       '<div class="thumb"><span class="cat-tag">' + p.categoryLabel + '</span>' + aiFormatImg(p) + '</div>' +
       '<div class="body">' +
         '<h3>' + p.name + '</h3>' +

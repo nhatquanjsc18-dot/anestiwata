@@ -1,12 +1,21 @@
 /* ============================================================
-   ANEST IWATA VIETNAM — Render trang chi tiết sản phẩm (product.html?slug=)
+   ANEST IWATA VIETNAM — Render trang chi tiết sản phẩm
+   URL đẹp: /ten-slug-san-pham (server rewrite về product.html)
+   Vẫn hỗ trợ product.html?slug=... để tương thích ngược.
    ============================================================ */
 
 function aiEsc(s) { return (s || "").toString(); }
 
-function aiRenderProductPage() {
+function aiGetSlugFromUrl() {
   var params = new URLSearchParams(window.location.search);
-  var slug = params.get("slug");
+  if (params.get("slug")) return params.get("slug");
+  var seg = window.location.pathname.split("/").filter(Boolean).pop() || "";
+  if (seg.toLowerCase() === "product.html") return "";
+  return decodeURIComponent(seg.replace(/\.html$/i, ""));
+}
+
+function aiRenderProductPage() {
+  var slug = aiGetSlugFromUrl();
   var product = PRODUCTS.find(function (p) { return p.slug === slug; });
   var root = document.getElementById("pdRoot");
 

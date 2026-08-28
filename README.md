@@ -24,6 +24,15 @@ js/                  layout.js, catalog.js, product-page.js, products-data*.js
 assets/              Ảnh/tài nguyên tĩnh
 ```
 
+## URL đẹp cho trang sản phẩm
+
+Trang chi tiết sản phẩm dùng URL dạng `/ten-slug-san-pham` (ví dụ `/dps-120-dps-90`) thay vì `/product.html?slug=...`.
+
+- Khi chạy qua `server.js` (Node.js/Express): route catch-all trong `server.js` tự rewrite mọi đường dẫn 1 segment không có dấu chấm về `product.html`.
+- Khi deploy tĩnh qua Apache/LiteSpeed (Shared Hosting): file `.htaccess` đã có sẵn rule `mod_rewrite` tương đương — chỉ cần đảm bảo `mod_rewrite` được bật (mặc định có trên Hostinger).
+
+`js/product-page.js` đọc slug trực tiếp từ đường dẫn URL (`window.location.pathname`), vẫn hỗ trợ ngược `?slug=` nếu cần.
+
 ## Deploy lên Hostinger (Node.js hosting qua hPanel)
 
 1. Đăng nhập **hPanel** → mục **Website → Node.js** (Hostinger hỗ trợ Node.js App trên gói Business/Cloud/VPS).

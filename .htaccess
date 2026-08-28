@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# URL đẹp cho trang chi tiết sản phẩm: /ten-slug -> product.html
+# (chỉ áp dụng khi không phải file/thư mục có thật, dùng cho Apache/LiteSpeed - Shared Hosting)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !\.
+RewriteRule ^([a-zA-Z0-9-]+)$ product.html [L]
+
+ErrorDocument 404 /404.html
