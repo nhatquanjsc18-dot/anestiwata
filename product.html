@@ -18,16 +18,15 @@
 
 <div id="aiFooter"></div>
 
-<script src="js/products-data.js"></script>
-<script src="js/products-data-2.js"></script>
-<script src="js/products-data-3.js"></script>
-<script src="js/products-data-4.js"></script>
-<script src="js/products-data-5.js"></script>
+<script src="js/data-loader.js"></script>
 <script src="js/layout.js"></script>
 <script src="js/catalog.js"></script>
 <script src="js/product-page.js"></script>
 <script>
-  aiMountLayout("products");
+  window.aiDataReady.then(function () {
+    aiMountLayout("products");
+    aiRenderProductPage();
+  });
 </script>
 </body>
 </html>

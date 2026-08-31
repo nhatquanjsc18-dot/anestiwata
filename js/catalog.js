@@ -147,7 +147,7 @@ function aiInitFeaturedGrid(containerId, count) {
   aiRenderGrid(containerId, picks.slice(0, count));
 }
 
-document.addEventListener("DOMContentLoaded", function () {
+function aiCatalogAutoInit() {
   aiInitCatalogPage();
   aiInitFeaturedGrid("featuredGrid", 8);
-});
+}

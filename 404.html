@@ -25,14 +25,12 @@
 
 <div id="aiFooter"></div>
 
-<script src="js/products-data.js"></script>
-<script src="js/products-data-2.js"></script>
-<script src="js/products-data-3.js"></script>
-<script src="js/products-data-4.js"></script>
-<script src="js/products-data-5.js"></script>
+<script src="js/data-loader.js"></script>
 <script src="js/layout.js"></script>
 <script>
-  aiMountLayout("");
+  window.aiDataReady.then(function () {
+    aiMountLayout("");
+  });
 </script>
 </body>
 </html>

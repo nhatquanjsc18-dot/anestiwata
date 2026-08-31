@@ -1,6 +1,6 @@
 /* ============================================================
    ANEST IWATA VIETNAM — Header / Footer dùng chung mọi trang
-   Danh mục được sinh động từ mảng CATEGORIES (products-data.js)
+   Danh mục được sinh động từ mảng CATEGORIES (nạp qua js/data-loader.js)
    để luôn đồng bộ, không phải sửa tay ở nhiều nơi.
    ============================================================ */
 

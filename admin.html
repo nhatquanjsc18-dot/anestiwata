@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quản Trị — Anest Iwata Việt Nam</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="stylesheet" href="css/style.css">
+<style>
+  .admin-wrap { max-width: 1100px; margin: 0 auto; padding: 40px 20px 80px; }
+  .admin-login-box { max-width: 380px; margin: 80px auto; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-lg); padding: 36px; box-shadow: var(--shadow-md); }
+  .admin-login-box h1 { font-size: 20px; margin-bottom: 22px; text-align: center; }
+  .admin-field { margin-bottom: 16px; }
+  .admin-field label { display: block; font-size: 13px; font-weight: 700; margin-bottom: 6px; color: var(--navy-800); }
+  .admin-field input, .admin-field select, .admin-field textarea { width: 100%; padding: 10px 12px; border: 1px solid var(--border); border-radius: var(--radius-sm); font-family: inherit; font-size: 14px; }
+  .admin-field textarea { min-height: 80px; resize: vertical; font-family: monospace; font-size: 13px; }
+  .admin-error { color: #c0392b; font-size: 13px; margin-top: 10px; min-height: 18px; }
+  .admin-topbar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 24px; }
+  .admin-topbar h1 { font-size: 22px; }
+  .admin-table { width: 100%; border-collapse: collapse; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-md); overflow: hidden; }
+  .admin-table th, .admin-table td { padding: 10px 14px; border-bottom: 1px solid var(--border); font-size: 13px; text-align: left; }
+  .admin-table th { background: var(--navy-50); font-weight: 700; color: var(--navy-800); }
+  .admin-table img { width: 40px; height: 40px; object-fit: contain; border-radius: 6px; background: #fff; border: 1px solid var(--border); }
+  .admin-table .actions { white-space: nowrap; }
+  .admin-table .actions a { cursor: pointer; margin-right: 12px; font-weight: 700; }
+  .admin-toolbar { display: flex; gap: 10px; align-items: center; margin-bottom: 16px; flex-wrap: wrap; }
+  .admin-toolbar input[type=text] { flex: 1; min-width: 200px; padding: 9px 12px; border: 1px solid var(--border); border-radius: var(--radius-sm); }
+  .admin-modal-backdrop { display: none; position: fixed; inset: 0; background: rgba(7,20,39,0.55); z-index: 50; align-items: flex-start; justify-content: center; overflow-y: auto; padding: 40px 16px; }
+  .admin-modal-backdrop.open { display: flex; }
+  .admin-modal { background: var(--surface); border-radius: var(--radius-lg); padding: 28px 32px; max-width: 640px; width: 100%; }
+  .admin-modal h2 { font-size: 18px; margin-bottom: 18px; }
+  .admin-modal-actions { display: flex; gap: 10px; margin-top: 20px; }
+  .admin-hint { font-size: 12px; color: var(--text-muted); margin-top: 4px; }
+  .hidden { display: none !important; }
+</style>
+</head>
+<body>
+
+<div id="aiHeader"></div>
+
+<!-- Đăng nhập -->
+<div id="loginView" class="admin-login-box hidden">
+  <h1>Đăng nhập quản trị</h1>
+  <form id="loginForm">
+    <div class="admin-field">
+      <label>Tên đăng nhập</label>
+      <input type="text" id="loginUser" autocomplete="username" required>
+    </div>
+    <div class="admin-field">
+      <label>Mật khẩu</label>
+      <input type="password" id="loginPass" autocomplete="current-password" required>
+    </div>
+    <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;">Đăng nhập</button>
+    <div class="admin-error" id="loginError"></div>
+  </form>
+</div>
+
+<!-- Dashboard -->
+<div id="dashView" class="admin-wrap hidden">
+  <div class="admin-topbar">
+    <h1>Quản lý sản phẩm</h1>
+    <div style="display:flex;gap:10px;">
+      <button class="btn btn-primary" id="btnAdd">+ Thêm sản phẩm</button>
+      <button class="btn btn-outline" id="btnLogout">Đăng xuất</button>
+    </div>
+  </div>
+  <div class="admin-toolbar">
+    <input type="text" id="adminSearch" placeholder="Tìm theo tên hoặc slug...">
+    <span id="adminCount" style="font-size:13px;color:var(--text-muted);"></span>
+  </div>
+  <div style="overflow-x:auto;">
+    <table class="admin-table">
+      <thead>
+        <tr><th>Ảnh</th><th>Tên sản phẩm</th><th>Slug</th><th>Danh mục</th><th>Hành động</th></tr>
+      </thead>
+      <tbody id="adminTbody"></tbody>
+    </table>
+  </div>
+</div>
+
+<!-- Modal thêm/sửa sản phẩm -->
+<div class="admin-modal-backdrop" id="modalBackdrop">
+  <div class="admin-modal">
+    <h2 id="modalTitle">Thêm sản phẩm</h2>
+    <form id="productForm">
+      <input type="hidden" id="f_originalSlug">
+      <div class="admin-field">
+        <label>Tên sản phẩm *</label>
+        <input type="text" id="f_name" required>
+      </div>
+      <div class="admin-field">
+        <label>Slug (URL) — để trống sẽ tự tạo từ tên</label>
+        <input type="text" id="f_slug">
+      </div>
+      <div class="admin-field">
+        <label>Danh mục *</label>
+        <select id="f_category" required></select>
+      </div>
+      <div class="admin-field">
+        <label>Nhóm nhỏ (subCat key)</label>
+        <input type="text" id="f_subCat">
+      </div>
+      <div class="admin-field">
+        <label>Tên nhóm nhỏ hiển thị (subCatLabel)</label>
+        <input type="text" id="f_subCatLabel">
+      </div>
+      <div class="admin-field">
+        <label>URL ảnh *</label>
+        <input type="text" id="f_img" required>
+      </div>
+      <div class="admin-field">
+        <label>Mô tả ngắn (hiện ở catalogue)</label>
+        <input type="text" id="f_shortDesc">
+      </div>
+      <div class="admin-field">
+        <label>Mô tả chi tiết (lead)</label>
+        <textarea id="f_lead"></textarea>
+      </div>
+      <div class="admin-field">
+        <label>Đặc điểm nổi bật — mỗi dòng dạng: emoji | mô tả</label>
+        <textarea id="f_features" placeholder="✅ | Đạt chuẩn ISO 8573-1&#10;🔇 | Vận hành êm"></textarea>
+        <div class="admin-hint">Mỗi dòng một đặc điểm, phân cách bằng dấu |</div>
+      </div>
+      <div class="admin-field">
+        <label>Thông số kỹ thuật — mỗi dòng dạng: Tên: Giá trị</label>
+        <textarea id="f_specs" placeholder="Công nghệ nén: Trục vít xoắn ốc&#10;Tiêu chuẩn khí nén: ISO 8573-1"></textarea>
+      </div>
+      <div class="admin-field">
+        <label>Ứng dụng — mỗi dòng một ứng dụng</label>
+        <textarea id="f_applications"></textarea>
+      </div>
+      <div class="admin-field">
+        <label>Vì sao nên chọn sản phẩm này (why)</label>
+        <textarea id="f_why"></textarea>
+      </div>
+      <div class="admin-error" id="formError"></div>
+      <div class="admin-modal-actions">
+        <button type="submit" class="btn btn-primary">Lưu</button>
+        <button type="button" class="btn btn-outline" id="btnCancel">Hủy</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<div id="aiFooter"></div>
+
+<script src="js/data-loader.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/admin.js"></script>
+<script>
+  window.aiDataReady.then(function () {
+    aiMountLayout("");
+    aiInitAdmin();
+  });
+</script>
+</body>
+</html>

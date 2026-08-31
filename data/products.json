@@ -1,0 +1,3004 @@
+{
+  "categories": [
+    {
+      "key": "coating",
+      "label": "Thiết Bị Phun Sơn",
+      "icon": "🎨"
+    },
+    {
+      "key": "compressor",
+      "label": "Máy Nén Khí",
+      "icon": "🌀"
+    },
+    {
+      "key": "vacuum",
+      "label": "Bơm Chân Không",
+      "icon": "🧲"
+    },
+    {
+      "key": "fluid",
+      "label": "Hệ Thống Cấp Liệu Sơn",
+      "icon": "🛢️"
+    }
+  ],
+  "products": [
+    {
+      "slug": "sle",
+      "name": "SLE Scroll Compressor",
+      "category": "compressor",
+      "categoryLabel": "Máy Nén Khí",
+      "subCat": "oil-free",
+      "subCatLabel": "Máy nén khí không dầu",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/12/SLE-30_trans.jpg",
+      "shortDesc": "Máy nén khí trục vít xoắn ốc không dầu, vận hành êm, đạt chuẩn khí sạch Class Zero.",
+      "lead": "SLE là dòng máy nén khí kiểu cuộn xoắn (scroll) không dầu của Anest Iwata, dùng một hoặc nhiều đầu nén hoạt động độc lập trong cùng một tủ máy. Thiết kế xoắn ốc cố định – xoắn ốc quay lệch tâm giúp khí được nén dần trong khoang kín mà không cần dầu bôi trơn, phù hợp cho các dây chuyền phun sơn, thực phẩm, dược phẩm cần khí nén sạch tuyệt đối.",
+      "features": [
+        [
+          "✅",
+          "Khí nén đạt chuẩn ISO 8573-1:2010 Class Zero — hoàn toàn không lẫn dầu"
+        ],
+        [
+          "🔇",
+          "Tủ cách âm giảm tiếng ồn, phù hợp lắp trong xưởng có người làm việc gần"
+        ],
+        [
+          "🎛️",
+          "Tủ điều khiển đạt chuẩn UL508A, có thể cài đặt áp suất bật/tắt tự động"
+        ],
+        [
+          "🌬️",
+          "Lọc khí đầu vào 5 micron cỡ lớn, kéo dài tuổi thọ đầu nén"
+        ],
+        [
+          "⚙️",
+          "Dẫn động bằng dây curoa đôi kèm quạt ly tâm làm mát"
+        ],
+        [
+          "🖥️",
+          "Màn hình HMI cảm ứng tích hợp PLC, có cổng giao tiếp BACnet/Modbus (bản SLE 10–60)"
+        ]
+      ],
+      "specs": {
+        "Công nghệ nén": "Trục vít xoắn ốc (scroll), không dầu",
+        "Tiêu chuẩn khí nén": "ISO 8573-1:2010 Class 0 (Oil-Free)",
+        "Tủ điều khiển": "Đạt chuẩn UL508A, tích hợp PLC",
+        "Lọc khí đầu vào": "5 micron",
+        "Dẫn động": "Dây curoa đôi, làm mát bằng quạt ly tâm",
+        "Kết cấu": "Tủ cách âm, vận hành êm"
+      },
+      "applications": [
+        "Phun sơn công nghiệp",
+        "Sản xuất thực phẩm & đồ uống",
+        "Dược phẩm",
+        "Phòng thí nghiệm R&D"
+      ],
+      "why": "Nếu xưởng của bạn cần nguồn khí nén tuyệt đối sạch — không một giọt dầu lẫn vào lớp sơn hay sản phẩm — SLE là lựa chọn an toàn nhất, đồng thời tủ cách âm giúp môi trường làm việc dễ chịu hơn hẳn máy nén piston thông thường."
+    },
+    {
+      "slug": "sle-frd",
+      "name": "SLE-FRD kèm máy sấy khí lạnh",
+      "category": "compressor",
+      "categoryLabel": "Máy Nén Khí",
+      "subCat": "oil-free",
+      "subCatLabel": "Máy nén khí không dầu",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/SLE-FRD-A1.jpg",
+      "shortDesc": "Phiên bản SLE tích hợp sẵn máy sấy khí kiểu lạnh, loại ẩm ngay trong một tủ máy.",
+      "lead": "SLE-FRD kết hợp cụm nén khí scroll không dầu SLE với một máy sấy khí kiểu lạnh (refrigerated dryer) lắp liền khối, giúp loại bỏ hơi ẩm ngay tại nguồn trước khi khí nén đi vào hệ thống ống dẫn — rất quan trọng với các ứng dụng phun sơn yêu cầu bề mặt hoàn thiện không bị rỗ khí ẩm.",
+      "features": [
+        [
+          "✅",
+          "Không dầu, đạt chuẩn ISO 8573-1:2010 Class 0"
+        ],
+        [
+          "❄️",
+          "Máy sấy khí lạnh tích hợp sẵn, không cần lắp thêm thiết bị rời"
+        ],
+        [
+          "🔇",
+          "Tủ cách âm, vận hành êm như dòng SLE tiêu chuẩn"
+        ],
+        [
+          "🎛️",
+          "Tủ điều khiển UL508A, cài đặt áp suất tự động"
+        ],
+        [
+          "🌬️",
+          "Lọc khí đầu vào 5 micron"
+        ],
+        [
+          "📉",
+          "Giảm rủi ro ẩm trong đường ống, hạn chế lỗi bề mặt sơn"
+        ]
+      ],
+      "specs": {
+        "Công nghệ nén": "Trục vít xoắn ốc (scroll), không dầu",
+        "Xử lý ẩm": "Máy sấy khí kiểu lạnh (refrigerated dryer) tích hợp",
+        "Tiêu chuẩn khí nén": "ISO 8573-1:2010 Class 0",
+        "Tủ điều khiển": "UL508A",
+        "Lọc khí đầu vào": "5 micron"
+      },
+      "applications": [
+        "Phun sơn ô tô, đồ gỗ yêu cầu khí khô",
+        "Sản xuất thiết bị điện tử",
+        "Xưởng sơn tĩnh điện"
+      ],
+      "why": "Thay vì đầu tư thêm máy sấy khí rời và tốn thêm diện tích lắp đặt, SLE-FRD gói gọn hai chức năng nén khí sạch và sấy khô trong một tủ máy duy nhất — tiết kiệm không gian và giảm điểm rò rỉ đường ống."
+    },
+    {
+      "slug": "slt-slte-tank",
+      "name": "SLT/SLTE Tank Mount",
+      "category": "compressor",
+      "categoryLabel": "Máy Nén Khí",
+      "subCat": "oil-free",
+      "subCatLabel": "Máy nén khí không dầu",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/02/SLTE-5_rght-scaled.jpg",
+      "shortDesc": "Máy nén khí scroll không dầu lắp trên bình chứa khí, phù hợp xưởng cần dự trữ khí lớn.",
+      "lead": "SLT/SLTE là phiên bản máy nén scroll không dầu được lắp trực tiếp trên bình chứa khí (tank mount), giúp ổn định áp suất khi có nhiều súng phun hoặc thiết bị dùng khí nén hoạt động cùng lúc, đồng thời tiết kiệm diện tích sàn xưởng so với lắp bình chứa rời.",
+      "features": [
+        [
+          "✅",
+          "Không dầu, đạt chuẩn khí sạch Class 0"
+        ],
+        [
+          "🛢️",
+          "Tích hợp sẵn bình chứa khí, ổn định áp suất tức thời"
+        ],
+        [
+          "🔇",
+          "Tủ cách âm, vận hành êm"
+        ],
+        [
+          "🎛️",
+          "Tủ điều khiển UL508A"
+        ],
+        [
+          "🌬️",
+          "Lọc khí đầu vào 5 micron"
+        ],
+        [
+          "📐",
+          "Thiết kế gọn, tiết kiệm diện tích lắp đặt"
+        ]
+      ],
+      "specs": {
+        "Công nghệ nén": "Trục vít xoắn ốc (scroll), không dầu",
+        "Kiểu lắp đặt": "Trên bình chứa khí (tank mount)",
+        "Tiêu chuẩn khí nén": "ISO 8573-1:2010 Class 0",
+        "Tủ điều khiển": "UL508A"
+      },
+      "applications": [
+        "Xưởng sơn ô tô có nhiều cabin",
+        "Nhà máy có nhiều điểm sử dụng khí đồng thời"
+      ],
+      "why": "Bình chứa tích hợp giúp hệ thống khí nén phản ứng tốt hơn với các đợt tiêu thụ khí đột biến (ví dụ nhiều súng phun hoạt động cùng lúc) mà không bị sụt áp."
+    },
+    {
+      "slug": "slb-slbe-base",
+      "name": "SLB/SLBE Base Mount",
+      "category": "compressor",
+      "categoryLabel": "Máy Nén Khí",
+      "subCat": "oil-free",
+      "subCatLabel": "Máy nén khí không dầu",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/12/SLB-10_frnt.jpg",
+      "shortDesc": "Máy nén khí scroll không dầu lắp đế rời, không kèm bình chứa, linh hoạt bố trí hệ thống khí.",
+      "lead": "SLB/SLBE là phiên bản lắp đế (base mount) của dòng máy nén scroll không dầu Anest Iwata — không đi kèm bình chứa khí sẵn, cho phép khách hàng tự chọn dung tích bình chứa và bố trí hệ thống đường ống phù hợp quy mô xưởng.",
+      "features": [
+        [
+          "✅",
+          "Không dầu, đạt chuẩn khí sạch Class 0"
+        ],
+        [
+          "📐",
+          "Lắp đế linh hoạt, dễ tuỳ biến hệ thống khí nén"
+        ],
+        [
+          "🔇",
+          "Vận hành êm nhờ tủ cách âm"
+        ],
+        [
+          "🎛️",
+          "Tủ điều khiển UL508A"
+        ],
+        [
+          "🌬️",
+          "Lọc khí đầu vào 5 micron"
+        ]
+      ],
+      "specs": {
+        "Công nghệ nén": "Trục vít xoắn ốc (scroll), không dầu",
+        "Kiểu lắp đặt": "Lắp đế (base mount), không kèm bình chứa",
+        "Tiêu chuẩn khí nén": "ISO 8573-1:2010 Class 0",
+        "Tủ điều khiển": "UL508A"
+      },
+      "applications": [
+        "Xưởng cần tự thiết kế hệ thống khí nén riêng",
+        "Nâng cấp hệ thống khí hiện có"
+      ],
+      "why": "Phù hợp khi xưởng đã có sẵn bình chứa khí hoặc muốn tối ưu chi phí đầu tư ban đầu, chỉ thay thế đúng phần đầu nén."
+    },
+    {
+      "slug": "slt-slte-frd",
+      "name": "SLT/SLTE kèm máy sấy khí lạnh",
+      "category": "compressor",
+      "categoryLabel": "Máy Nén Khí",
+      "subCat": "oil-free",
+      "subCatLabel": "Máy nén khí không dầu",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/04/SLT-SLTE-with-Refridgerated-Dryer-A1-1.jpg",
+      "shortDesc": "Kết hợp máy nén scroll lắp bình chứa với máy sấy khí lạnh tích hợp, khí ra vừa ổn áp vừa khô.",
+      "lead": "Phiên bản kết hợp giữa SLT/SLTE (lắp trên bình chứa) và máy sấy khí kiểu lạnh, dành cho các xưởng vừa cần dự trữ khí ổn định áp suất vừa cần khí khô cho công đoạn phun sơn hoàn thiện.",
+      "features": [
+        [
+          "✅",
+          "Không dầu, đạt chuẩn Class 0"
+        ],
+        [
+          "🛢️",
+          "Tích hợp bình chứa khí"
+        ],
+        [
+          "❄️",
+          "Máy sấy khí lạnh tích hợp sẵn"
+        ],
+        [
+          "🔇",
+          "Tủ cách âm"
+        ],
+        [
+          "🎛️",
+          "Tủ điều khiển UL508A"
+        ]
+      ],
+      "specs": {
+        "Công nghệ nén": "Scroll không dầu + bình chứa",
+        "Xử lý ẩm": "Máy sấy khí kiểu lạnh tích hợp",
+        "Tiêu chuẩn khí nén": "ISO 8573-1:2010 Class 0"
+      },
+      "applications": [
+        "Xưởng sơn ô tô cao cấp",
+        "Dây chuyền sơn yêu cầu khí khô và ổn áp đồng thời"
+      ],
+      "why": "Giải pháp trọn gói cho xưởng không muốn đầu tư rời từng thiết bị (đầu nén – bình chứa – máy sấy) mà cần một hệ thống đồng bộ, tiết kiệm thời gian lắp đặt."
+    },
+    {
+      "slug": "ofb-ofbe-base",
+      "name": "OFB/OFBE Base Mount",
+      "category": "compressor",
+      "categoryLabel": "Máy Nén Khí",
+      "subCat": "oil-free-piston",
+      "subCatLabel": "Máy nén khí piston không dầu",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/04/OFB-A1-scaled.jpg",
+      "shortDesc": "Máy nén khí piston không dầu, lắp đế, chi phí đầu tư hợp lý cho xưởng vừa và nhỏ.",
+      "lead": "OFB/OFBE là dòng máy nén khí kiểu piston không dầu, lắp đế, phù hợp các xưởng vừa và nhỏ cần nguồn khí sạch nhưng ngân sách đầu tư hợp lý hơn so với công nghệ scroll.",
+      "features": [
+        [
+          "✅",
+          "Không dầu, không lẫn tạp chất vào khí nén"
+        ],
+        [
+          "📐",
+          "Lắp đế gọn nhẹ, dễ di chuyển vị trí"
+        ],
+        [
+          "💰",
+          "Chi phí đầu tư hợp lý cho xưởng quy mô vừa và nhỏ"
+        ],
+        [
+          "🔧",
+          "Bảo trì đơn giản, ít linh kiện hao mòn cần dầu bôi trơn"
+        ]
+      ],
+      "specs": {
+        "Công nghệ nén": "Piston, không dầu",
+        "Kiểu lắp đặt": "Lắp đế (base mount)",
+        "Phân khúc": "Xưởng vừa và nhỏ"
+      },
+      "applications": [
+        "Xưởng sửa chữa ô tô nhỏ",
+        "Xưởng mộc, cơ khí quy mô vừa"
+      ],
+      "why": "Lựa chọn tiết kiệm cho các xưởng mới bắt đầu chuyển sang khí nén không dầu mà chưa cần công suất lớn như dòng scroll."
+    },
+    {
+      "slug": "oft-ofte-tank",
+      "name": "OFT/OFTE Tank Mount",
+      "category": "compressor",
+      "categoryLabel": "Máy Nén Khí",
+      "subCat": "oil-free-piston",
+      "subCatLabel": "Máy nén khí piston không dầu",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/02/OFT-5_frnt-scaled.jpg",
+      "shortDesc": "Máy nén khí piston không dầu tích hợp bình chứa, sẵn sàng sử dụng ngay sau lắp đặt.",
+      "lead": "OFT/OFTE là máy nén piston không dầu lắp sẵn trên bình chứa khí, giúp xưởng có ngay nguồn khí dự trữ ổn định mà không cần đầu tư thêm bình chứa rời.",
+      "features": [
+        [
+          "✅",
+          "Không dầu"
+        ],
+        [
+          "🛢️",
+          "Tích hợp sẵn bình chứa khí"
+        ],
+        [
+          "📦",
+          "Sẵn sàng sử dụng ngay, không cần lắp thêm phụ kiện"
+        ],
+        [
+          "💰",
+          "Chi phí đầu tư hợp lý"
+        ]
+      ],
+      "specs": {
+        "Công nghệ nén": "Piston, không dầu",
+        "Kiểu lắp đặt": "Trên bình chứa khí (tank mount)"
+      },
+      "applications": [
+        "Xưởng sơn nhỏ cần khí ổn áp tức thời",
+        "Garage sửa chữa ô tô"
+      ],
+      "why": "Giải pháp gọn một khối, phù hợp khi xưởng chưa có sẵn hệ thống bình chứa khí và muốn triển khai nhanh."
+    },
+    {
+      "slug": "oft-frd",
+      "name": "OFT kèm máy sấy khí lạnh",
+      "category": "compressor",
+      "categoryLabel": "Máy Nén Khí",
+      "subCat": "oil-free-piston",
+      "subCatLabel": "Máy nén khí piston không dầu",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/04/OFT-with-Refrgerated-Dryer-A1.jpg",
+      "shortDesc": "Máy nén piston không dầu tích hợp bình chứa và máy sấy khí lạnh trong một hệ thống.",
+      "lead": "Phiên bản OFT tích hợp thêm máy sấy khí kiểu lạnh, phù hợp các xưởng sơn nhỏ và vừa cần khí khô để tránh lỗi bề mặt (rỗ, nổi bọt) do hơi ẩm trong đường khí.",
+      "features": [
+        [
+          "✅",
+          "Không dầu"
+        ],
+        [
+          "🛢️",
+          "Tích hợp bình chứa khí"
+        ],
+        [
+          "❄️",
+          "Máy sấy khí lạnh tích hợp"
+        ],
+        [
+          "💰",
+          "Giải pháp trọn gói, chi phí hợp lý"
+        ]
+      ],
+      "specs": {
+        "Công nghệ nén": "Piston, không dầu",
+        "Xử lý ẩm": "Máy sấy khí kiểu lạnh tích hợp",
+        "Kiểu lắp đặt": "Trên bình chứa khí"
+      },
+      "applications": [
+        "Xưởng sơn ô tô vừa và nhỏ",
+        "Xưởng mộc cần khí khô cho phun sơn PU/UV"
+      ],
+      "why": "Với xưởng nhỏ nhưng vẫn cần chất lượng khí khô đạt yêu cầu phun sơn hoàn thiện, đây là lựa chọn gọn nhẹ, không cần đầu tư máy sấy rời."
+    },
+    {
+      "slug": "isp-series",
+      "name": "ISP Series",
+      "category": "vacuum",
+      "categoryLabel": "Bơm Chân Không",
+      "subCat": "dry-scroll",
+      "subCatLabel": "Bơm chân không scroll khô",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/04/ISP-Vacuum-Pumps-A1.jpg",
+      "shortDesc": "Bơm chân không kiểu scroll khô, tiên phong công nghệ không dầu, độ tin cậy cao.",
+      "lead": "Anest Iwata là một trong những hãng tiên phong phát triển bơm chân không kiểu cuộn xoắn (scroll) khô trên thế giới. Dòng ISP Series kế thừa công nghệ này: buồng bơm không tiếp xúc trực tiếp, không cần dầu bôi trơn, cho độ chân không ổn định và tuổi thọ vận hành cao trong môi trường công nghiệp liên tục.",
+      "features": [
+        [
+          "✅",
+          "Công nghệ scroll khô — không dầu, không nhiễm bẩn khí hút"
+        ],
+        [
+          "🔧",
+          "Ít chi tiết hao mòn hơn bơm cánh gạt truyền thống"
+        ],
+        [
+          "🔇",
+          "Vận hành êm, rung động thấp"
+        ],
+        [
+          "♻️",
+          "Phù hợp vận hành liên tục 24/7 trong dây chuyền công nghiệp"
+        ],
+        [
+          "🌡️",
+          "Ổn định hiệu suất hút chân không ở tải liên tục"
+        ]
+      ],
+      "specs": {
+        "Công nghệ hút chân không": "Scroll khô (dry scroll), không dầu",
+        "Kiểu vận hành": "Liên tục, độ tin cậy cao",
+        "Bảo trì": "Không cần thay dầu định kỳ như bơm cánh gạt"
+      },
+      "applications": [
+        "Hút chân không đóng gói thực phẩm",
+        "Hệ thống hút chân không trong dược phẩm",
+        "Băng tải hút chân không công nghiệp",
+        "Phòng thí nghiệm, nghiên cứu"
+      ],
+      "why": "Nếu quy trình của bạn không được phép nhiễm dầu (thực phẩm, dược phẩm, phòng sạch), ISP Series là lựa chọn an toàn với chi phí bảo trì dài hạn thấp hơn bơm truyền thống."
+    },
+    {
+      "slug": "dvsl-gvsu-series",
+      "name": "DVSL/GVSU Series",
+      "category": "vacuum",
+      "categoryLabel": "Bơm Chân Không",
+      "subCat": "dry-scroll",
+      "subCatLabel": "Bơm chân không scroll khô",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/04/DVSL-Vacuum-Pumps-A1.jpg",
+      "shortDesc": "Bơm chân không scroll khô công suất lớn, dành cho hệ thống hút chân không quy mô nhà máy.",
+      "lead": "DVSL/GVSU là dòng bơm chân không scroll khô công suất lớn hơn trong hệ sản phẩm Anest Iwata, phục vụ các hệ thống hút chân không tập trung quy mô nhà máy, nơi cần lưu lượng hút lớn và vận hành ổn định trong thời gian dài.",
+      "features": [
+        [
+          "✅",
+          "Công nghệ scroll khô, không dầu"
+        ],
+        [
+          "💪",
+          "Công suất hút lớn, phù hợp hệ thống tập trung"
+        ],
+        [
+          "🔇",
+          "Vận hành êm dù chạy công suất cao"
+        ],
+        [
+          "♻️",
+          "Thiết kế bền, tối ưu cho vận hành công nghiệp liên tục"
+        ]
+      ],
+      "specs": {
+        "Công nghệ hút chân không": "Scroll khô (dry scroll), không dầu",
+        "Phân khúc": "Hệ thống hút chân không tập trung, công suất lớn",
+        "Kiểu vận hành": "Liên tục, công nghiệp"
+      },
+      "applications": [
+        "Hệ thống hút chân không trung tâm nhà máy",
+        "Dây chuyền đóng gói công suất lớn",
+        "Ứng dụng công nghiệp nặng"
+      ],
+      "why": "Khi một bơm đơn lẻ không đủ đáp ứng lưu lượng hút của toàn nhà máy, DVSL/GVSU cho công suất lớn hơn trong khi vẫn giữ ưu điểm không dầu của công nghệ scroll."
+    },
+    {
+      "slug": "dps-120-dps-90",
+      "name": "DPS-120 | DPS-90",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "low-pressure",
+      "subCatLabel": "Cấp liệu áp lực thấp",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/04/DPS-120-DPS-90-A1.jpg",
+      "shortDesc": "Bơm sơn màng kép (double diaphragm), cấp liệu ổn định cho súng phun tay và súng tự động.",
+      "lead": "DPS-120/DPS-90 là bơm sơn kiểu màng kép, lý tưởng để cấp liệu cho cả súng phun thủ công lẫn hệ thống súng phun tự động. Cụm điều khiển khí nén dùng mạch van đôi (double spool) giúp dòng sơn ra đều, hạn chế hiện tượng giật cục thường gặp ở bơm màng đơn, cho lớp phủ mịn và đồng đều hơn.",
+      "features": [
+        [
+          "🫧",
+          "Bơm màng kép, cấp liệu êm cho cả súng tay và súng tự động"
+        ],
+        [
+          "🎛️",
+          "Mạch khí điều khiển van đôi (double spool) giúp bề mặt sơn mịn hơn"
+        ],
+        [
+          "🛑",
+          "Hệ thống khí nén ngăn bơm dừng đột ngột giữa chu trình"
+        ],
+        [
+          "🧹",
+          "Kênh chứa vật liệu tối thiểu, kết cấu dễ tháo lắp vệ sinh, bảo trì"
+        ],
+        [
+          "🛡️",
+          "Cụm bơm làm bằng vật liệu chống mài mòn"
+        ],
+        [
+          "📐",
+          "Nhiều kiểu lắp: đế đứng, trên bồn, xe đẩy, treo tường"
+        ],
+        [
+          "🔗",
+          "Có bản 2 ngả kết nối, chọn chất liệu nhôm hoặc thép không gỉ"
+        ]
+      ],
+      "specs": {
+        "Kiểu bơm": "Màng kép (double diaphragm)",
+        "Điều khiển khí": "Mạch van đôi (double spool)",
+        "Vật liệu bơm": "Chống mài mòn, tuỳ chọn nhôm / thép không gỉ",
+        "Kiểu lắp đặt": "Đế đứng, bồn, xe đẩy, treo tường"
+      },
+      "applications": [
+        "Xưởng sơn công nghiệp có súng tự động",
+        "Dây chuyền sơn tĩnh cần cấp liệu liên tục",
+        "Cấp liệu cho hệ thống phun sơn nhiều súng"
+      ],
+      "why": "Với các dây chuyền dùng đồng thời súng phun tay và súng tự động, DPS-120/90 cấp liệu ổn định cho cả hai mà không cần đầu tư hai hệ thống bơm riêng biệt."
+    },
+    {
+      "slug": "dps-70c-dps-70cn",
+      "name": "DPS-70C | DPS-70CN",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "low-pressure",
+      "subCatLabel": "Cấp liệu áp lực thấp",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/04/DPS-70C-A1.jpg",
+      "shortDesc": "Bơm sơn màng kép cỡ nhỏ hơn trong họ DPS, cùng công nghệ van đôi cho bề mặt hoàn thiện tốt.",
+      "lead": "DPS-70C/DPS-70CN là phiên bản nhỏ gọn hơn trong dòng bơm màng kép DPS, giữ nguyên công nghệ mạch khí van đôi giúp cấp liệu đều, phù hợp các dây chuyền có nhu cầu lưu lượng vừa phải nhưng vẫn cần độ ổn định cao khi phun.",
+      "features": [
+        [
+          "🫧",
+          "Bơm màng kép, phù hợp súng tay và súng tự động"
+        ],
+        [
+          "🎛️",
+          "Mạch khí van đôi cho bề mặt hoàn thiện đẹp"
+        ],
+        [
+          "🛑",
+          "Chống dừng đột ngột giữa chu trình bơm"
+        ],
+        [
+          "🧹",
+          "Dễ tháo lắp vệ sinh, kiểm tra, bảo trì"
+        ],
+        [
+          "🛡️",
+          "Cụm bơm chống mài mòn"
+        ],
+        [
+          "📐",
+          "Nhiều kiểu lắp đặt: đế, bồn, xe đẩy, treo tường"
+        ]
+      ],
+      "specs": {
+        "Kiểu bơm": "Màng kép (double diaphragm), cỡ nhỏ gọn",
+        "Điều khiển khí": "Mạch van đôi (double spool)",
+        "Kiểu lắp đặt": "Đế đứng, bồn, xe đẩy, treo tường"
+      },
+      "applications": [
+        "Xưởng sơn quy mô vừa",
+        "Cấp liệu cho một hoặc vài súng phun"
+      ],
+      "why": "Khi không cần lưu lượng lớn như DPS-120/90, bản 70C/70CN vẫn giữ được độ ổn định dòng sơn nhưng gọn và tiết kiệm chi phí đầu tư hơn."
+    },
+    {
+      "slug": "pc-18d",
+      "name": "PC-18D Bình Áp Lực 2 Quart",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "low-pressure",
+      "subCatLabel": "Cấp liệu áp lực thấp",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/PC-18D-A1.jpg",
+      "shortDesc": "Bình cấp sơn áp lực dung tích 2 quart (~1,9L), thân nhôm, áp suất làm việc tối đa 50,5 psi.",
+      "lead": "PC-18D là bình cấp sơn áp lực (pressure pot) dung tích nhỏ 2 quart, thân nhôm nhẹ, thường dùng đi kèm súng phun áp lực (pressure feed) cho các công việc phun sơn cần mang vác di chuyển hoặc phun trong không gian hẹp.",
+      "features": [
+        [
+          "🛢️",
+          "Thân bình nhôm, dung tích 2 quart (~1,9 lít)"
+        ],
+        [
+          "📏",
+          "Đầu nối chất lỏng ren G 3/8\""
+        ],
+        [
+          "🌡️",
+          "Dải nhiệt độ làm việc 5–40°C"
+        ],
+        [
+          "⚙️",
+          "Áp suất làm việc tối đa 50,5 psi"
+        ]
+      ],
+      "specs": {
+        "Áp suất làm việc tối đa": "50,5 psi",
+        "Đầu nối chất lỏng": "G 3/8\" (PF3/8)",
+        "Dung tích": "2 quart (~1,9 lít)",
+        "Chất liệu bình": "Nhôm",
+        "Dải nhiệt độ": "5–40°C (41–104°F)"
+      },
+      "applications": [
+        "Phun sơn sửa chữa ô tô cỡ nhỏ",
+        "Phun sơn mỹ nghệ, đồ gỗ chi tiết nhỏ",
+        "Công việc cần bình sơn di động"
+      ],
+      "why": "Kích thước nhỏ gọn giúp PC-18D dễ mang theo hiện trường, phù hợp thợ sơn cần cơ động thay vì gắn cố định một hệ thống cấp liệu lớn."
+    },
+    {
+      "slug": "pc-18dt",
+      "name": "PC-18DT Bình Áp Lực Phủ PTFE",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "low-pressure",
+      "subCatLabel": "Cấp liệu áp lực thấp",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/PC-18DT-A1.jpg",
+      "shortDesc": "Phiên bản PC-18D với lớp phủ PTFE bên trong, chống bám dính, dễ vệ sinh sau khi dùng sơn đặc biệt.",
+      "lead": "PC-18DT là biến thể của PC-18D với lớp phủ PTFE ở thành bình, giúp sơn khó bám dính lại thành, dễ vệ sinh hơn khi sử dụng các loại sơn/keo dễ đông cứng hoặc khó rửa trôi bằng dung môi thông thường.",
+      "features": [
+        [
+          "🛡️",
+          "Lớp phủ PTFE chống bám dính bên trong bình"
+        ],
+        [
+          "🛢️",
+          "Thân nhôm, dung tích 2 quart (~1,9 lít)"
+        ],
+        [
+          "📏",
+          "Đầu nối chất lỏng ren G 3/8\""
+        ],
+        [
+          "🌡️",
+          "Dải nhiệt độ làm việc 5–40°C"
+        ],
+        [
+          "⚙️",
+          "Áp suất làm việc tối đa 50,5 psi"
+        ]
+      ],
+      "specs": {
+        "Áp suất làm việc tối đa": "50,5 psi",
+        "Đầu nối chất lỏng": "G 3/8\" (PF3/8)",
+        "Dung tích": "2 quart (~1,9 lít)",
+        "Lớp phủ trong": "PTFE chống bám dính",
+        "Dải nhiệt độ": "5–40°C (41–104°F)"
+      },
+      "applications": [
+        "Phun các loại sơn/keo dễ đông cứng, khó vệ sinh",
+        "Ứng dụng công nghiệp cần vệ sinh bình thường xuyên"
+      ],
+      "why": "Nếu loại vật liệu bạn phun hay bám dính cứng đầu vào thành bình thông thường, lớp phủ PTFE giúp tiết kiệm đáng kể thời gian vệ sinh giữa các ca làm việc."
+    },
+    {
+      "slug": "pc-18dm",
+      "name": "PC-18DM Bình Áp Lực 2 Quart",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "low-pressure",
+      "subCatLabel": "Cấp liệu áp lực thấp",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/PC-18DM-A1.jpg",
+      "shortDesc": "Biến thể PC-18 dùng đầu nối khác (G 3/8\" không ren PF), cùng dung tích và áp suất làm việc.",
+      "lead": "PC-18DM là một biến thể khác trong họ bình áp lực PC-18, cùng dung tích 2 quart và áp suất làm việc tối đa tương đương, khác ở kiểu đầu nối chất lỏng để tương thích với các cụm súng phun/đường ống khác nhau.",
+      "features": [
+        [
+          "🛢️",
+          "Thân nhôm, dung tích 2 quart (~1,9 lít)"
+        ],
+        [
+          "📏",
+          "Đầu nối chất lỏng G 3/8\""
+        ],
+        [
+          "🌡️",
+          "Dải nhiệt độ làm việc 5–40°C"
+        ],
+        [
+          "⚙️",
+          "Áp suất làm việc tối đa 50,5 psi"
+        ]
+      ],
+      "specs": {
+        "Áp suất làm việc tối đa": "50,5 psi",
+        "Đầu nối chất lỏng": "G 3/8\"",
+        "Dung tích": "2 quart (~1,9 lít)",
+        "Chất liệu bình": "Nhôm",
+        "Dải nhiệt độ": "5–40°C (41–104°F)"
+      },
+      "applications": [
+        "Phun sơn sửa chữa ô tô cỡ nhỏ",
+        "Thay thế/tương thích hệ thống đường ống đã có sẵn"
+      ],
+      "why": "Cùng thông số vận hành với PC-18D nhưng đầu nối khác giúp bạn chọn đúng phiên bản tương thích với súng phun và đường ống hiện có."
+    },
+    {
+      "slug": "pet-10",
+      "name": "PET-10 Bình Áp Lực 2,5 Gallon",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "low-pressure",
+      "subCatLabel": "Cấp liệu áp lực thấp",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/PET-10-A1.jpg",
+      "shortDesc": "Bình áp lực cỡ lớn 2,5 gallon, lót thép không gỉ tháo rời được, hai đồng hồ chỉnh áp độc lập.",
+      "lead": "PET-10 là bình cấp sơn áp lực hạng nặng dung tích 2,5 gallon, có lớp lót trong bằng thép không gỉ tháo rời được cùng ống hút thép không gỉ, giúp vệ sinh nhanh và dùng được cho cả sơn gốc dung môi lẫn gốc nước với bất kỳ súng phun áp lực nào của Anest Iwata.",
+      "features": [
+        [
+          "🛡️",
+          "Lớp lót trong bằng thép không gỉ, tháo rời để vệ sinh dễ dàng"
+        ],
+        [
+          "🎨",
+          "Dùng được cho cả sơn gốc dung môi và gốc nước"
+        ],
+        [
+          "🎛️",
+          "Hai đồng hồ điều áp độc lập cho khí và chất lỏng"
+        ],
+        [
+          "🔌",
+          "Đầu nối khí 1/4\", đầu nối chất lỏng 3/8\""
+        ],
+        [
+          "⚙️",
+          "Áp suất làm việc tối đa 58 psi"
+        ]
+      ],
+      "specs": {
+        "Dung tích": "2,5 gallon (~9,5 lít)",
+        "Lớp lót trong": "Thép không gỉ, tháo rời được",
+        "Áp suất làm việc tối đa": "58 psi",
+        "Đầu nối khí": "1/4\"",
+        "Đầu nối chất lỏng": "3/8\""
+      },
+      "applications": [
+        "Xưởng sơn công nghiệp cần dung tích lớn",
+        "Phun sơn gốc nước lẫn gốc dung môi trên cùng một bình"
+      ],
+      "why": "Lớp lót thép không gỉ tháo rời là điểm khác biệt lớn nhất — giúp vệ sinh triệt để khi đổi màu hoặc đổi loại sơn, điều mà bình nhôm liền khối khó làm được."
+    },
+    {
+      "slug": "icon-m433n-m333n",
+      "name": "iCon-M433N 36:1 & iCon-M333N 32:1",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "medium-high-pressure",
+      "subCatLabel": "Cấp liệu áp lực trung bình & cao",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/02/iCon-4333-and-3333-A1.jpg",
+      "shortDesc": "Bơm cấp liệu đa năng iCon, kết hợp ưu điểm airless (nhanh, ít hao sơn) và air-spray (mịn) — tỉ số 36:1/32:1.",
+      "lead": "Dòng bơm iCon-M433N (tỉ số nén 36:1) và iCon-M333N (32:1) kết hợp ưu điểm của công nghệ airless — tốc độ cao, ít sơn bay hao — với ưu điểm của air spray truyền thống là lớp phủ mịn, phù hợp nhiều ứng dụng khác nhau khi dùng cùng súng tự động air-assisted hoặc súng tay MSGS-200.",
+      "features": [
+        [
+          "⚙️",
+          "Tỉ số áp lực 36:1 (M433N) hoặc 32:1 (M333N)"
+        ],
+        [
+          "🔩",
+          "Vòng đệm (packing) tự điều chỉnh, giảm mài mòn xy-lanh"
+        ],
+        [
+          "🛡️",
+          "Toàn bộ chi tiết tiếp xúc chất lỏng bằng thép không gỉ, chịu được dung môi và sơn gốc nước"
+        ],
+        [
+          "🎯",
+          "Động cơ khí có van pilot tác động kép, hoạt động bền bỉ trong điều kiện xưởng khắc nghiệt"
+        ],
+        [
+          "✨",
+          "Chi tiết bên trong mạ crom cứng, giảm ma sát, tăng độ bền"
+        ],
+        [
+          "💎",
+          "Đế van chất lỏng bằng carbide, tăng tuổi thọ vận hành"
+        ],
+        [
+          "📐",
+          "Lắp xe đẩy hoặc treo tường, có thể lắp thêm phễu tuỳ chọn"
+        ]
+      ],
+      "specs": {
+        "Tỉ số áp lực": "36:1 (M433N) / 32:1 (M333N)",
+        "Vật liệu tiếp xúc chất lỏng": "Thép không gỉ toàn bộ",
+        "Đế van chất lỏng": "Carbide",
+        "Chi tiết bên trong": "Mạ crom cứng",
+        "Kiểu lắp đặt": "Xe đẩy hoặc treo tường, phễu tuỳ chọn"
+      },
+      "applications": [
+        "Dây chuyền phun sơn tự động",
+        "Xưởng sơn công nghiệp lưu lượng lớn",
+        "Phun sơn gốc dung môi và gốc nước"
+      ],
+      "why": "Khi cần vừa tốc độ phun nhanh của công nghệ airless vừa chất lượng mịn của air-spray, dòng iCon là lựa chọn cân bằng tốt nhất trong danh mục cấp liệu áp lực cao của Anest Iwata."
+    },
+    {
+      "slug": "icon-m233n",
+      "name": "iCon-M233N 30:1",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "medium-high-pressure",
+      "subCatLabel": "Cấp liệu áp lực trung bình & cao",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/02/iCon-X-3-A1.jpg",
+      "shortDesc": "Bơm cấp liệu iCon tỉ số 30:1, phiên bản nhỏ hơn trong họ iCon, cùng công nghệ air-assisted airless.",
+      "lead": "iCon-M233N là bản tỉ số nén 30:1 trong họ bơm iCon, phù hợp các ứng dụng cần lưu lượng vừa phải nhưng vẫn muốn tận dụng ưu điểm kết hợp airless và air-spray của công nghệ iCon.",
+      "features": [
+        [
+          "⚙️",
+          "Tỉ số áp lực 30:1"
+        ],
+        [
+          "🔩",
+          "Vòng đệm tự điều chỉnh, giảm mài mòn xy-lanh"
+        ],
+        [
+          "🛡️",
+          "Chi tiết tiếp xúc chất lỏng bằng thép không gỉ"
+        ],
+        [
+          "🎯",
+          "Động cơ khí van pilot tác động kép, độ tin cậy cao"
+        ],
+        [
+          "✨",
+          "Nội thất mạ crom cứng, giảm ma sát"
+        ]
+      ],
+      "specs": {
+        "Tỉ số áp lực": "30:1",
+        "Vật liệu tiếp xúc chất lỏng": "Thép không gỉ",
+        "Chi tiết bên trong": "Mạ crom cứng"
+      },
+      "applications": [
+        "Xưởng sơn công nghiệp vừa",
+        "Phun sơn gốc dung môi và gốc nước với lưu lượng vừa phải"
+      ],
+      "why": "Với xưởng chưa cần tỉ số nén cao như M433N/M333N, iCon-M233N vẫn mang lại độ ổn định và tuổi thọ tương đương nhưng đầu tư nhẹ nhàng hơn."
+    },
+    {
+      "slug": "alg-7-alg-72-alg-73",
+      "name": "ALG-7 | ALG-72 | ALG-73",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "medium-high-pressure",
+      "subCatLabel": "Cấp liệu áp lực trung bình & cao",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/ALG-7-MAIN.jpg",
+      "shortDesc": "Súng phun airless, hiệu suất chuyển sơn trên 95%, giảm hao sơn và overspray đáng kể.",
+      "lead": "ALG-7 là súng phun airless lý tưởng cho các ứng dụng cần phun nhanh nhưng vẫn hiệu quả với cả sơn gốc nước và gốc dung môi. Với hiệu suất chuyển sơn (transfer efficiency) trên 95%, lượng sơn bay hao (overspray) và lãng phí vật liệu giảm đáng kể so với súng phun thông thường.",
+      "features": [
+        [
+          "🎯",
+          "Hiệu suất chuyển sơn trên 95%"
+        ],
+        [
+          "💨",
+          "Công nghệ airless cho tốc độ phun nhanh"
+        ],
+        [
+          "🎨",
+          "Dùng được cho cả sơn gốc nước và gốc dung môi"
+        ],
+        [
+          "♻️",
+          "Giảm đáng kể lượng sơn hao phí do overspray"
+        ]
+      ],
+      "specs": {
+        "Công nghệ phun": "Airless",
+        "Hiệu suất chuyển sơn": "> 95%",
+        "Loại vật liệu": "Gốc nước và gốc dung môi"
+      },
+      "applications": [
+        "Phun sơn công nghiệp diện tích lớn",
+        "Sơn kết cấu thép, khung nhà xưởng",
+        "Ứng dụng cần tối ưu chi phí vật liệu sơn"
+      ],
+      "why": "Khi chi phí sơn hao phí do overspray là mối lo lớn, hiệu suất chuyển sơn trên 95% của ALG-7 giúp tiết kiệm vật liệu rõ rệt trên các bề mặt lớn."
+    },
+    {
+      "slug": "msgs-200",
+      "name": "MSGS-200",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "medium-high-pressure",
+      "subCatLabel": "Cấp liệu áp lực trung bình & cao",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/MSGS-200-MAIN1.jpg",
+      "shortDesc": "Súng phun tay đa năng kết hợp airless và air-spray, thân mạ crom, cầm nhẹ tay, ít mỏi cổ tay.",
+      "lead": "MSGS-200 kết hợp ưu điểm tốc độ và ít hao sơn của công nghệ airless với chất lượng hoàn thiện mịn của công nghệ air-spray truyền thống, cho hiệu suất chuyển sơn cao cùng chất lượng bề mặt tốt. Súng được cân bằng trọng lượng kỹ, cò bóp nhẹ, giảm mỏi tay khi dùng liên tục.",
+      "features": [
+        [
+          "⚡",
+          "Kết hợp công nghệ airless và air-spray, hiệu suất chuyển sơn cao"
+        ],
+        [
+          "✋",
+          "Cò bóp nhẹ, thiết kế cân bằng tốt, giảm mỏi tay"
+        ],
+        [
+          "✨",
+          "Thân súng mạ crom, dễ vệ sinh và bảo trì"
+        ],
+        [
+          "🔄",
+          "Xoay chụp khí (air cap) nhanh, thao tác đơn giản"
+        ],
+        [
+          "🛡️",
+          "Vòng đệm PTFE và bảo vệ nhựa giúp chỉnh chụp khí chính xác, dễ dàng"
+        ]
+      ],
+      "specs": {
+        "Công nghệ phun": "Kết hợp airless + air-spray",
+        "Thân súng": "Mạ crom",
+        "Vòng đệm": "PTFE"
+      },
+      "applications": [
+        "Phun sơn công nghiệp thủ công cần tốc độ và chất lượng cao",
+        "Sử dụng liên tục nhiều giờ trong ca làm việc"
+      ],
+      "why": "Thợ sơn thao tác súng liên tục nhiều giờ mỗi ngày, và trọng lượng cân bằng cùng cò bóp nhẹ của MSGS-200 giúp giảm mỏi tay rõ rệt so với súng phun áp lực thông thường."
+    },
+    {
+      "slug": "msu-11n-32n",
+      "name": "MSU 11N 13:1 | MSU 32N 17:1",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "medium-high-pressure",
+      "subCatLabel": "Cấp liệu áp lực trung bình & cao",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/MSU-11N-32N-MAIN.jpg",
+      "shortDesc": "Cụm bơm cấp liệu tỉ số 13:1/17:1, đi kèm bộ lọc, ống hồi lưu và van an toàn quá áp.",
+      "lead": "MSU 11N (tỉ số 13:1) và MSU 32N (tỉ số 17:1) là cụm bơm cấp liệu sơn được trang bị đầy đủ phụ kiện đi kèm để vận hành ổn định ngay khi lắp đặt: bộ điều áp khí, bộ lọc sơn, ống hút có lọc và ống hồi lưu chất lỏng.",
+      "features": [
+        [
+          "🎛️",
+          "Có sẵn bộ điều áp khí (air regulator)"
+        ],
+        [
+          "🧹",
+          "Bộ lọc sơn (paint filter unit) tích hợp"
+        ],
+        [
+          "🧲",
+          "Ống hút có lọc (dip tube with filter)"
+        ],
+        [
+          "🔄",
+          "Ống hồi lưu chất lỏng (fluid recirculation hose)"
+        ],
+        [
+          "🛑",
+          "Van an toàn quá áp (overpressure valve)"
+        ]
+      ],
+      "specs": {
+        "Tỉ số áp lực": "13:1 (MSU 11N) / 17:1 (MSU 32N)",
+        "Phụ kiện đi kèm": "Bộ điều áp, lọc sơn, ống hút lọc, ống hồi lưu, van quá áp"
+      },
+      "applications": [
+        "Xưởng sơn công nghiệp cần bơm trọn bộ, lắp đặt nhanh",
+        "Dây chuyền cần kiểm soát áp lực chặt chẽ"
+      ],
+      "why": "Vì đã tích hợp sẵn bộ lọc, ống hồi lưu và van an toàn, MSU 11N/32N giúp giảm chi phí và thời gian mua sắm phụ kiện rời khi triển khai hệ thống mới."
+    },
+    {
+      "slug": "msu-323-423",
+      "name": "MSU-323 C | MSU-323 CTX | MSU-423 TX | MSU-433 TX",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "medium-high-pressure",
+      "subCatLabel": "Cấp liệu áp lực trung bình & cao",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/MSU-323-423-MAIN.jpg",
+      "shortDesc": "Cụm bơm cấp liệu gắn xe đẩy, dùng cho cả sơn gốc dung môi và gốc nước, có ống chống rung tuỳ chọn.",
+      "lead": "Họ bơm MSU-323/423 được lắp sẵn trên xe đẩy cùng đầy đủ phụ kiện vận hành, phù hợp cả sơn gốc dung môi lẫn gốc nước, có tuỳ chọn thêm ống chống rung xung (antipulsation hose) để dòng sơn ra càng ổn định hơn.",
+      "features": [
+        [
+          "🛒",
+          "Lắp sẵn trên xe đẩy, di chuyển linh hoạt trong xưởng"
+        ],
+        [
+          "🎨",
+          "Dùng được cho cả sơn gốc dung môi và gốc nước"
+        ],
+        [
+          "🎛️",
+          "Có sẵn bộ điều áp khí, bộ lọc sơn, ống hút lọc, ống hồi lưu, van quá áp"
+        ],
+        [
+          "🌊",
+          "Tuỳ chọn ống chống rung xung (antipulsation hose)"
+        ]
+      ],
+      "specs": {
+        "Kiểu lắp đặt": "Xe đẩy (cart mount)",
+        "Loại vật liệu": "Gốc dung môi và gốc nước",
+        "Phụ kiện tuỳ chọn": "Ống chống rung xung (antipulsation hose)"
+      },
+      "applications": [
+        "Xưởng sơn cần di chuyển bơm giữa nhiều trạm làm việc",
+        "Ứng dụng cần dòng sơn cực ổn định, không rung xung"
+      ],
+      "why": "Bánh xe đẩy giúp một cụm bơm phục vụ được nhiều trạm phun trong xưởng thay vì phải lắp cố định nhiều bơm riêng lẻ."
+    },
+    {
+      "slug": "als-333-433",
+      "name": "ALS-333 C | ALS-423 TX | ALS-433 C | ALS-433 TX",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "medium-high-pressure",
+      "subCatLabel": "Cấp liệu áp lực trung bình & cao",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/ALS-333-ALS-433-ALS-423-MAIN.jpg",
+      "shortDesc": "Cụm bơm cấp liệu gắn xe đẩy tương tự dòng MSU, dùng cho sơn gốc dung môi và gốc nước.",
+      "lead": "ALS-333/423/433 là một họ bơm cấp liệu khác lắp trên xe đẩy, cấu hình phụ kiện tương tự dòng MSU (bộ điều áp, lọc sơn, ống hút lọc, ống hồi lưu, van quá áp), phù hợp cả sơn gốc dung môi và gốc nước, có tuỳ chọn ống chống rung xung.",
+      "features": [
+        [
+          "🛒",
+          "Lắp sẵn trên xe đẩy"
+        ],
+        [
+          "🎨",
+          "Dùng cho cả sơn gốc dung môi và gốc nước"
+        ],
+        [
+          "🎛️",
+          "Đầy đủ phụ kiện: điều áp khí, lọc sơn, ống hút lọc, ống hồi lưu, van quá áp"
+        ],
+        [
+          "🌊",
+          "Tuỳ chọn ống chống rung xung"
+        ]
+      ],
+      "specs": {
+        "Kiểu lắp đặt": "Xe đẩy (cart mount)",
+        "Loại vật liệu": "Gốc dung môi và gốc nước",
+        "Phụ kiện tuỳ chọn": "Ống chống rung xung"
+      },
+      "applications": [
+        "Xưởng sơn công nghiệp cần bơm cấp liệu di động",
+        "Kết hợp với súng airless ALG-7"
+      ],
+      "why": "Đây là lựa chọn thay thế/bổ sung cho dòng MSU khi cần thêm cụm bơm cấp liệu di động trong cùng hệ thống nhà máy."
+    },
+    {
+      "slug": "pt-10d-80d",
+      "name": "PT-10D | PT-20D | PT-40D | PT-60D | PT-80D",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "pump-accessories",
+      "subCatLabel": "Bồn chứa & phụ kiện bơm",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/PT-D-MAIN.jpg",
+      "shortDesc": "Bồn chứa sơn dung tích 10–80 lít, có bản khuấy khí nén hoặc bản không khuấy.",
+      "lead": "Họ bồn chứa PT-D có dải dung tích rộng từ 10 đến 80 lít, đáp ứng nhiều quy mô xưởng khác nhau, với tuỳ chọn cấu hình khuấy bằng khí nén hoặc không khuấy. Hệ thống nắp đậy được gia công chính xác giúp thao tác đóng/mở, tiếp liệu dễ dàng.",
+      "features": [
+        [
+          "📏",
+          "Dải dung tích từ 10L đến 80L"
+        ],
+        [
+          "🌀",
+          "Có bản khuấy khí nén hoặc bản thủ công (không khuấy)"
+        ],
+        [
+          "🔧",
+          "Hệ thống nắp đậy gia công chính xác, dễ mở để tiếp liệu, vệ sinh"
+        ]
+      ],
+      "specs": {
+        "Dải dung tích": "10L – 80L",
+        "Cấu hình": "Khuấy khí nén hoặc không khuấy",
+        "Nắp đậy": "Gia công chính xác, thao tác nhanh"
+      },
+      "applications": [
+        "Cấp liệu cho hệ thống bơm iCon/MSU/ALS",
+        "Xưởng cần trữ lượng sơn lớn tại chỗ"
+      ],
+      "why": "Việc có nhiều mức dung tích từ 10L đến 80L giúp bạn chọn đúng quy mô bồn theo sản lượng thực tế của xưởng, tránh lãng phí hoặc thiếu hụt."
+    },
+    {
+      "slug": "pt-10dm-80dm",
+      "name": "PT-10DM | PT-20DM | PT-40DM | PT-60DM | PT-80DM",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "pump-accessories",
+      "subCatLabel": "Bồn chứa & phụ kiện bơm",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/PT-10DM-A1.jpg",
+      "shortDesc": "Phiên bản khác của bồn chứa PT-D, cùng dải dung tích 10–80 lít.",
+      "lead": "PT-DM là biến thể khác của họ bồn chứa PT-D, cùng dải dung tích 10–80 lít và cấu hình khuấy khí nén hoặc không khuấy, khác về kiểu kết nối/phụ kiện đi kèm để tương thích với các cụm bơm khác nhau trong hệ thống.",
+      "features": [
+        [
+          "📏",
+          "Dải dung tích từ 10L đến 80L"
+        ],
+        [
+          "🌀",
+          "Có bản khuấy khí nén hoặc bản thủ công"
+        ],
+        [
+          "🔧",
+          "Nắp đậy gia công chính xác, dễ thao tác"
+        ]
+      ],
+      "specs": {
+        "Dải dung tích": "10L – 80L",
+        "Cấu hình": "Khuấy khí nén hoặc không khuấy"
+      },
+      "applications": [
+        "Cấp liệu cho hệ thống bơm cỡ trung và lớn",
+        "Thay thế/mở rộng hệ thống bồn hiện có"
+      ],
+      "why": "Cùng dải dung tích với PT-D nhưng khác kiểu kết nối, PT-DM là lựa chọn khi cần tương thích với cụm bơm hoặc đường ống đã lắp đặt sẵn."
+    },
+    {
+      "slug": "pet-10n-mn-50n-mn",
+      "name": "PET-10N/MN | PET-30N/MN | PET-50N/MN",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "pump-accessories",
+      "subCatLabel": "Bồn chứa & phụ kiện bơm",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/PET-N-NM_MAIN.jpg",
+      "shortDesc": "Bồn chứa thép không gỉ đánh bóng bên trong, dải dung tích 10–50 lít, có bản khuấy 3 piston êm.",
+      "lead": "PET-N/MN là dòng bồn chứa thân thép không gỉ với bề mặt trong đánh bóng cùng ống hút bằng thép không gỉ, có dải dung tích từ 10 đến 50 lít, cả bản khuấy và không khuấy. Bản khuấy (MN) dùng cơ cấu khuấy ba piston vận hành êm và hiệu quả.",
+      "features": [
+        [
+          "🛡️",
+          "Thân thép không gỉ, bề mặt trong đánh bóng"
+        ],
+        [
+          "🧲",
+          "Ống hút bằng thép không gỉ"
+        ],
+        [
+          "📏",
+          "Dải dung tích 10L – 50L"
+        ],
+        [
+          "🌀",
+          "Bản MN dùng cơ cấu khuấy 3 piston, vận hành êm và hiệu quả"
+        ]
+      ],
+      "specs": {
+        "Chất liệu": "Thép không gỉ, bên trong đánh bóng",
+        "Dải dung tích": "10L – 50L",
+        "Cơ cấu khuấy (bản MN)": "3 piston, vận hành êm"
+      },
+      "applications": [
+        "Sơn cần độ đồng nhất cao khi khuấy liên tục",
+        "Ứng dụng yêu cầu vệ sinh nghiêm ngặt (bồn thép không gỉ dễ làm sạch hơn nhôm)"
+      ],
+      "why": "Thân thép không gỉ đánh bóng bên trong giúp bồn PET-N/MN bền hơn với hóa chất mạnh và dễ vệ sinh triệt để hơn so với bồn nhôm thông thường."
+    },
+    {
+      "slug": "icon-flatline",
+      "name": "iCon Flatline Coating System",
+      "category": "fluid",
+      "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
+      "subCat": "medium-high-pressure",
+      "subCatLabel": "Cấp liệu áp lực trung bình & cao",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/Flatline-System-A1.jpg",
+      "shortDesc": "Hệ thống cấp liệu iCon cho dây chuyền sơn phẳng (flatline), tỉ số 32:1/36:1, tích hợp nhiều súng tự động.",
+      "lead": "iCon Flatline Coating System là cấu hình chuyên biệt của dòng iCon dành cho dây chuyền sơn tấm phẳng (flatline), có hai tỉ số áp lực 32:1 và 36:1, phù hợp cả sơn gốc nước lẫn gốc dung môi. Hệ thống đảm bảo hiệu suất đồng đều khi kết nối cùng lúc nhiều súng phun tự động — điều quan trọng với dây chuyền sản xuất liên tục.",
+      "features": [
+        [
+          "🔗",
+          "Tích hợp liền mạch với nhiều súng phun tự động cùng lúc"
+        ],
+        [
+          "🧹",
+          "Bộ lọc ngoài và van hồi lưu giúp mồi bơm, vệ sinh nhanh"
+        ],
+        [
+          "🎨",
+          "Dùng được cho sơn gốc nước và gốc dung môi"
+        ],
+        [
+          "⚙️",
+          "Có hai tỉ số áp lực 32:1 hoặc 36:1"
+        ],
+        [
+          "🎛️",
+          "Tuỳ chọn thêm bộ điều áp cao cấp để kiểm soát áp lực chính xác"
+        ]
+      ],
+      "specs": {
+        "Tỉ số áp lực": "32:1 hoặc 36:1",
+        "Loại vật liệu": "Gốc nước và gốc dung môi",
+        "Ứng dụng chính": "Dây chuyền sơn tấm phẳng (flatline)"
+      },
+      "applications": [
+        "Dây chuyền sơn phẳng công nghiệp (panel, tấm ván)",
+        "Nhà máy sản xuất liên tục nhiều súng tự động"
+      ],
+      "why": "Khi dây chuyền của bạn có nhiều súng phun tự động chạy song song trên một băng chuyền phẳng, iCon Flatline đảm bảo áp lực đồng đều tới từng súng — tránh tình trạng lớp phủ không đồng nhất giữa các vị trí."
+    },
+    {
+      "slug": "ls-400-series2-base",
+      "name": "LS-400 Series 2 Base",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "auto-refinish",
+      "subCatLabel": "Sơn sửa chữa ô tô",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2023/08/LS-400-Series-2-A1_ALL.jpg",
+      "shortDesc": "Súng phun HVLP cao cấp cho lớp sơn màu nền, phun đều dù thời tiết hay điều kiện xưởng khác nhau.",
+      "lead": "LS-400 Series 2 Base là súng phun HVLP cao cấp của Anest Iwata, cho khả năng tán sương đồng đều nhờ công nghệ đầu vòi kép Split Nozzle™ 2.0, phù hợp sơn màu nền gốc dung môi lẫn gốc nước. Súng hoạt động ổn định trong nhiều điều kiện khí hậu và môi trường xưởng khác nhau, kèm nhiều tuỳ chọn cỡ vòi phun để tối ưu theo loại sơn.",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🎯",
+          "Công nghệ đầu vòi kép Split Nozzle™ 2.0 cho kết quả lặp lại ổn định"
+        ],
+        [
+          "🎨",
+          "Phù hợp nhiều loại sơn nền gốc dung môi và gốc nước"
+        ],
+        [
+          "🔧",
+          "Nhiều cỡ vòi phun tối ưu theo loại sơn và điều kiện thời tiết"
+        ],
+        [
+          "📟",
+          "Tương thích bộ điều áp số DPG-1 tuỳ chọn, chỉnh áp không ảnh hưởng thao tác cầm súng"
+        ]
+      ],
+      "specs": {
+        "Công nghệ": "HVLP, Split Nozzle™ 2.0",
+        "Loại sơn phù hợp": "Sơn nền gốc dung môi & gốc nước",
+        "Phụ kiện tuỳ chọn": "Bộ điều áp số DPG-1"
+      },
+      "applications": [
+        "Sơn màu nền ô tô",
+        "Xưởng sơn sửa chữa chuyên nghiệp"
+      ],
+      "why": "Nếu xưởng bạn cần một súng sơn nền ổn định trong nhiều điều kiện khí hậu khác nhau, Split Nozzle™ 2.0 trên LS-400 Series 2 giúp kết quả phun luôn lặp lại chính xác giữa các lượt phun."
+    },
+    {
+      "slug": "ws-400-series2-base",
+      "name": "WS-400 Series 2 Base",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "auto-refinish",
+      "subCatLabel": "Sơn sửa chữa ô tô",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2023/11/WS-400-Series-2-Base-A1.jpg",
+      "shortDesc": "Súng phun đạt chuẩn khí thải EPA, tối ưu cho công nghệ sơn nền gốc nước thế hệ mới.",
+      "lead": "WS-400 Series 2 Base được thiết kế hướng tới tương lai của công nghệ sơn ướt-trên-ướt (wet-on-wet) gốc nước, cho lõi phun trung tâm nhanh, đậm và kiểm soát vật liệu tối ưu. Súng đạt chuẩn khí thải EPA NESHAP 40 CFR Part 63 Subpart 6H của Mỹ.",
+      "features": [
+        [
+          "✅",
+          "Đạt chuẩn khí thải EPA NESHAP 40 CFR Part 63 Subpart 6H"
+        ],
+        [
+          "🎯",
+          "Công nghệ đầu vòi kép Split Nozzle™ 2.0"
+        ],
+        [
+          "🎨",
+          "Tối ưu cho sơn nền gốc nước lẫn gốc dung môi"
+        ],
+        [
+          "🔧",
+          "Nhiều cấu hình vòi phun theo loại sơn và khí hậu"
+        ],
+        [
+          "📟",
+          "Tương thích bộ điều áp số DPG-1 tuỳ chọn"
+        ]
+      ],
+      "specs": {
+        "Chuẩn khí thải": "EPA NESHAP 40 CFR Part 63 Subpart 6H",
+        "Công nghệ": "Split Nozzle™ 2.0",
+        "Loại sơn phù hợp": "Sơn nền gốc nước & dung môi"
+      },
+      "applications": [
+        "Sơn màu nền công nghệ wet-on-wet gốc nước",
+        "Xưởng sơn ô tô đạt chuẩn khí thải"
+      ],
+      "why": "Với xu hướng chuyển sang sơn gốc nước ngày càng phổ biến, WS-400 Series 2 Base vừa đáp ứng chuẩn khí thải khắt khe vừa giữ tốc độ và chất lượng phun."
+    },
+    {
+      "slug": "ws-400-series2-clear",
+      "name": "WS-400 Series 2 Clear",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "auto-refinish",
+      "subCatLabel": "Sơn sửa chữa ô tô",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2023/11/WS-400-Series-2-Clear-A1.jpg",
+      "shortDesc": "Súng phun sơn bóng (clear coat) chuẩn mới, tán sương mịn tốc độ cao cho bề mặt như gương.",
+      "lead": "WS-400 Series 2 Clear là chuẩn mực mới cho lớp sơn bóng hoàn thiện, với khả năng tán sương mịn, tốc độ phun cao. Súng giúp đạt chất lượng bề mặt từ chuẩn OEM đến hiệu ứng bóng gương trong khi tiết kiệm vật liệu, thời gian và năng lượng.",
+      "features": [
+        [
+          "✅",
+          "Đạt chuẩn khí thải EPA NESHAP 40 CFR Part 63 Subpart 6H"
+        ],
+        [
+          "🎯",
+          "Công nghệ Split Nozzle™ 2.0 cho kết quả ổn định"
+        ],
+        [
+          "✨",
+          "Phù hợp rộng rãi các ứng dụng sơn bóng (clearcoat)"
+        ],
+        [
+          "🔧",
+          "Nhiều cấu hình vòi phun theo phong cách và tốc độ thao tác"
+        ],
+        [
+          "📟",
+          "Tương thích bộ điều áp số DPG-1 tuỳ chọn"
+        ]
+      ],
+      "specs": {
+        "Chuẩn khí thải": "EPA NESHAP 40 CFR Part 63 Subpart 6H",
+        "Công nghệ": "Split Nozzle™ 2.0",
+        "Ứng dụng chính": "Sơn bóng hoàn thiện (clearcoat)"
+      },
+      "applications": [
+        "Sơn bóng hoàn thiện ô tô cao cấp",
+        "Xưởng sơn cần đạt chuẩn OEM"
+      ],
+      "why": "Khi lớp bóng cuối cùng quyết định vẻ ngoài hoàn thiện của xe, WS-400 Series 2 Clear giúp thợ sơn đạt bề mặt như gương với ít lỗi cần sửa lại hơn."
+    },
+    {
+      "slug": "ffs-sealed-spray-cup",
+      "name": "FFS Sealed Spray Cup",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "accessories",
+      "subCatLabel": "Phụ kiện & Cốc phun",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/02/FFS-Cups_4.png",
+      "shortDesc": "Hệ thống cốc phun kín Fast Flow System — pha sơn, phun và lưu trữ trong cùng một cốc, giảm thời gian dọn dẹp.",
+      "lead": "Fast Flow System (FFS) là giải pháp cốc phun kín toàn diện cho thợ sơn chuyên nghiệp: pha sơn, phun và lưu trữ đều thực hiện trong cùng một cốc dùng một lần, giúp giảm đáng kể thời gian vệ sinh sau mỗi lượt phun. Lớp lót gia cường và nắp lưu trữ tiện lợi giúp bảo quản sơn dư mà không lo tràn đổ.",
+      "features": [
+        [
+          "🌊",
+          "Miệng cốc rộng, dòng sơn chảy đều hơn"
+        ],
+        [
+          "🛡️",
+          "Lớp lót gia cường, không lẫn cặn vật liệu"
+        ],
+        [
+          "🔌",
+          "Nắp lưu trữ chắc chắn, để ngược cốc mà không lo tràn"
+        ],
+        [
+          "🧴",
+          "Pha sơn – phun – lưu trữ chỉ trong một cốc duy nhất"
+        ],
+        [
+          "🧹",
+          "Giảm đáng kể thời gian vệ sinh sau khi phun"
+        ]
+      ],
+      "specs": {
+        "Công dụng": "Pha trộn – phun – lưu trữ sơn trong một cốc",
+        "Đối tượng dùng": "Thợ sơn ô tô, sơn công nghiệp"
+      },
+      "applications": [
+        "Sơn sửa chữa ô tô",
+        "Sơn công nghiệp cần thao tác nhanh gọn"
+      ],
+      "why": "FFS giúp tiết kiệm thời gian dọn rửa cốc sau mỗi lần đổi màu sơn — điều mà thợ sơn bận rộn tại xưởng dịch vụ luôn đánh giá cao."
+    },
+    {
+      "slug": "ls-400-supernova-entech",
+      "name": "LS-400 Supernova Entech",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "auto-refinish",
+      "subCatLabel": "Sơn sửa chữa ô tô",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/01/LS-400-SUPERNOVA-A1.jpg",
+      "shortDesc": "Súng HVLP cao cấp, tán sương tập trung, dành cho sơn nền gốc dung môi và gốc nước.",
+      "lead": "LS-400 Supernova Entech là súng phun HVLP cao cấp với khả năng tán sương tập trung, phù hợp lý tưởng cho sơn nền gốc dung môi hoặc gốc nước, sử dụng công nghệ Split Nozzle™ đã được kiểm chứng giúp tiết kiệm vật liệu.",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🎯",
+          "Công nghệ Split Nozzle™ tiết kiệm vật liệu"
+        ],
+        [
+          "🎨",
+          "Phù hợp sơn nền gốc dung môi và gốc nước"
+        ],
+        [
+          "🌸",
+          "Vệt phun rộng (large fan pattern)"
+        ],
+        [
+          "📈",
+          "Hiệu suất chuyển sơn vượt trội"
+        ],
+        [
+          "🧹",
+          "Bề mặt súng chất lượng cao, dễ vệ sinh"
+        ]
+      ],
+      "specs": {
+        "Công nghệ": "HVLP, Split Nozzle™",
+        "Loại sơn phù hợp": "Sơn nền gốc dung môi & gốc nước"
+      },
+      "applications": [
+        "Sơn màu nền ô tô",
+        "Xưởng sơn sửa chữa vừa và nhỏ"
+      ],
+      "why": "Là phiên bản tiền nhiệm của dòng Series 2, Supernova Entech vẫn là lựa chọn đáng tin cậy cho xưởng cần súng sơn nền chất lượng cao với chi phí hợp lý hơn."
+    },
+    {
+      "slug": "ws-400-supernova-evotech",
+      "name": "WS-400 Supernova Evotech",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "auto-refinish",
+      "subCatLabel": "Sơn sửa chữa ô tô",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/01/WS-400HD-SUPERNOVA-A1.jpg",
+      "shortDesc": "Súng phun sơn bóng cao cấp, tán sương mịn tập trung, tiêu chuẩn của thợ sơn ô tô chuyên nghiệp.",
+      "lead": "WS-400 Supernova Evotech là súng phun sơn bóng (clearcoat) cao cấp, dùng công nghệ Split Nozzle™ cho hiệu suất chuyển sơn và độ tán sương vượt trội — vật bất ly thân của thợ sơn ô tô chuyên nghiệp làm việc toàn thời gian.",
+      "features": [
+        [
+          "✅",
+          "Đạt chuẩn khí thải EPA NESHAP 40 CFR Part 63 Subpart 6H"
+        ],
+        [
+          "🎯",
+          "Công nghệ Split Nozzle™ đã được kiểm chứng"
+        ],
+        [
+          "✨",
+          "Tán sương mịn, tập trung"
+        ],
+        [
+          "🌷",
+          "Vệt phun hình tulip rộng"
+        ],
+        [
+          "🏆",
+          "Tiêu chuẩn dùng cho sơn bóng trong ngành sơn sửa chữa ô tô"
+        ],
+        [
+          "📈",
+          "Hiệu suất chuyển sơn vượt trội"
+        ]
+      ],
+      "specs": {
+        "Chuẩn khí thải": "EPA NESHAP 40 CFR Part 63 Subpart 6H",
+        "Công nghệ": "Split Nozzle™",
+        "Ứng dụng chính": "Sơn bóng hoàn thiện"
+      },
+      "applications": [
+        "Sơn bóng ô tô chuyên nghiệp",
+        "Xưởng dịch vụ sơn toàn thời gian"
+      ],
+      "why": "Được xem là tiêu chuẩn ngành cho lớp bóng hoàn thiện, đây là lựa chọn phù hợp cho những xưởng sơn hoạt động với tần suất cao mỗi ngày."
+    },
+    {
+      "slug": "lph-400-lv",
+      "name": "LPH-400-LV",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/02/LPH-400-LV-A1.jpg",
+      "shortDesc": "Súng HVLP tán sương mịn, lý tưởng cho sơn bóng và sơn một lớp, phù hợp cả người mới lẫn thợ lành nghề.",
+      "lead": "LPH-400-LV cho khả năng tán sương mịn, rất phù hợp với sơn bóng (clearcoat) và sơn một lớp (single stage). Đây là lựa chọn cân bằng, dễ làm quen cho thợ sơn mới vào nghề nhưng vẫn đủ chính xác cho thợ sơn ô tô lâu năm.",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🎯",
+          "Công nghệ Split Nozzle™ tiết kiệm vật liệu"
+        ],
+        [
+          "✨",
+          "Lý tưởng cho sơn bóng và sơn một lớp"
+        ],
+        [
+          "🧹",
+          "Bề mặt chất lượng cao, dễ vệ sinh"
+        ],
+        [
+          "🔧",
+          "Ít chi tiết hao mòn, bảo trì đơn giản"
+        ]
+      ],
+      "specs": {
+        "Công nghệ": "HVLP, Split Nozzle™",
+        "Ứng dụng chính": "Sơn bóng và sơn một lớp"
+      },
+      "applications": [
+        "Sơn bóng ô tô",
+        "Sơn một lớp (single stage)"
+      ],
+      "why": "Phù hợp cả người mới học nghề lẫn thợ lâu năm nhờ độ dễ kiểm soát cao mà vẫn cho kết quả tán sương chuyên nghiệp."
+    },
+    {
+      "slug": "lph-400-lvx",
+      "name": "LPH-400-LVX",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/02/LPH-400-LVX-A1.jpg",
+      "shortDesc": "Súng đa năng, phun tốt cả sơn nhũ hạt thô, sơn màu đặc và màu xà cừ.",
+      "lead": "LPH-400-LVX là một trong những súng linh hoạt nhất trong danh mục, phun tốt cả sơn nhũ (metallic) hạt thô lẫn sơn màu đặc (solid) và màu xà cừ (pearl) với kết quả hoàn hảo mỗi lần sử dụng — phù hợp cả người mới lẫn thợ sơn lâu năm.",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🎯",
+          "Công nghệ Split Nozzle™ tiết kiệm vật liệu"
+        ],
+        [
+          "🎨",
+          "Dùng đa năng cho nhiều loại sơn khác nhau"
+        ],
+        [
+          "🧹",
+          "Bề mặt chất lượng cao, dễ vệ sinh"
+        ],
+        [
+          "🔧",
+          "Ít chi tiết hao mòn, bảo trì đơn giản"
+        ]
+      ],
+      "specs": {
+        "Công nghệ": "HVLP, Split Nozzle™",
+        "Ứng dụng chính": "Sơn nhũ hạt thô, sơn đặc, sơn xà cừ"
+      },
+      "applications": [
+        "Sơn màu nền đa dạng chất liệu",
+        "Xưởng sơn tổng hợp nhiều loại vật liệu"
+      ],
+      "why": "Nếu xưởng của bạn xử lý nhiều loại sơn khác nhau, LPH-400-LVX giúp giảm số lượng súng cần đầu tư nhờ tính đa năng."
+    },
+    {
+      "slug": "w-400-lv-wbx",
+      "name": "W-400-LV-WBX",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/02/W-400-LV-WBX-A1.jpg",
+      "shortDesc": "Súng chuyên cho lớp sơn lót/sealer cao cấp, vệt phun rộng, giảm phải sơn lại.",
+      "lead": "W-400-LV-WBX được phát triển chuyên biệt cho lớp sơn lót/sealer cao cấp, hoàn thiện không tì vết. Súng vận hành ở áp suất khí thấp nhưng vẫn giữ vệt phun rộng và hiệu suất chuyển sơn cao, giúp giảm số lần phải sơn lại — tiết kiệm thời gian, vật liệu và chi phí.",
+      "features": [
+        [
+          "✅",
+          "Đạt chuẩn khí thải EPA NESHAP 40 CFR Part 63 Subpart 6H"
+        ],
+        [
+          "🎯",
+          "Công nghệ Split Nozzle™ tiết kiệm vật liệu"
+        ],
+        [
+          "🎨",
+          "Phù hợp ứng dụng phun đa dụng"
+        ],
+        [
+          "🔧",
+          "Ít chi tiết hao mòn, bảo trì đơn giản"
+        ]
+      ],
+      "specs": {
+        "Chuẩn khí thải": "EPA NESHAP 40 CFR Part 63 Subpart 6H",
+        "Ứng dụng chính": "Sơn lót / sealer cao cấp"
+      },
+      "applications": [
+        "Sơn lót ô tô trước khi lên màu",
+        "Xưởng cần giảm tỷ lệ sơn lại"
+      ],
+      "why": "Giảm số lần sơn lại đồng nghĩa với tiết kiệm cả vật liệu lẫn thời gian nhân công — đây là lý do W-400-LV-WBX được chọn cho công đoạn lót quan trọng."
+    },
+    {
+      "slug": "wider1l",
+      "name": "WIDER1L",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/02/WIDER1L-A1.jpg",
+      "shortDesc": "Súng phun áp lực nhỏ gọn, lý tưởng cho xưởng nhỏ dùng 1-3 gallon sơn mỗi tuần.",
+      "lead": "WIDER1L là súng phun áp lực phù hợp cả xưởng nhỏ và lớn, thiết kế công thái học nhỏ gọn giúp thao tác nhẹ nhàng trên các dự án cỡ vừa. Với công nghệ Split Nozzle™ cho bề mặt mịn, đây là lựa chọn hợp lý khi mức tiêu thụ sơn khoảng 1-3 gallon mỗi tuần. Cũng có phiên bản súng thường (conventional).",
+      "features": [
+        [
+          "🔫",
+          "Có bản hút đáy (siphon) và trọng lực (gravity), dùng công nghệ Split Nozzle™"
+        ],
+        [
+          "🪶",
+          "Thiết kế nhẹ, công thái học"
+        ],
+        [
+          "🧹",
+          "Dễ bảo trì và vệ sinh"
+        ],
+        [
+          "🎛️",
+          "Chỉnh vệt phun trực quan, dễ thao tác"
+        ],
+        [
+          "🔩",
+          "Đế van khí lớn, lắp ráp ổn định"
+        ],
+        [
+          "🛡️",
+          "Đường dẫn chất lỏng bằng thép không gỉ chống ăn mòn"
+        ]
+      ],
+      "specs": {
+        "Kiểu cấp liệu": "Trọng lực / hút đáy / áp lực",
+        "Công nghệ": "Split Nozzle™",
+        "Mức tiêu thụ khuyến nghị": "1–3 gallon sơn/tuần"
+      },
+      "applications": [
+        "Xưởng sơn quy mô nhỏ",
+        "Dự án sơn cỡ vừa"
+      ],
+      "why": "Kích thước nhỏ gọn giúp WIDER1L thao tác nhẹ nhàng hơn cho những dự án không cần súng cỡ lớn, tiết kiệm sức tay khi dùng liên tục."
+    },
+    {
+      "slug": "wider2l",
+      "name": "WIDER2L",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/02/Wider2L-A1.jpg",
+      "shortDesc": "Súng phun áp lực cỡ đầy đủ, vệt phun rộng, chuyên trị các bề mặt lớn trong công nghiệp.",
+      "lead": "Khi cần phủ sơn diện tích lớn, WIDER2L là lựa chọn phù hợp với thân súng cỡ đầy đủ và vệt phun rộng vượt trội — trở thành thiết bị quen thuộc trong môi trường công nghiệp và các dự án lớn. Công nghệ Split Nozzle™ đảm bảo bề mặt mịn màng mỗi lần phun. Cũng có phiên bản súng thường.",
+      "features": [
+        [
+          "🌸",
+          "Vệt phun rộng, phù hợp bề mặt lớn"
+        ],
+        [
+          "🎯",
+          "Công nghệ Split Nozzle™"
+        ],
+        [
+          "🪶",
+          "Thiết kế nhẹ, công thái học"
+        ],
+        [
+          "🧹",
+          "Dễ bảo trì và vệ sinh"
+        ],
+        [
+          "🔩",
+          "Đế van khí lớn, lắp ráp ổn định"
+        ],
+        [
+          "🛡️",
+          "Đường dẫn chất lỏng bằng thép không gỉ chống ăn mòn"
+        ]
+      ],
+      "specs": {
+        "Kiểu cấp liệu": "Trọng lực / hút đáy / áp lực",
+        "Công nghệ": "Split Nozzle™",
+        "Thân súng": "Cỡ đầy đủ (full-size)"
+      },
+      "applications": [
+        "Sơn diện tích lớn trong công nghiệp",
+        "Dự án sơn quy mô lớn"
+      ],
+      "why": "Khi tốc độ phủ sơn nhanh trên diện tích lớn là ưu tiên hàng đầu, vệt phun rộng của WIDER2L giúp rút ngắn thời gian thi công đáng kể."
+    },
+    {
+      "slug": "lph-300-lv",
+      "name": "LPH-300-LV",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/02/LPH-300-LV-A1.jpg",
+      "shortDesc": "Súng HVLP áp suất khí cực thấp chỉ 14,5 psi, vệt phun tròn, khuyến nghị cho sơn UV.",
+      "lead": "LPH-300-LV nổi bật với vệt phun tròn cho overspray thấp và áp suất khí cấp cực thấp — chỉ 14,5 psi — giúp cầm súng nhẹ nhàng, thoải mái. Đây là lựa chọn được khuyến nghị cho các loại sơn UV.",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🎯",
+          "Công nghệ Split Nozzle™"
+        ],
+        [
+          "⭕",
+          "Vệt phun tròn, overspray thấp"
+        ],
+        [
+          "📉",
+          "Áp suất khí cấp cực thấp — chỉ 14,5 psi"
+        ],
+        [
+          "🪶",
+          "Cầm nhẹ tay, thoải mái khi thao tác"
+        ],
+        [
+          "☀️",
+          "Khuyến nghị cho sơn phủ UV"
+        ]
+      ],
+      "specs": {
+        "Áp suất khí cấp": "14,5 psi",
+        "Công nghệ": "HVLP, Split Nozzle™",
+        "Ứng dụng khuyến nghị": "Sơn phủ UV"
+      },
+      "applications": [
+        "Sơn phủ UV",
+        "Ứng dụng cần overspray cực thấp"
+      ],
+      "why": "Áp suất khí cấp cực thấp giúp LPH-300-LV đặc biệt phù hợp với các loại sơn UV nhạy với áp lực phun mạnh."
+    },
+    {
+      "slug": "lph-80",
+      "name": "LPH-80",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/02/LPH-80-A1.jpg",
+      "shortDesc": "Súng nhỏ gọn, tán sương cực mịn, chuyên dùng sửa lỗi điểm (touch-up) và bề mặt nhỏ.",
+      "lead": "LPH-80 là súng phun nhỏ gọn đa năng, tiêu hao vật liệu thấp, tán sương cực mịn và tiêu thụ khí thấp — hoàn hảo cho công việc sửa lỗi điểm (touch-up) và các bề mặt diện tích nhỏ.",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🎯",
+          "Phù hợp sửa lỗi điểm và các khu vực khó tiếp cận"
+        ],
+        [
+          "✨",
+          "Tán sương cực mịn, tiêu thụ khí thấp"
+        ],
+        [
+          "💧",
+          "Tiêu hao vật liệu cực thấp"
+        ],
+        [
+          "☀️",
+          "Khuyến nghị cho sơn lót UV và sơn phủ ceramic"
+        ]
+      ],
+      "specs": {
+        "Kích thước": "Nhỏ gọn (compact)",
+        "Ứng dụng chính": "Sửa lỗi điểm (touch-up), khu vực nhỏ",
+        "Ứng dụng khuyến nghị": "Sơn lót UV, sơn phủ ceramic"
+      },
+      "applications": [
+        "Sửa lỗi điểm trên bề mặt sơn",
+        "Khu vực khó tiếp cận"
+      ],
+      "why": "Với tiêu hao vật liệu cực thấp, LPH-80 giúp tiết kiệm chi phí đáng kể khi chỉ cần sửa một vài điểm nhỏ thay vì phun lại toàn bộ."
+    },
+    {
+      "slug": "lph-50",
+      "name": "LPH-50",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/02/LPH-50-A1.jpg",
+      "shortDesc": "Súng mini, cốc gắn cạnh, chuyên trị các khu vực khó tiếp cận và sửa lỗi siêu nhỏ.",
+      "lead": "LPH-50 là súng phun mini với thân nhỏ, vệt phun hẹp và cốc gắn cạnh (có tuỳ chọn bình hút đáy kiểu airbrush), cho phép luồn lách thao tác ở những khu vực khó tiếp cận nhất mà súng cỡ thường không vào được.",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🔬",
+          "Thân súng mini hiệu suất cao, cốc gắn cạnh"
+        ],
+        [
+          "✨",
+          "Tán sương vượt trội, tiêu thụ khí thấp"
+        ]
+      ],
+      "specs": {
+        "Kích thước": "Mini (miniature body)",
+        "Kiểu cốc": "Gắn cạnh (side mounted), tuỳ chọn bình hút kiểu airbrush"
+      },
+      "applications": [
+        "Sửa lỗi siêu nhỏ (micro-repair)",
+        "Khu vực cực kỳ khó tiếp cận"
+      ],
+      "why": "Khi cần thao tác ở những góc hẹp mà không súng nào khác vào được, thân mini của LPH-50 là giải pháp chuyên biệt."
+    },
+    {
+      "slug": "airgunsa-az1-hvlp-concept",
+      "name": "Air Gunsa AZ1-HVLP-Concept",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/03/AZ1-HVLP-Concept-A1.jpg",
+      "shortDesc": "Súng HVLP vệt phun dài, tán sương cực mịn, mức đầu tư hợp lý cho cả người mới và thợ có kinh nghiệm.",
+      "lead": "Air Gunsa AZ1 HVLP cho vệt phun dài với độ tán sương cực mịn và overspray rất thấp — phù hợp cho cả thợ sơn mới vào nghề lẫn người có kinh nghiệm muốn đạt kết quả ổn định, chất lượng cao với chi phí đầu tư hợp lý.",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🎯",
+          "Chụp khí (air cap) thiết kế riêng, vệt phun dài, overspray rất thấp"
+        ],
+        [
+          "✋",
+          "Dễ thao tác, công thái học cải tiến"
+        ],
+        [
+          "🔗",
+          "Tương thích bình áp lực và bơm màng của Anest Iwata"
+        ]
+      ],
+      "specs": {
+        "Công nghệ": "HVLP",
+        "Đặc điểm vệt phun": "Dài, overspray rất thấp",
+        "Tương thích": "Bình áp lực & bơm màng Anest Iwata"
+      },
+      "applications": [
+        "Sơn công nghiệp tổng quát",
+        "Xưởng cần thiết bị chi phí hợp lý"
+      ],
+      "why": "Đây là lựa chọn cân bằng chi phí/hiệu quả, phù hợp khi ngân sách đầu tư súng phun ban đầu là ưu tiên nhưng vẫn cần chất lượng ổn định."
+    },
+    {
+      "slug": "airgunsa-az3hte-s-impact",
+      "name": "Air Gunsa AZ3HTE-S Impact",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/03/AZ3-HTE-S-IMPACT-A2.jpg",
+      "shortDesc": "Súng HVLP vệt phun mỏng dẹt, toàn bộ đường dẫn chất lỏng bằng thép không gỉ.",
+      "lead": "Air Gunsa AZ3HTE-S Impact cho vệt phun dẹt và mỏng với độ tán sương mịn, toàn bộ các đường dẫn chất lỏng làm bằng thép không gỉ để tăng độ bền. Núm điều chỉnh thiết kế đơn giản, thuận tay cho cả người thuận trái và phải.",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "📏",
+          "Vệt phun mỏng, dẹt, tán sương mịn"
+        ],
+        [
+          "🛡️",
+          "Toàn bộ đường dẫn chất lỏng bằng thép không gỉ"
+        ],
+        [
+          "👐",
+          "Núm điều khiển đơn giản, phù hợp cả tay trái và tay phải"
+        ],
+        [
+          "💰",
+          "Chi phí phụ tùng thay thế hợp lý"
+        ]
+      ],
+      "specs": {
+        "Công nghệ": "HVLP",
+        "Vật liệu đường dẫn chất lỏng": "Thép không gỉ toàn bộ"
+      },
+      "applications": [
+        "Sơn công nghiệp tổng quát",
+        "Xưởng cần súng bền, chi phí bảo trì thấp"
+      ],
+      "why": "Đường dẫn chất lỏng toàn thép không gỉ giúp súng bền hơn khi tiếp xúc thường xuyên với dung môi mạnh, giảm chi phí thay thế phụ tùng lâu dài."
+    },
+    {
+      "slug": "airgunsa-az3-hv2-hvlp",
+      "name": "Air Gunsa AZ3 HV-2 HVLP",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/03/AZ3-HV-2-HVLP-A1.jpg",
+      "shortDesc": "Súng HVLP chắc chắn, vệt phun mỏng dẹt, toàn bộ chi tiết tiếp xúc chất lỏng bằng thép không gỉ.",
+      "lead": "Air Gunsa AZ3 HV-2 HVLP là súng phun chắc chắn, bền bỉ với vệt phun mỏng, dẹt và độ tán sương mịn. Toàn bộ chi tiết tiếp xúc chất lỏng làm bằng thép không gỉ, có sẵn phụ tùng thay thế (bộ gioăng O-Ring mã #9166).",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🏗️",
+          "Kết cấu chắc chắn, bền bỉ"
+        ],
+        [
+          "📏",
+          "Vệt phun mỏng, dẹt, tán sương mịn"
+        ],
+        [
+          "🛡️",
+          "Toàn bộ chi tiết tiếp xúc chất lỏng bằng thép không gỉ"
+        ],
+        [
+          "🔧",
+          "Có sẵn phụ tùng thay thế (bộ gioăng O-Ring #9166)"
+        ]
+      ],
+      "specs": {
+        "Công nghệ": "HVLP",
+        "Vật liệu tiếp xúc chất lỏng": "Thép không gỉ toàn bộ",
+        "Phụ tùng": "Bộ gioăng O-Ring #9166"
+      },
+      "applications": [
+        "Sơn công nghiệp tổng quát cường độ cao"
+      ],
+      "why": "Kết cấu chắc chắn giúp AZ3 HV-2 chịu được tần suất sử dụng cao trong môi trường xưởng công nghiệp khắc nghiệt."
+    },
+    {
+      "slug": "w-400-lv",
+      "name": "W-400-LV",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/02/W-400-LV-A1.jpg",
+      "shortDesc": "Súng đạt chuẩn khí thải EPA, vệt phun hình tulip, dùng đa năng cho sơn công nghiệp tổng quát.",
+      "lead": "W-400-LV cho vệt phun lấy cảm hứng từ hình hoa tulip, đạt chuẩn khí thải EPA NESHAP 40 CFR Part 63 Subpart 6H, phù hợp các ứng dụng phun sơn công nghiệp tổng quát với công nghệ Split Nozzle™ tiết kiệm vật liệu.",
+      "features": [
+        [
+          "✅",
+          "Đạt chuẩn khí thải EPA NESHAP 40 CFR Part 63 Subpart 6H"
+        ],
+        [
+          "🎯",
+          "Công nghệ Split Nozzle™"
+        ],
+        [
+          "🌷",
+          "Vệt phun hình tulip"
+        ],
+        [
+          "🎨",
+          "Phù hợp ứng dụng đa dụng"
+        ],
+        [
+          "🧹",
+          "Bề mặt chất lượng cao, dễ vệ sinh"
+        ],
+        [
+          "🔧",
+          "Ít chi tiết hao mòn, bảo trì đơn giản"
+        ]
+      ],
+      "specs": {
+        "Chuẩn khí thải": "EPA NESHAP 40 CFR Part 63 Subpart 6H",
+        "Đặc điểm vệt phun": "Hình tulip"
+      },
+      "applications": [
+        "Sơn công nghiệp tổng quát",
+        "Xưởng cần đạt chuẩn khí thải"
+      ],
+      "why": "Vệt phun hình tulip đặc trưng giúp phủ đều vật liệu trên các bề mặt có hình dạng phức tạp hơn so với vệt phun tròn thông thường."
+    },
+    {
+      "slug": "ws-200-series",
+      "name": "WS-200 Series",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/WS-200-Feature.jpg",
+      "shortDesc": "Súng thân nhôm rèn cao cấp, có tuỳ chọn Split Nozzle™ hoặc vòi phun phẳng (Flat Tip).",
+      "lead": "WS-200 Series được thiết kế để đáp ứng kỳ vọng của những người dùng khó tính nhất, có sẵn với công nghệ Split Nozzle™ hoặc vòi phun phẳng (Flat Tip Nozzle), cho độ tán sương vượt trội và hiệu suất chuyển sơn không đối thủ. Thân súng nhôm rèn nhẹ, đường dẫn chất lỏng thép không gỉ, bền bỉ và dễ bảo trì.",
+      "features": [
+        [
+          "🎯",
+          "Có sẵn Split Nozzle™ hoặc vòi phun phẳng (Flat Tip)"
+        ],
+        [
+          "📈",
+          "Hiệu suất chuyển sơn không đối thủ"
+        ],
+        [
+          "🪶",
+          "Thân súng nhôm rèn nhẹ, công thái học"
+        ],
+        [
+          "✨",
+          "Bề mặt hoàn thiện chất lượng cao"
+        ],
+        [
+          "🛡️",
+          "Đường dẫn chất lỏng thép không gỉ, bền bỉ, dễ bảo trì"
+        ]
+      ],
+      "specs": {
+        "Chất liệu thân súng": "Nhôm rèn",
+        "Đường dẫn chất lỏng": "Thép không gỉ",
+        "Vòi phun": "Split Nozzle™ hoặc Flat Tip"
+      },
+      "applications": [
+        "Sơn công nghiệp cao cấp",
+        "Người dùng yêu cầu chất lượng khắt khe"
+      ],
+      "why": "Dành cho những thợ sơn khó tính nhất, WS-200 Series là dòng súng cao cấp kết hợp cả độ bền cơ khí lẫn chất lượng tán sương hàng đầu."
+    },
+    {
+      "slug": "w-400",
+      "name": "W-400",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/W-400-A1.jpg",
+      "shortDesc": "Súng hiệu suất chuyển sơn cao, tán sương mịn, dùng đa năng cho sơn công nghiệp tổng quát.",
+      "lead": "W-400 là súng phun hiệu suất chuyển sơn cao với khả năng tán sương mịn, phù hợp rộng rãi cho các ứng dụng phun sơn công nghiệp tổng quát, bề mặt hoàn thiện chất lượng, dễ vệ sinh và bảo trì.",
+      "features": [
+        [
+          "📈",
+          "Hiệu suất chuyển sơn cao"
+        ],
+        [
+          "✨",
+          "Tán sương mịn"
+        ],
+        [
+          "🎨",
+          "Phù hợp ứng dụng đa dụng"
+        ],
+        [
+          "🧹",
+          "Bề mặt chất lượng cao, dễ vệ sinh"
+        ],
+        [
+          "🔧",
+          "Ít chi tiết hao mòn, bảo trì đơn giản"
+        ]
+      ],
+      "specs": {
+        "Hiệu suất chuyển sơn": "Cao",
+        "Ứng dụng": "Đa dụng, công nghiệp tổng quát"
+      },
+      "applications": [
+        "Sơn công nghiệp tổng quát"
+      ],
+      "why": "Là mẫu súng công nghiệp tổng quát cơ bản trong danh mục, W-400 phù hợp làm điểm khởi đầu cho các xưởng chưa cần các dòng chuyên biệt hơn."
+    },
+    {
+      "slug": "wider1",
+      "name": "WIDER1",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/WIDER1-A1.jpg",
+      "shortDesc": "Súng phun compact, vệt phun hẹp hơn súng cỡ thường, thân mạ crom dễ vệ sinh.",
+      "lead": "Dòng Wider1 có thiết kế nhỏ gọn với vệt phun hẹp hơn súng cỡ thường. Đừng để kích thước đánh lừa — súng vẫn có công thái học tốt, núm điều khiển lớn dễ thao tác và lớp mạ crom giúp vệ sinh nhanh chóng. Có 3 cấu hình: trọng lực, hút đáy và cấp áp lực.",
+      "features": [
+        [
+          "🪶",
+          "Thiết kế nhẹ, công thái học"
+        ],
+        [
+          "🧹",
+          "Dễ bảo trì, vệ sinh nhanh nhờ lớp mạ crom"
+        ],
+        [
+          "🎛️",
+          "Chỉnh vệt phun trực quan"
+        ],
+        [
+          "🔩",
+          "Đế van khí lớn, lắp ráp ổn định"
+        ],
+        [
+          "💨",
+          "Tiêu thụ khí thấp, giảm lãng phí"
+        ],
+        [
+          "🛡️",
+          "Đường dẫn chất lỏng thép không gỉ chống ăn mòn"
+        ]
+      ],
+      "specs": {
+        "Kiểu cấp liệu": "Trọng lực / hút đáy / áp lực",
+        "Thân súng": "Mạ crom"
+      },
+      "applications": [
+        "Sơn công nghiệp cỡ nhỏ và vừa"
+      ],
+      "why": "Ba cấu hình cấp liệu khác nhau giúp WIDER1 linh hoạt lắp đặt theo đúng nhu cầu công việc của từng xưởng."
+    },
+    {
+      "slug": "wider2",
+      "name": "WIDER2",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/WIDER2-A1.jpg",
+      "shortDesc": "Súng cỡ đầy đủ, vệt phun rộng, kết cấu bền, phù hợp công nghiệp quy mô lớn.",
+      "lead": "Wider2 là súng cỡ đầy đủ với vệt phun rộng và kết cấu bền bỉ, tán sương xuất sắc cùng công thái học tốt, núm điều khiển lớn và lớp mạ crom dễ vệ sinh. Có 3 cấu hình: trọng lực, hút đáy và cấp áp lực.",
+      "features": [
+        [
+          "🌸",
+          "Vệt phun rộng, thân súng cỡ đầy đủ"
+        ],
+        [
+          "🪶",
+          "Công thái học tốt, dễ thao tác"
+        ],
+        [
+          "🧹",
+          "Dễ bảo trì, vệ sinh nhanh"
+        ],
+        [
+          "🔩",
+          "Đế van khí lớn, lắp ráp ổn định"
+        ],
+        [
+          "💨",
+          "Tiêu thụ khí thấp, giảm lãng phí"
+        ],
+        [
+          "🛡️",
+          "Đường dẫn chất lỏng thép không gỉ chống ăn mòn"
+        ]
+      ],
+      "specs": {
+        "Kiểu cấp liệu": "Trọng lực / hút đáy / áp lực",
+        "Thân súng": "Cỡ đầy đủ (full-size), mạ crom"
+      },
+      "applications": [
+        "Sơn công nghiệp quy mô lớn"
+      ],
+      "why": "Kết cấu bền bỉ cỡ đầy đủ giúp WIDER2 chịu được tần suất sử dụng cao trong môi trường công nghiệp nặng."
+    },
+    {
+      "slug": "airgunsa-az3hte-2",
+      "name": "Air Gunsa AZ3HTE-2",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/AZ3HTE-2-A1.jpg",
+      "shortDesc": "Súng chắc chắn, vệt phun mỏng dẹt, toàn bộ chi tiết tiếp xúc chất lỏng bằng thép không gỉ.",
+      "lead": "Air Gunsa AZ3HTE-2 là súng phun chắc chắn, cho vệt phun mỏng, dẹt và tán sương mịn. Toàn bộ chi tiết tiếp xúc chất lỏng làm bằng thép không gỉ, có sẵn phụ tùng thay thế (bộ gioăng O-Ring #9166).",
+      "features": [
+        [
+          "🏗️",
+          "Kết cấu chắc chắn, bền bỉ"
+        ],
+        [
+          "📏",
+          "Vệt phun mỏng, dẹt, tán sương mịn"
+        ],
+        [
+          "🛡️",
+          "Toàn bộ chi tiết tiếp xúc chất lỏng bằng thép không gỉ"
+        ],
+        [
+          "🔧",
+          "Có sẵn phụ tùng thay thế (bộ gioăng O-Ring #9166)"
+        ]
+      ],
+      "specs": {
+        "Vật liệu tiếp xúc chất lỏng": "Thép không gỉ toàn bộ",
+        "Phụ tùng": "Bộ gioăng O-Ring #9166"
+      },
+      "applications": [
+        "Sơn công nghiệp tổng quát"
+      ],
+      "why": "Là phiên bản anh em của AZ3 HV-2, AZ3HTE-2 phù hợp khi xưởng cần thêm súng dự phòng cùng chuẩn phụ tùng để dễ quản lý kho."
+    },
+    {
+      "slug": "airgunsa-az3-hte-pas-concept",
+      "name": "Air Gunsa AZ3 HTE P.A.S. Concept",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/02/AZ3HTEPAS-A1.jpg",
+      "shortDesc": "Súng cốc áp lực, hệ thống P.A.S. hỗ trợ phun đều cả vật liệu độ nhớt cao.",
+      "lead": "Air Gunsa AZ3 HTE P.A.S. Concept là súng chắc chắn dùng cốc cấp áp lực, phù hợp nhất với vật liệu có độ nhớt cao. Hệ thống Pressure Assisted System (P.A.S.) giúp giữ vệt phun lớn và đồng đều ngay cả với vật liệu đặc, cùng bộ điều khiển mini chính xác cho áp suất cốc.",
+      "features": [
+        [
+          "🛢️",
+          "Súng cốc cấp áp lực, phù hợp vật liệu độ nhớt cao"
+        ],
+        [
+          "🌸",
+          "Vệt phun lớn, đồng đều nhờ hệ thống P.A.S."
+        ],
+        [
+          "💰",
+          "Chi phí phụ tùng thay thế hợp lý"
+        ],
+        [
+          "📈",
+          "Hiệu suất chuyển vật liệu cao"
+        ],
+        [
+          "🛡️",
+          "Toàn bộ đường dẫn chất lỏng bằng thép không gỉ"
+        ],
+        [
+          "🎛️",
+          "Bộ điều khiển mini chính xác cho áp suất cốc"
+        ]
+      ],
+      "specs": {
+        "Kiểu cấp liệu": "Cốc áp lực (pressurized cup)",
+        "Công nghệ hỗ trợ": "Pressure Assisted System (P.A.S.)",
+        "Vật liệu tiếp xúc chất lỏng": "Thép không gỉ toàn bộ"
+      },
+      "applications": [
+        "Phun vật liệu độ nhớt cao",
+        "Sơn công nghiệp đặc biệt"
+      ],
+      "why": "Khi vật liệu phun quá đặc khiến súng thường khó tán sương đều, hệ thống P.A.S. của AZ3 HTE giúp duy trì vệt phun ổn định mà không cần pha loãng quá mức."
+    },
+    {
+      "slug": "wider1-extension",
+      "name": "WIDER1 Extension LW1-10E1 | LW-18N1",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "accessories",
+      "subCatLabel": "Phụ kiện & Cốc phun",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/WIDER1-Extension-A1.jpg",
+      "shortDesc": "Súng phun đầu nối dài, hiệu suất chuyển sơn trên 65%, chuyên dùng cho không gian hẹp, khó tiếp cận.",
+      "lead": "WIDER1 Extension là súng phun với đầu vòi kéo dài, thiết kế thân súng gọn để luồn vào các khu vực khó tiếp cận như bên trong ống, phía sau vách ngăn tàu thuỷ hay các kết cấu kín. Có 3 chiều dài đầu nối (150/300/500mm) và 3 góc đầu (thẳng, 45°, 90°) để linh hoạt theo từng vị trí thi công.",
+      "features": [
+        [
+          "📈",
+          "Hiệu suất chuyển sơn trên 65%"
+        ],
+        [
+          "✨",
+          "Độ tán sương cao"
+        ],
+        [
+          "⚡",
+          "Phủ sơn đều, thao tác nhanh"
+        ],
+        [
+          "📏",
+          "Ba chiều dài đầu nối: 150 / 300 / 500 mm"
+        ],
+        [
+          "📐",
+          "Ba góc đầu súng: thẳng, 45° và 90°"
+        ],
+        [
+          "🚢",
+          "Phù hợp phun bên trong ống hoặc sau vách kín trong đóng tàu"
+        ]
+      ],
+      "specs": {
+        "Hiệu suất chuyển sơn": "> 65%",
+        "Chiều dài đầu nối": "150 / 300 / 500 mm",
+        "Góc đầu súng": "Thẳng / 45° / 90°"
+      },
+      "applications": [
+        "Phun sơn bên trong đường ống công nghiệp",
+        "Đóng tàu — phun sau vách ngăn, khoang kín",
+        "Khu vực khó tiếp cận"
+      ],
+      "why": "Khi bề mặt cần sơn nằm sâu bên trong kết cấu mà súng thường không vào được, đầu nối dài của WIDER1 Extension là giải pháp chuyên dụng duy nhất trong danh mục."
+    },
+    {
+      "slug": "cog1-cog2",
+      "name": "COG1 | COG2",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ gỗ & Keo dán",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/COG1-COG2_main.jpg",
+      "shortDesc": "Súng phun keo dán vệt rộng, dùng cho vật liệu độ nhớt cao, ứng dụng nội thất ô tô và đồ gỗ.",
+      "lead": "COG1/COG2 là súng phun keo dán chuyên dụng, cho vệt phun rộng phù hợp vật liệu độ nhớt cao. Lưu lượng chất lỏng lớn giúp phủ keo đều trên bề mặt, hạn chế rò rỉ ở đầu vòi và cho độ lặp lại cao giữa các lượt phun. Có bản áp lực thủ công, hút đáy thủ công và bản tự động.",
+      "features": [
+        [
+          "🌸",
+          "Vệt phun rộng, phù hợp vật liệu độ nhớt cao"
+        ],
+        [
+          "💧",
+          "Lưu lượng chất lỏng lớn, phủ keo đều"
+        ],
+        [
+          "🚫",
+          "Hạn chế rò rỉ ở đầu vòi phun"
+        ],
+        [
+          "🔁",
+          "Độ lặp lại cao giữa các lượt phun"
+        ],
+        [
+          "⚙️",
+          "Có bản áp lực thủ công, hút đáy thủ công và bản tự động"
+        ]
+      ],
+      "specs": {
+        "Ứng dụng chính": "Phun keo dán, vật liệu độ nhớt cao",
+        "Cấu hình": "Áp lực thủ công / hút đáy thủ công / tự động"
+      },
+      "applications": [
+        "Dán vật liệu nội thất ô tô",
+        "Đồ gỗ, ván ép",
+        "Cách nhiệt công nghiệp"
+      ],
+      "why": "Khác với súng sơn thông thường, COG1/COG2 được thiết kế riêng cho keo dán độ nhớt cao — một mảnh ghép quan trọng cho xưởng đồ gỗ và nội thất ô tô."
+    },
+    {
+      "slug": "tof-50-50r",
+      "name": "TOF-50 | TOF-50R",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "accessories",
+      "subCatLabel": "Phụ kiện & Cốc phun",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/TOF-50-A1.jpg",
+      "shortDesc": "Súng phun đa dụng cho chất lỏng, có bản vệt phun dẹt hoặc tròn, thân nhôm rèn anod hoá.",
+      "lead": "TOF-50/TOF-50R là súng phun chất lỏng đa dụng, có hai phiên bản vệt phun dẹt (TOF-50) hoặc tròn (TOF-50R). Đầu nối khí và chất lỏng đặt ở đáy tay cầm giúp thao tác thuận tiện, có cơ cấu khoá khi chỉnh lưu lượng và vệt phun.",
+      "features": [
+        [
+          "🔀",
+          "Hai phiên bản: vệt phun dẹt hoặc tròn"
+        ],
+        [
+          "🔌",
+          "Đầu nối khí & chất lỏng ở đáy tay cầm, dễ thao tác"
+        ],
+        [
+          "🔒",
+          "Cơ cấu khoá khi chỉnh lưu lượng và vệt phun"
+        ],
+        [
+          "🏗️",
+          "Thân nhôm rèn, bề mặt anod hoá"
+        ],
+        [
+          "🎨",
+          "Đa dụng cho nhiều loại chất lỏng"
+        ]
+      ],
+      "specs": {
+        "Vệt phun": "Dẹt (TOF-50) hoặc tròn (TOF-50R)",
+        "Thân súng": "Nhôm rèn, anod hoá"
+      },
+      "applications": [
+        "Phun chất lỏng công nghiệp đa dụng",
+        "Ứng dụng cần chuyển đổi nhanh giữa các loại vệt phun"
+      ],
+      "why": "Có cả hai lựa chọn vệt phun trong cùng một dòng sản phẩm giúp xưởng linh hoạt chọn đúng kiểu vệt phun theo từng công việc mà không cần đổi hẳn sang súng khác."
+    },
+    {
+      "slug": "rg-3l",
+      "name": "RG-3L",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "auto-refinish",
+      "subCatLabel": "Sơn sửa chữa ô tô",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/RG-3L-A1.jpg",
+      "shortDesc": "Súng phun chuyên dùng chuyển màu/xử lý viền (blending), cốc gắn cạnh xoay 360°.",
+      "lead": "RG-3L cho khả năng tán sương xuất sắc với kiểm soát vệt phun chính xác — lý tưởng khi cần chuyển màu (blending) hoặc tạo bóng mờ dần (shading). Cốc gắn cạnh xoay được 360° giúp thợ sơn thao tác ở nhiều góc độ khác nhau mà không cần đổi tư thế cầm súng.",
+      "features": [
+        [
+          "🎯",
+          "Tán sương xuất sắc, kiểm soát vệt phun chính xác"
+        ],
+        [
+          "🎨",
+          "Lý tưởng cho kỹ thuật chuyển màu (blending) và tạo bóng mờ (shading)"
+        ],
+        [
+          "🪶",
+          "Thân súng nhỏ gọn, nhẹ"
+        ],
+        [
+          "🔄",
+          "Cốc gắn cạnh xoay 360°, thao tác linh hoạt nhiều góc độ"
+        ]
+      ],
+      "specs": {
+        "Ứng dụng chính": "Chuyển màu (blending), tạo bóng mờ (shading)",
+        "Kiểu cốc": "Gắn cạnh, xoay 360°"
+      },
+      "applications": [
+        "Sửa chữa sơn ô tô — kỹ thuật chuyển màu",
+        "Blending viền sơn giữa panel cũ và mới"
+      ],
+      "why": "Kỹ thuật blending đòi hỏi kiểm soát vệt phun cực kỳ tinh tế — RG-3L được thiết kế chuyên biệt cho công việc này mà súng cỡ thường khó làm tốt bằng."
+    },
+    {
+      "slug": "katana-plus",
+      "name": "Katana Plus",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/Katana-Plus-A1.jpg",
+      "shortDesc": "Súng HVLP dành cho người mới bắt đầu, phun được cả sơn gốc nước, dung môi và gốc dầu.",
+      "lead": "Katana Plus là súng phun HVLP cấp độ nhập môn, phun được cả sơn gốc nước, gốc dung môi và gốc dầu — kèm hướng dẫn phun chi tiết, dễ theo dõi cùng phụ kiện đi kèm, giúp người dùng lần đầu tự tin bắt tay vào nhiều loại dự án khác nhau. Chỉ cần máy nén khí từ 1 HP trở lên.",
+      "features": [
+        [
+          "💨",
+          "Súng HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🎓",
+          "Súng cấp độ nhập môn, dễ làm quen"
+        ],
+        [
+          "🎨",
+          "Phun được sơn gốc nước, dung môi và gốc dầu"
+        ],
+        [
+          "📖",
+          "Kèm hướng dẫn phun chi tiết và phụ kiện"
+        ],
+        [
+          "⚙️",
+          "Chỉ cần máy nén khí từ 1 HP trở lên"
+        ]
+      ],
+      "specs": {
+        "Đối tượng dùng": "Người mới bắt đầu",
+        "Loại sơn phù hợp": "Gốc nước, dung môi, gốc dầu",
+        "Yêu cầu máy nén khí": "Từ 1 HP trở lên"
+      },
+      "applications": [
+        "Người mới học phun sơn",
+        "Dự án DIY, sửa chữa nhỏ tại nhà"
+      ],
+      "why": "Với hướng dẫn đi kèm chi tiết và yêu cầu máy nén khí nhỏ, Katana Plus là điểm khởi đầu dễ tiếp cận nhất cho ai mới làm quen với súng phun sơn."
+    },
+    {
+      "slug": "msgs-m200",
+      "name": "MSGS-M200 Automatic Multi Spray Gun",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/02/MSGS-M200-A1.jpg",
+      "shortDesc": "Súng phun tự động lắp trên dây chuyền, tán sương cao, dễ bảo trì không cần dụng cụ.",
+      "lead": "MSGS-M200 là súng phun tự động, cho độ tán sương cao giúp đạt độ bóng tối đa và hiệu suất chuyển sơn cao nhất. Có thể tháo lắp bảo trì mà không cần dụng cụ, dễ tích hợp với các hệ thống giá đỡ (fixture) phổ biến, chụp khí linh hoạt tương thích nhiều kiểu đầu vòi.",
+      "features": [
+        [
+          "✨",
+          "Tán sương vượt trội, độ bóng cao, hiệu suất chuyển sơn tối ưu"
+        ],
+        [
+          "🔧",
+          "Bảo trì không cần dụng cụ"
+        ],
+        [
+          "🔗",
+          "Tích hợp dễ dàng với các hệ thống giá đỡ (fixture) phổ biến"
+        ],
+        [
+          "🔄",
+          "Chụp khí linh hoạt, tương thích nhiều kiểu đầu vòi"
+        ],
+        [
+          "📉",
+          "Áp suất khí tán sương thấp hơn, giảm overspray và tiết kiệm năng lượng"
+        ]
+      ],
+      "specs": {
+        "Kiểu súng": "Tự động, lắp cố định trên dây chuyền",
+        "Bảo trì": "Không cần dụng cụ"
+      },
+      "applications": [
+        "Dây chuyền sơn tự động",
+        "Nhà máy cần súng phun cố định tích hợp fixture"
+      ],
+      "why": "Thiết kế tháo lắp không cần dụng cụ giúp giảm đáng kể thời gian dừng máy để bảo trì trên dây chuyền sản xuất liên tục."
+    },
+    {
+      "slug": "wider1a-wider2a",
+      "name": "WIDER1A | WIDER2A",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/02/WIDER1A-2A-A1.jpg",
+      "shortDesc": "Súng phun tự động thế hệ mới, tháo cụm piston không cần dụng cụ, đường dẫn chất lỏng thép không gỉ.",
+      "lead": "WIDER1A/WIDER2A là súng phun tự động thế hệ mới, cho phép tháo cụm piston mà không cần dụng cụ, khả năng chỉnh vệt phun tuyến tính hơn, cùng đầu nối khí/chất lỏng được thiết kế lại để lắp đặt đơn giản hơn.",
+      "features": [
+        [
+          "🔧",
+          "Tháo cụm piston không cần dụng cụ"
+        ],
+        [
+          "🎛️",
+          "Khả năng chỉnh vệt phun tuyến tính, chính xác hơn"
+        ],
+        [
+          "🔌",
+          "Đầu nối khí/chất lỏng thiết kế lại, đơn giản hơn"
+        ],
+        [
+          "✨",
+          "Tán sương xuất sắc, hoàn thiện không tì vết"
+        ],
+        [
+          "🛡️",
+          "Đường dẫn chất lỏng thép không gỉ, dùng được sơn gốc nước và dung môi"
+        ],
+        [
+          "⏱️",
+          "Tháo chụp khí nhanh gấp đôi để vệ sinh, bảo trì"
+        ]
+      ],
+      "specs": {
+        "Kiểu súng": "Tự động",
+        "Vật liệu đường dẫn chất lỏng": "Thép không gỉ",
+        "Bảo trì": "Không cần dụng cụ chuyên dụng"
+      },
+      "applications": [
+        "Dây chuyền sơn tự động thế hệ mới",
+        "Nhà máy cần giảm thời gian bảo trì súng"
+      ],
+      "why": "So với thế hệ trước, thời gian tháo chụp khí giảm một nửa — một cải tiến nhỏ nhưng cộng dồn tiết kiệm đáng kể thời gian dừng máy trên dây chuyền chạy nhiều ca."
+    },
+    {
+      "slug": "wider1al-wider2al",
+      "name": "WIDER1AL | WIDER2AL",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/WIDER1AL-WIDER2AL-MAIN.jpg",
+      "shortDesc": "Súng phun tự động, cùng kích thước lắp đặt với dòng cũ, thay thế trực tiếp không cần chỉnh sửa dây chuyền.",
+      "lead": "WIDER1AL/WIDER2AL là súng phun tự động có sẵn bản thường (conventional) và HVLP, mang lại khả năng kiểm soát tốt hơn và dễ bảo trì hơn trong khi vẫn giữ hiệu suất đã được tin dùng của dòng trước. Vẫn giữ nguyên kích thước lắp đặt như phiên bản cũ nên có thể thay thế trực tiếp mà không cần chỉnh sửa dây chuyền sản xuất hiện có.",
+      "features": [
+        [
+          "🔧",
+          "Tháo lắp linh kiện chính không cần dụng cụ"
+        ],
+        [
+          "🛡️",
+          "Đường dẫn chất lỏng thép không gỉ, dùng cho sơn gốc nước và dung môi"
+        ],
+        [
+          "🎛️",
+          "Cơ cấu chỉnh đơn giản hoá"
+        ],
+        [
+          "🔌",
+          "Đầu nối khí nâng cấp"
+        ],
+        [
+          "📐",
+          "Giữ nguyên kích thước lắp đặt như dòng cũ, thay thế trực tiếp không cần sửa dây chuyền"
+        ],
+        [
+          "🤖",
+          "Thiết kế cho hệ thống tự động, đầu ra ổn định, phù hợp ứng dụng độ chính xác cao"
+        ]
+      ],
+      "specs": {
+        "Kiểu súng": "Tự động (bản thường và HVLP)",
+        "Kích thước lắp đặt": "Tương thích thay thế trực tiếp dòng cũ"
+      },
+      "applications": [
+        "Nâng cấp dây chuyền sơn tự động hiện có",
+        "Sản xuất công nghiệp đòi hỏi độ chính xác cao"
+      ],
+      "why": "Khả năng thay thế trực tiếp (drop-in replacement) giúp nhà máy nâng cấp công nghệ súng phun mà không phải đầu tư lại toàn bộ hệ thống giá đỡ, gá lắp."
+    },
+    {
+      "slug": "lpa-200-101",
+      "name": "LPA-200 | LPA-101",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/LPA-200_LPA-101_MAIN.jpg",
+      "shortDesc": "Súng phun tự động đa dụng, hệ thống HVLP, phù hợp nhiều ứng dụng công nghiệp tổng quát.",
+      "lead": "LPA-200/LPA-101 là dòng súng phun tự động đa dụng sử dụng hệ thống HVLP, phù hợp rộng rãi cho các ứng dụng công nghiệp tổng quát cần lắp cố định trên dây chuyền hoặc hệ thống gá tự động.",
+      "features": [
+        [
+          "💨",
+          "Hệ thống HVLP, áp suất khí vận hành thấp"
+        ],
+        [
+          "🤖",
+          "Súng phun tự động, lắp cố định trên dây chuyền"
+        ],
+        [
+          "🎨",
+          "Đa dụng cho nhiều ứng dụng công nghiệp"
+        ]
+      ],
+      "specs": {
+        "Kiểu súng": "Tự động, hệ thống HVLP"
+      },
+      "applications": [
+        "Dây chuyền sơn tự động công nghiệp tổng quát"
+      ],
+      "why": "Là lựa chọn súng tự động cơ bản, phù hợp làm điểm khởi đầu cho các dây chuyền chưa cần cấu hình chuyên biệt như WIDER-A hay MSGS-M200."
+    },
+    {
+      "slug": "as-80",
+      "name": "AS-80 Super Compact",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/02/AS-80-A1.jpg",
+      "shortDesc": "Súng phun tự động siêu nhỏ gọn chỉ 2,8 inch, thân thép không gỉ hoặc nhôm, chuyên khu vực chật hẹp.",
+      "lead": "AS-80 là súng phun tự động siêu nhỏ gọn, kết cấu chắc chắn, có bản thân thép không gỉ hoặc nhôm. Chỉ dài 2,8 inch nên rất dễ bảo trì, tán sương mịn, có thể thiết lập vệt phun quạt tiêu chuẩn cho bề mặt phẳng chất lượng cao hoặc điều chỉnh thành vệt phun định hướng để hoạt động trong không gian nhỏ, hẹp, khó tiếp cận.",
+      "features": [
+        [
+          "📏",
+          "Kích thước siêu nhỏ gọn, chỉ 2,8 inch"
+        ],
+        [
+          "🏗️",
+          "Kết cấu chắc chắn, thân thép không gỉ hoặc nhôm"
+        ],
+        [
+          "✨",
+          "Tán sương mịn"
+        ],
+        [
+          "🔀",
+          "Vệt phun quạt tiêu chuẩn hoặc định hướng tuỳ chỉnh"
+        ],
+        [
+          "🔧",
+          "Bảo trì đơn giản"
+        ]
+      ],
+      "specs": {
+        "Kích thước": "Chỉ 2,8 inch — siêu nhỏ gọn",
+        "Chất liệu thân": "Thép không gỉ hoặc nhôm"
+      },
+      "applications": [
+        "Lắp đặt trong không gian cực kỳ chật hẹp trên dây chuyền tự động",
+        "Ứng dụng cần súng phun cỡ nhỏ nhất trong danh mục"
+      ],
+      "why": "Khi vị trí lắp đặt trên dây chuyền quá chật để dùng súng tự động cỡ thường, AS-80 là một trong những súng nhỏ gọn nhất mà Anest Iwata cung cấp."
+    },
+    {
+      "slug": "wra-lra-200",
+      "name": "WRA-101 | WRA-200 | LRA-200",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/WRA-101_WRA-200_LRA-200_main.jpg",
+      "shortDesc": "Súng phun áp lực chuyên dùng cho cánh tay robot, khuyến nghị cho bề mặt diện tích trung bình.",
+      "lead": "WRA-101/WRA-200/LRA-200 là súng phun áp lực thiết kế riêng để lắp trên cánh tay robot, khuyến nghị sử dụng cho các ứng dụng phun trên bề mặt diện tích trung bình trong dây chuyền tự động hoá.",
+      "features": [
+        [
+          "🤖",
+          "Thiết kế chuyên dụng để lắp trên cánh tay robot"
+        ],
+        [
+          "🛢️",
+          "Kiểu cấp liệu áp lực (pressure feed)"
+        ],
+        [
+          "📐",
+          "Khuyến nghị cho bề mặt diện tích trung bình"
+        ]
+      ],
+      "specs": {
+        "Kiểu súng": "Áp lực, lắp robot",
+        "Ứng dụng khuyến nghị": "Bề mặt diện tích trung bình"
+      },
+      "applications": [
+        "Dây chuyền sơn dùng robot công nghiệp",
+        "Sản xuất ô tô, thiết bị điện tự động hoá cao"
+      ],
+      "why": "Khi dây chuyền đã đầu tư cánh tay robot, WRA/LRA-200 là súng phun được thiết kế đúng chuẩn kết nối để tích hợp mà không cần custom lắp ráp."
+    },
+    {
+      "slug": "wa-m220",
+      "name": "WA-M220 | WA-M220-L Không Kèm Manifold",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "general-industrial",
+      "subCatLabel": "Công nghiệp tổng quát",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/WA-M220-A1.jpg",
+      "shortDesc": "Súng phun tự động tán sương cao, không cần van solenoid rời, 16 nấc chỉnh kim chất lỏng.",
+      "lead": "WA-M220/WA-M220-L là súng phun tự động tán sương cao, dùng công nghệ Split Nozzle™ và chụp khí độc quyền của Anest Iwata để đạt hiệu suất chuyển sơn cao, xử lý tốt cả vật liệu gốc nước và gốc dung môi khó tính nhất với overspray tối thiểu. Không cần dùng van solenoid rời nhờ khí tán sương và khí tạo quạt được tích hợp cùng piston khí, giúp giảm downtime sản xuất đáng kể qua cơ chế tháo lắp hai bước.",
+      "features": [
+        [
+          "✨",
+          "Tán sương cao, công nghệ Split Nozzle™"
+        ],
+        [
+          "📈",
+          "Hiệu suất chuyển sơn cao nhờ công nghệ chụp khí độc quyền"
+        ],
+        [
+          "🎨",
+          "Xử lý tốt vật liệu gốc nước và gốc dung môi khó tính, overspray tối thiểu"
+        ],
+        [
+          "⚡",
+          "Không cần van solenoid rời — khí tích hợp cùng piston khí"
+        ],
+        [
+          "🔧",
+          "Tháo lắp hai bước, giảm downtime sản xuất đáng kể"
+        ],
+        [
+          "🔄",
+          "Chụp khí tháo nhanh, xoay chỉnh 90°–180°"
+        ],
+        [
+          "🎚️",
+          "16 nấc chỉnh kim chất lỏng"
+        ]
+      ],
+      "specs": {
+        "Kiểu súng": "Tự động, tán sương cao",
+        "Điều khiển khí": "Tích hợp, không cần solenoid rời",
+        "Nấc chỉnh kim chất lỏng": "16 nấc",
+        "Góc xoay chụp khí": "90° – 180°"
+      },
+      "applications": [
+        "Dây chuyền sơn tự động yêu cầu chất lượng cao",
+        "Xử lý vật liệu khó tính (gốc nước & gốc dung môi)"
+      ],
+      "why": "Việc loại bỏ van solenoid rời không chỉ giảm chi phí linh kiện mà còn đơn giản hoá hệ thống khí nén tổng thể của dây chuyền — ít điểm hỏng hóc hơn."
+    },
+    {
+      "slug": "sga-101",
+      "name": "SGA-101",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "accessories",
+      "subCatLabel": "Phụ kiện & Cốc phun",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/SGA-101-A1.jpg",
+      "shortDesc": "Súng phun tự động siêu nhỏ gọn, thân đánh bóng, dùng phun chất tách khuôn và vật liệu độ nhớt thấp.",
+      "lead": "SGA-101 là súng phun tự động cực kỳ nhỏ gọn dành cho dây chuyền sơn tự động hoá, thân đánh bóng cao cấp giúp dễ vệ sinh và giảm bảo trì. Toàn bộ đường dẫn chất lỏng bằng thép không gỉ, phù hợp cả sơn gốc dung môi và gốc nước trong ngành ô tô, dược phẩm, thuỷ tinh, gốm sứ, cao su, đúc khuôn và các ngành công nghiệp nhẹ khác.",
+      "features": [
+        [
+          "📏",
+          "Kích thước cực kỳ nhỏ gọn"
+        ],
+        [
+          "✨",
+          "Thân đánh bóng cao cấp, dễ vệ sinh"
+        ],
+        [
+          "🛡️",
+          "Toàn bộ đường dẫn chất lỏng bằng thép không gỉ"
+        ],
+        [
+          "🎨",
+          "Dùng được cho sơn gốc dung môi và gốc nước"
+        ],
+        [
+          "💧",
+          "Phù hợp phun chất tách khuôn và vật liệu độ nhớt thấp"
+        ]
+      ],
+      "specs": {
+        "Kiểu súng": "Tự động, siêu nhỏ gọn",
+        "Vật liệu tiếp xúc chất lỏng": "Thép không gỉ",
+        "Ứng dụng ngành": "Ô tô, dược phẩm, thuỷ tinh, gốm sứ, cao su, đúc khuôn"
+      },
+      "applications": [
+        "Phun chất tách khuôn (mould release agent)",
+        "Công nghiệp nhẹ đa ngành"
+      ],
+      "why": "Đây là một trong những súng tự động nhỏ nhất trong danh mục, phù hợp khi không gian lắp đặt trên dây chuyền cực kỳ hạn chế."
+    },
+    {
+      "slug": "cog-a200-r200",
+      "name": "COG-A200 | COG-R200",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ gỗ & Keo dán",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/COG-A200-COG-R200_MAIN.jpg",
+      "shortDesc": "Súng phun keo lạnh tự động lắp cố định trên dây chuyền, dùng cho keo gốc dung môi và gốc nước nhiều độ nhớt.",
+      "lead": "COG-A200/COG-R200 là súng phun keo lạnh (cold glue) tự động, lắp cố định trên dây chuyền (inline), thiết kế cho nhiều độ nhớt keo khác nhau, dùng được cả keo gốc dung môi và gốc nước.",
+      "features": [
+        [
+          "🤖",
+          "Súng phun tự động, lắp cố định trên dây chuyền (inline)"
+        ],
+        [
+          "🧊",
+          "Chuyên dùng cho keo dán lạnh (cold glue)"
+        ],
+        [
+          "🎨",
+          "Dùng được keo gốc dung môi và gốc nước"
+        ],
+        [
+          "💧",
+          "Phù hợp nhiều độ nhớt keo khác nhau"
+        ]
+      ],
+      "specs": {
+        "Kiểu súng": "Tự động, lắp inline trên dây chuyền",
+        "Ứng dụng chính": "Phun keo lạnh (cold glue)"
+      },
+      "applications": [
+        "Dây chuyền dán keo tự động",
+        "Sản xuất đồ gỗ, nội thất công nghiệp"
+      ],
+      "why": "Là phiên bản tự động của dòng COG1/COG2, phù hợp khi xưởng đã tự động hoá công đoạn dán keo trên băng chuyền thay vì thao tác thủ công."
+    },
+    {
+      "slug": "tof-5b-6rb",
+      "name": "TOF-5B | TOF-5RB | TOF-6B | TOF-6RB",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "accessories",
+      "subCatLabel": "Phụ kiện & Cốc phun",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/TOF-5_MAIN.jpg",
+      "shortDesc": "Súng phun chuyên tán sương chất lỏng: nước, dầu, mực in, keo dán, chất khử mùi và hoá chất khác.",
+      "lead": "Họ súng TOF-5/TOF-6 được thiết kế chuyên biệt để tán sương nhiều loại chất lỏng khác nhau ngoài sơn — từ nước, dầu, mực in, keo dán cho đến chất khử mùi và các hoá chất công nghiệp khác.",
+      "features": [
+        [
+          "💧",
+          "Chuyên tán sương chất lỏng đa dạng: nước, dầu, mực in, keo, hoá chất"
+        ],
+        [
+          "🎯",
+          "Độ tán sương ổn định, đồng đều"
+        ]
+      ],
+      "specs": {
+        "Ứng dụng chính": "Tán sương chất lỏng công nghiệp đa dạng (không chỉ sơn)"
+      },
+      "applications": [
+        "Phun chất khử mùi, hoá chất công nghiệp",
+        "Phun mực in, dầu, keo dán trong dây chuyền"
+      ],
+      "why": "Khi ứng dụng của bạn không phải sơn mà là các chất lỏng công nghiệp khác, họ TOF-5/6 là lựa chọn được thiết kế đúng mục đích thay vì dùng tạm súng sơn."
+    },
+    {
+      "slug": "wa-1218-0609",
+      "name": "WA-1218 | WA-0915 | WA-0609 Kèm Đầu Nối Dài",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "accessories",
+      "subCatLabel": "Phụ kiện & Cốc phun",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/WA-1218-A1.jpg",
+      "shortDesc": "Súng phun sơn lót bên trong ống, ba chiều dài đầu nối 90/150/180mm.",
+      "lead": "WA-1218/WA-0915/WA-0609 là súng phun tự động chuyên dùng để sơn lót bên trong (internal coating), với ba tuỳ chọn chiều dài ống nối 90mm, 150mm và 180mm để tiếp cận sâu vào các kết cấu ống hoặc khoang kín trên dây chuyền tự động.",
+      "features": [
+        [
+          "🤖",
+          "Súng phun tự động chuyên sơn lót bên trong"
+        ],
+        [
+          "📏",
+          "Ba chiều dài đầu nối: 90 / 150 / 180 mm"
+        ]
+      ],
+      "specs": {
+        "Chiều dài đầu nối": "90 / 150 / 180 mm",
+        "Ứng dụng chính": "Sơn lót bên trong ống, khoang kín"
+      },
+      "applications": [
+        "Sơn lót bên trong ống công nghiệp trên dây chuyền tự động",
+        "Xử lý bề mặt trong các khoang kín"
+      ],
+      "why": "Đây là phiên bản tự động của dòng WIDER1 Extension — phù hợp khi công đoạn sơn bên trong ống đã được tích hợp vào dây chuyền tự động hoá thay vì thao tác thủ công."
+    },
+    {
+      "slug": "fg-6-61-62",
+      "name": "FG-6 | FG-61 | FG-62",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "accessories",
+      "subCatLabel": "Phụ kiện & Cốc phun",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/06/FG-6-MAIN.jpg",
+      "shortDesc": "Súng bơm định lượng thủ công (Flow Gun) cho keo trám và keo dán độ nhớt cao, chịu áp tới 250 bar.",
+      "lead": "FG-6/FG-61/FG-62 là súng bơm định lượng thủ công (manual flow gun), chuyên dùng cho keo trám (sealant) và keo dán độ nhớt cao, chịu được áp suất vận hành lên tới 250 bar (3.625 psi) — mức áp suất rất cao so với súng phun sơn thông thường.",
+      "features": [
+        [
+          "💪",
+          "Chịu áp suất vận hành lên tới 250 bar (3.625 psi)"
+        ],
+        [
+          "🧴",
+          "Chuyên dùng cho keo trám và keo dán độ nhớt cao"
+        ],
+        [
+          "✋",
+          "Vận hành thủ công, định lượng chính xác"
+        ]
+      ],
+      "specs": {
+        "Áp suất vận hành tối đa": "250 bar (3.625 psi)",
+        "Ứng dụng chính": "Keo trám, keo dán độ nhớt cao"
+      },
+      "applications": [
+        "Trám khe, dán vật liệu độ nhớt rất cao",
+        "Ứng dụng công nghiệp cần áp lực bơm cực lớn"
+      ],
+      "why": "Với keo/chất trám quá đặc mà bơm áp lực thông thường không đẩy nổi, FG-6 với áp suất tới 250 bar là công cụ chuyên dụng cho các vật liệu khó nhất."
+    },
+    {
+      "slug": "ak-1b2",
+      "name": "AK-1B2 Bộ Điều Áp Khí",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "accessories",
+      "subCatLabel": "Phụ kiện & Cốc phun",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/AK-1B2-A1.jpg",
+      "shortDesc": "Bộ điều áp khí nhỏ gọn, đồng hồ kính chất lượng cao, dải chỉnh 0-100 psi.",
+      "lead": "AK-1B2 là bộ điều áp khí (air regulator) kích thước nhỏ gọn, trang bị đồng hồ đo kiểu kính chất lượng cao, dải điều chỉnh từ 0 đến 100 psi — phụ kiện cần thiết để kiểm soát chính xác áp suất khí cấp cho súng phun.",
+      "features": [
+        [
+          "📏",
+          "Kích thước nhỏ gọn"
+        ],
+        [
+          "🔍",
+          "Đồng hồ đo kiểu kính chất lượng cao"
+        ],
+        [
+          "🎚️",
+          "Dải điều chỉnh 0–100 psi"
+        ]
+      ],
+      "specs": {
+        "Dải điều chỉnh": "0–100 psi",
+        "Mã phụ tùng": "#8130B"
+      },
+      "applications": [
+        "Kiểm soát áp suất khí cấp cho súng phun sơn",
+        "Lắp bổ sung cho hệ thống khí nén hiện có"
+      ],
+      "why": "Một bộ điều áp chính xác giúp thợ sơn kiểm soát áp lực khí ổn định giữa các lượt phun — yếu tố quan trọng để có kết quả lặp lại."
+    },
+    {
+      "slug": "ak-1r2",
+      "name": "AK-1R2 Bộ Điều Áp Khí",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "accessories",
+      "subCatLabel": "Phụ kiện & Cốc phun",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/AK-1R2-A1.jpg",
+      "shortDesc": "Bộ điều áp khí tự xả (self-purging), gioăng chịu dung môi, dải chỉnh 0-60 psi.",
+      "lead": "AK-1R2 là bộ điều áp khí có cơ chế tự xả (self-purging) giúp giữ áp suất ổn định và hiệu suất tối ưu, gioăng và phớt làm bằng vật liệu chịu dung môi, dải điều chỉnh từ 0 đến 60 psi.",
+      "features": [
+        [
+          "🔄",
+          "Cơ chế tự xả (self-purging), áp suất ổn định"
+        ],
+        [
+          "🛡️",
+          "Gioăng và phớt chịu dung môi"
+        ],
+        [
+          "🎚️",
+          "Dải điều chỉnh 0–60 psi"
+        ]
+      ],
+      "specs": {
+        "Dải điều chỉnh": "0–60 psi",
+        "Mã phụ tùng": "#8131B",
+        "Gioăng/phớt": "Chịu dung môi"
+      },
+      "applications": [
+        "Kiểm soát áp suất khí cho súng phun sử dụng dung môi mạnh"
+      ],
+      "why": "Gioăng chịu dung môi giúp AK-1R2 bền hơn khi dùng với các loại sơn/dung môi ăn mòn mạnh so với bộ điều áp tiêu chuẩn."
+    },
+    {
+      "slug": "aluminum-gravity-cups",
+      "name": "Cốc Trọng Lực Nhôm (Aluminum Gravity Cups)",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "accessories",
+      "subCatLabel": "Phụ kiện & Cốc phun",
+      "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/Aluminum-Gravity-Cups_Main.jpg",
+      "shortDesc": "Cốc nhôm bền, dùng cho hệ thống súng trọng lực, tương thích rộng rãi với các dòng súng Anest Iwata.",
+      "lead": "Cốc trọng lực nhôm là phụ kiện được thiết kế gọn nhẹ, bền bỉ cho hệ thống súng phun cấp liệu kiểu trọng lực (gravity-fed), giúp việc pha trộn, chứa và vệ sinh sơn đơn giản hơn, tương thích với nhiều dòng súng phun của Anest Iwata.",
+      "features": [
+        [
+          "🏗️",
+          "Chất liệu nhôm bền, gọn nhẹ"
+        ],
+        [
+          "🔗",
+          "Tương thích rộng rãi với các dòng súng phun Anest Iwata"
+        ],
+        [
+          "🧴",
+          "Đơn giản hoá việc pha trộn, chứa và vệ sinh sơn"
+        ]
+      ],
+      "specs": {
+        "Chất liệu": "Nhôm",
+        "Kiểu cấp liệu": "Trọng lực (gravity-fed)"
+      },
+      "applications": [
+        "Phụ kiện thay thế cho các dòng súng trọng lực",
+        "Dự trữ cốc thay thế cho xưởng sơn"
+      ],
+      "why": "Có sẵn cốc thay thế chính hãng giúp xưởng luôn sẵn sàng chuyển đổi màu sơn nhanh mà không phải chờ vệ sinh cốc cũ."
+    }
+  ]
+}

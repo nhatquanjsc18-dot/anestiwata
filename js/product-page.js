@@ -114,4 +114,3 @@ function aiRenderProductPage() {
   });
 }
 
-document.addEventListener("DOMContentLoaded", aiRenderProductPage);

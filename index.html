@@ -95,21 +95,20 @@
 
 <div id="aiFooter"></div>
 
-<script src="js/products-data.js"></script>
-<script src="js/products-data-2.js"></script>
-<script src="js/products-data-3.js"></script>
-<script src="js/products-data-4.js"></script>
-<script src="js/products-data-5.js"></script>
+<script src="js/data-loader.js"></script>
 <script src="js/layout.js"></script>
 <script src="js/catalog.js"></script>
 <script>
-  aiMountLayout("home");
-  document.getElementById("catGrid").innerHTML = CATEGORIES.map(function (c) {
-    var count = PRODUCTS.filter(function (p) { return p.category === c.key; }).length;
-    return '<a class="cat-card" href="san-pham.html?cat=' + c.key + '">' +
-      '<div class="cat-icon">' + c.icon + '</div>' +
-      '<h3>' + c.label + '</h3><span>' + count + ' sản phẩm</span></a>';
-  }).join("");
+  window.aiDataReady.then(function () {
+    aiMountLayout("home");
+    document.getElementById("catGrid").innerHTML = CATEGORIES.map(function (c) {
+      var count = PRODUCTS.filter(function (p) { return p.category === c.key; }).length;
+      return '<a class="cat-card" href="san-pham.html?cat=' + c.key + '">' +
+        '<div class="cat-icon">' + c.icon + '</div>' +
+        '<h3>' + c.label + '</h3><span>' + count + ' sản phẩm</span></a>';
+    }).join("");
+    aiInitFeaturedGrid("featuredGrid", 8);
+  });
 </script>
 </body>
 </html>
