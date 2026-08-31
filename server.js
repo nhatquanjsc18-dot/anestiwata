@@ -8,7 +8,24 @@ const path = require("path");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const PRODUCTS_PATH = path.join(__dirname, "data", "products.json");
+
+// --- Vùng lưu dữ liệu sản phẩm ---
+// Mặc định nằm trong repo (data/products.json) — tiện cho chạy local, nhưng
+// nếu deploy bằng auto-deploy từ Git, mỗi lần push sẽ ghi đè file này, xóa
+// mất các thay đổi thêm/sửa qua /admin trên site thật.
+// Đặt biến môi trường DATA_DIR trỏ tới một thư mục NẰM NGOÀI vùng deploy
+// (ví dụ thư mục riêng ngoài Git trên hosting) để dữ liệu admin sửa được
+// giữ nguyên qua các lần deploy. Lần chạy đầu tiên, nếu thư mục đó chưa có
+// products.json, hệ thống sẽ tự copy dữ liệu gốc từ repo sang làm dữ liệu khởi tạo.
+const DATA_DIR = process.env.DATA_DIR || path.join(__dirname, "data");
+const SEED_PRODUCTS_PATH = path.join(__dirname, "data", "products.json");
+const PRODUCTS_PATH = path.join(DATA_DIR, "products.json");
+
+if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
+if (!fs.existsSync(PRODUCTS_PATH) && fs.existsSync(SEED_PRODUCTS_PATH)) {
+  fs.copyFileSync(SEED_PRODUCTS_PATH, PRODUCTS_PATH);
+  console.log("Khởi tạo dữ liệu sản phẩm tại:", PRODUCTS_PATH);
+}
 
 // --- Tài khoản quản trị ---
 // Mật khẩu không lưu dạng plaintext trong code — chỉ lưu bcrypt hash.
@@ -154,4 +171,5 @@ app.use((req, res) => {
 
 app.listen(PORT, () => {
   console.log(`Anest Iwata Việt Nam đang chạy tại http://localhost:${PORT}`);
+  console.log(`Dữ liệu sản phẩm đọc/ghi tại: ${PRODUCTS_PATH}`);
 });

@@ -34,6 +34,18 @@ Truy cập `https://<domain>/admin`, đăng nhập bằng tài khoản quản tr
 - Đổi tài khoản/mật khẩu: đặt biến môi trường `ADMIN_USER` và `ADMIN_PASSWORD_HASH` khi chạy server (hash tạo bằng `node -e "console.log(require('bcryptjs').hashSync('mat-khau-moi', 10))"`), hoặc thay trực tiếp hằng số trong `server.js`.
 - **Quan trọng: `/admin` và API quản lý sản phẩm chỉ hoạt động khi site chạy qua `server.js` (Node.js hosting).** Nếu deploy dạng Shared Hosting tĩnh (chỉ upload file HTML/CSS/JS, không chạy Node.js), phần xem sản phẩm vẫn hoạt động bình thường nhưng trang quản trị sẽ không hoạt động vì không có backend xử lý đăng nhập/API.
 
+### Vùng lưu dữ liệu sản phẩm (`DATA_DIR`)
+
+Dữ liệu sản phẩm đọc/ghi tại `data/products.json`. Mặc định file này nằm trong chính thư mục mã nguồn (tiện cho chạy local), **nhưng nếu Hostinger tự động deploy mỗi khi `git push`, file này sẽ bị ghi đè về bản trong repo ở lần deploy tiếp theo — xóa mất mọi thay đổi thêm/sửa/xóa qua `/admin` trên site thật.**
+
+Để dữ liệu admin sửa được giữ nguyên qua các lần deploy, đặt biến môi trường `DATA_DIR` trỏ tới một thư mục **nằm ngoài vùng mã nguồn được Git deploy lại mỗi lần** (ví dụ một thư mục riêng ngoài repo trên hosting, không bị git ghi đè):
+
+```
+DATA_DIR=/home/<user>/data-anestiwata
+```
+
+Lần chạy đầu tiên với `DATA_DIR` mới, server tự động copy dữ liệu gốc từ `data/products.json` trong repo sang làm dữ liệu khởi tạo tại đường dẫn đó; từ sau, mọi thêm/sửa/xóa qua `/admin` chỉ ghi vào đây, không đụng tới file trong repo nên deploy lại không mất dữ liệu. Trong hPanel Node.js App, thêm biến này ở mục **Environment Variables** trước khi Restart app.
+
 ## URL đẹp cho trang sản phẩm
 
 Trang chi tiết sản phẩm dùng URL dạng `/ten-slug-san-pham` (ví dụ `/dps-120-dps-90`) thay vì `/product.html?slug=...`.
