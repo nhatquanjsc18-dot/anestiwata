@@ -565,8 +565,8 @@
       "name": "PC-18D Bình Áp Lực 2 Quart",
       "category": "fluid",
       "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
-      "subCat": "low-pressure",
-      "subCatLabel": "Cấp liệu áp lực thấp",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
       "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/PC-18D-A1.jpg",
       "shortDesc": "Bình cấp sơn áp lực dung tích 2 quart (~1,9L), thân nhôm, áp suất làm việc tối đa 50,5 psi.",
       "lead": "PC-18D là bình cấp sơn áp lực (pressure pot) dung tích nhỏ 2 quart, thân nhôm nhẹ, thường dùng đi kèm súng phun áp lực (pressure feed) cho các công việc phun sơn cần mang vác di chuyển hoặc phun trong không gian hẹp.",
@@ -607,8 +607,8 @@
       "name": "PC-18DT Bình Áp Lực Phủ PTFE",
       "category": "fluid",
       "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
-      "subCat": "low-pressure",
-      "subCatLabel": "Cấp liệu áp lực thấp",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
       "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/PC-18DT-A1.jpg",
       "shortDesc": "Phiên bản PC-18D với lớp phủ PTFE bên trong, chống bám dính, dễ vệ sinh sau khi dùng sơn đặc biệt.",
       "lead": "PC-18DT là biến thể của PC-18D với lớp phủ PTFE ở thành bình, giúp sơn khó bám dính lại thành, dễ vệ sinh hơn khi sử dụng các loại sơn/keo dễ đông cứng hoặc khó rửa trôi bằng dung môi thông thường.",
@@ -652,8 +652,8 @@
       "name": "PC-18DM Bình Áp Lực 2 Quart",
       "category": "fluid",
       "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
-      "subCat": "low-pressure",
-      "subCatLabel": "Cấp liệu áp lực thấp",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
       "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/PC-18DM-A1.jpg",
       "shortDesc": "Biến thể PC-18 dùng đầu nối khác (G 3/8\" không ren PF), cùng dung tích và áp suất làm việc.",
       "lead": "PC-18DM là một biến thể khác trong họ bình áp lực PC-18, cùng dung tích 2 quart và áp suất làm việc tối đa tương đương, khác ở kiểu đầu nối chất lỏng để tương thích với các cụm súng phun/đường ống khác nhau.",
@@ -693,8 +693,8 @@
       "name": "PET-10 Bình Áp Lực 2,5 Gallon",
       "category": "fluid",
       "categoryLabel": "Hệ Thống Cấp Liệu Sơn",
-      "subCat": "low-pressure",
-      "subCatLabel": "Cấp liệu áp lực thấp",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
       "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/PET-10-A1.jpg",
       "shortDesc": "Bình áp lực cỡ lớn 2,5 gallon, lót thép không gỉ tháo rời được, hai đồng hồ chỉnh áp độc lập.",
       "lead": "PET-10 là bình cấp sơn áp lực hạng nặng dung tích 2,5 gallon, có lớp lót trong bằng thép không gỉ tháo rời được cùng ống hút thép không gỉ, giúp vệ sinh nhanh và dùng được cho cả sơn gốc dung môi lẫn gốc nước với bất kỳ súng phun áp lực nào của Anest Iwata.",
@@ -1622,10 +1622,10 @@
       "name": "WIDER2L",
       "category": "coating",
       "categoryLabel": "Thiết Bị Phun Sơn",
-      "subCat": "general-industrial",
-      "subCatLabel": "Công nghiệp tổng quát",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
       "img": "https://anestiwataamericas.com/wp-content/uploads/2024/02/Wider2L-A1.jpg",
-      "shortDesc": "Súng phun áp lực cỡ đầy đủ, vệt phun rộng, chuyên trị các bề mặt lớn trong công nghiệp.",
+      "shortDesc": "Súng phun sơn gỗ Anest Iwata WIDER2L, vệt phun rộng, chuyên trị bề mặt đồ gỗ nội thất khổ lớn.",
       "lead": "Khi cần phủ sơn diện tích lớn, WIDER2L là lựa chọn phù hợp với thân súng cỡ đầy đủ và vệt phun rộng vượt trội — trở thành thiết bị quen thuộc trong môi trường công nghiệp và các dự án lớn. Công nghệ Split Nozzle™ đảm bảo bề mặt mịn màng mỗi lần phun. Cũng có phiên bản súng thường.",
       "features": [
         [
@@ -1659,10 +1659,11 @@
         "Thân súng": "Cỡ đầy đủ (full-size)"
       },
       "applications": [
+        "Sơn phủ bề mặt gỗ khổ lớn: cửa gỗ, vách ốp, tấm gỗ công nghiệp",
         "Sơn diện tích lớn trong công nghiệp",
         "Dự án sơn quy mô lớn"
       ],
-      "why": "Khi tốc độ phủ sơn nhanh trên diện tích lớn là ưu tiên hàng đầu, vệt phun rộng của WIDER2L giúp rút ngắn thời gian thi công đáng kể."
+      "why": "Cùng dòng WIDER với vệt phun rộng, WIDER2L phù hợp các xưởng chuyên gia công cửa gỗ, vách ốp và tấm gỗ công nghiệp khổ lớn, nơi tốc độ phủ sơn ảnh hưởng trực tiếp đến năng suất sản xuất."
     },
     {
       "slug": "lph-300-lv",
@@ -1962,10 +1963,10 @@
       "name": "WS-200 Series",
       "category": "coating",
       "categoryLabel": "Thiết Bị Phun Sơn",
-      "subCat": "general-industrial",
-      "subCatLabel": "Công nghiệp tổng quát",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
       "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/WS-200-Feature.jpg",
-      "shortDesc": "Súng thân nhôm rèn cao cấp, có tuỳ chọn Split Nozzle™ hoặc vòi phun phẳng (Flat Tip).",
+      "shortDesc": "Súng phun sơn gỗ cao cấp Anest Iwata WS-200, thân nhôm rèn, tuỳ chọn Split Nozzle™ cho lớp sơn phủ đồ gỗ mịn đều.",
       "lead": "WS-200 Series được thiết kế để đáp ứng kỳ vọng của những người dùng khó tính nhất, có sẵn với công nghệ Split Nozzle™ hoặc vòi phun phẳng (Flat Tip Nozzle), cho độ tán sương vượt trội và hiệu suất chuyển sơn không đối thủ. Thân súng nhôm rèn nhẹ, đường dẫn chất lỏng thép không gỉ, bền bỉ và dễ bảo trì.",
       "features": [
         [
@@ -1995,10 +1996,11 @@
         "Vòi phun": "Split Nozzle™ hoặc Flat Tip"
       },
       "applications": [
-        "Sơn công nghiệp cao cấp",
-        "Người dùng yêu cầu chất lượng khắt khe"
+        "Sơn hoàn thiện cao cấp cho đồ gỗ nội thất, đồ gỗ xuất khẩu",
+        "Xưởng cần lớp sơn mịn, đều màu trên bề mặt gỗ tự nhiên và gỗ công nghiệp",
+        "Sơn công nghiệp cao cấp, người dùng yêu cầu chất lượng khắt khe"
       ],
-      "why": "Dành cho những thợ sơn khó tính nhất, WS-200 Series là dòng súng cao cấp kết hợp cả độ bền cơ khí lẫn chất lượng tán sương hàng đầu."
+      "why": "Đồ gỗ nội thất cao cấp hay đồ gỗ xuất khẩu đòi hỏi lớp sơn mịn, không vệt — công nghệ Split Nozzle™ hoặc vòi phun phẳng của WS-200 giúp kiểm soát độ mịn của tia sơn tốt hơn súng phun tiêu chuẩn."
     },
     {
       "slug": "w-400",
@@ -2046,10 +2048,10 @@
       "name": "WIDER1",
       "category": "coating",
       "categoryLabel": "Thiết Bị Phun Sơn",
-      "subCat": "general-industrial",
-      "subCatLabel": "Công nghiệp tổng quát",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
       "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/WIDER1-A1.jpg",
-      "shortDesc": "Súng phun compact, vệt phun hẹp hơn súng cỡ thường, thân mạ crom dễ vệ sinh.",
+      "shortDesc": "Súng phun sơn gỗ Anest Iwata WIDER1, vệt phun hẹp, thân mạ crom dễ vệ sinh — phù hợp chi tiết đồ gỗ nội thất.",
       "lead": "Dòng Wider1 có thiết kế nhỏ gọn với vệt phun hẹp hơn súng cỡ thường. Đừng để kích thước đánh lừa — súng vẫn có công thái học tốt, núm điều khiển lớn dễ thao tác và lớp mạ crom giúp vệ sinh nhanh chóng. Có 3 cấu hình: trọng lực, hút đáy và cấp áp lực.",
       "features": [
         [
@@ -2082,19 +2084,21 @@
         "Thân súng": "Mạ crom"
       },
       "applications": [
+        "Phun sơn PU, vecni cho chi tiết đồ gỗ nội thất, tủ bếp, khung cửa",
+        "Sơn hoàn thiện đồ gỗ mỹ nghệ cần vệt phun hẹp, kiểm soát chính xác",
         "Sơn công nghiệp cỡ nhỏ và vừa"
       ],
-      "why": "Ba cấu hình cấp liệu khác nhau giúp WIDER1 linh hoạt lắp đặt theo đúng nhu cầu công việc của từng xưởng."
+      "why": "Với các chi tiết đồ gỗ nhỏ, đường nét phức tạp như khung cửa, phào chỉ, tay nắm, vệt phun hẹp của WIDER1 giúp thợ sơn kiểm soát lớp phủ chính xác hơn, hạn chế sơn thừa loang ra bề mặt xung quanh."
     },
     {
       "slug": "wider2",
       "name": "WIDER2",
       "category": "coating",
       "categoryLabel": "Thiết Bị Phun Sơn",
-      "subCat": "general-industrial",
-      "subCatLabel": "Công nghiệp tổng quát",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
       "img": "https://anestiwataamericas.com/wp-content/uploads/2024/04/WIDER2-A1.jpg",
-      "shortDesc": "Súng cỡ đầy đủ, vệt phun rộng, kết cấu bền, phù hợp công nghiệp quy mô lớn.",
+      "shortDesc": "Súng phun sơn gỗ Anest Iwata WIDER2 cỡ đầy đủ, vệt phun rộng, phù hợp sơn phủ nhanh bề mặt gỗ diện tích lớn.",
       "lead": "Wider2 là súng cỡ đầy đủ với vệt phun rộng và kết cấu bền bỉ, tán sương xuất sắc cùng công thái học tốt, núm điều khiển lớn và lớp mạ crom dễ vệ sinh. Có 3 cấu hình: trọng lực, hút đáy và cấp áp lực.",
       "features": [
         [
@@ -2127,9 +2131,11 @@
         "Thân súng": "Cỡ đầy đủ (full-size), mạ crom"
       },
       "applications": [
+        "Phun sơn lót, sơn phủ bề mặt gỗ diện tích lớn: mặt bàn, cánh tủ, vách gỗ",
+        "Xưởng sản xuất đồ gỗ nội thất cần sơn nhanh, năng suất cao",
         "Sơn công nghiệp quy mô lớn"
       ],
-      "why": "Kết cấu bền bỉ cỡ đầy đủ giúp WIDER2 chịu được tần suất sử dụng cao trong môi trường công nghiệp nặng."
+      "why": "Vệt phun rộng của WIDER2 giúp rút ngắn thời gian sơn phủ trên các bề mặt gỗ lớn như mặt bàn, cánh tủ — phù hợp xưởng sản xuất đồ gỗ nội thất cần năng suất cao mà vẫn giữ lớp sơn đều màu."
     },
     {
       "slug": "airgunsa-az3hte-2",
@@ -2677,10 +2683,10 @@
       "name": "WA-M220 | WA-M220-L Không Kèm Manifold",
       "category": "coating",
       "categoryLabel": "Thiết Bị Phun Sơn",
-      "subCat": "general-industrial",
-      "subCatLabel": "Công nghiệp tổng quát",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
       "img": "https://anestiwataamericas.com/wp-content/uploads/2025/03/WA-M220-A1.jpg",
-      "shortDesc": "Súng phun tự động tán sương cao, không cần van solenoid rời, 16 nấc chỉnh kim chất lỏng.",
+      "shortDesc": "Súng phun sơn tự động Anest Iwata WA-M220 cho dây chuyền sơn gỗ tự động, tán sương cao, 16 nấc chỉnh kim chất lỏng.",
       "lead": "WA-M220/WA-M220-L là súng phun tự động tán sương cao, dùng công nghệ Split Nozzle™ và chụp khí độc quyền của Anest Iwata để đạt hiệu suất chuyển sơn cao, xử lý tốt cả vật liệu gốc nước và gốc dung môi khó tính nhất với overspray tối thiểu. Không cần dùng van solenoid rời nhờ khí tán sương và khí tạo quạt được tích hợp cùng piston khí, giúp giảm downtime sản xuất đáng kể qua cơ chế tháo lắp hai bước.",
       "features": [
         [
@@ -2719,10 +2725,11 @@
         "Góc xoay chụp khí": "90° – 180°"
       },
       "applications": [
+        "Dây chuyền sơn gỗ tự động: cánh cửa, ván sàn, tấm ốp gỗ công nghiệp",
         "Dây chuyền sơn tự động yêu cầu chất lượng cao",
-        "Xử lý vật liệu khó tính (gốc nước & gốc dung môi)"
+        "Xử lý vật liệu khó tính (gốc nước & gốc dung môi) trên bề mặt gỗ"
       ],
-      "why": "Việc loại bỏ van solenoid rời không chỉ giảm chi phí linh kiện mà còn đơn giản hoá hệ thống khí nén tổng thể của dây chuyền — ít điểm hỏng hóc hơn."
+      "why": "Các nhà máy sản xuất đồ gỗ có dây chuyền sơn tự động cần súng phun hoạt động ổn định không cần van solenoid rời — WA-M220 tích hợp sẵn, dễ lắp vào hệ thống, 16 nấc chỉnh kim giúp tinh chỉnh lưu lượng sơn phù hợp từng loại vật liệu gốc nước hoặc gốc dung môi dùng cho gỗ."
     },
     {
       "slug": "sga-101",
