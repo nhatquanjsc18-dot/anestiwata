@@ -4,15 +4,67 @@
    để luôn đồng bộ, không phải sửa tay ở nhiều nơi.
    ============================================================ */
 
+function aiBuildMegaMenuHTML() {
+  if (typeof CATEGORIES === "undefined" || typeof PRODUCTS === "undefined") return "";
+
+  var cols = CATEGORIES.map(function (c) {
+    var inCat = PRODUCTS.filter(function (p) { return p.category === c.key; });
+    var subs = {};
+    var subOrder = [];
+    inCat.forEach(function (p) {
+      if (!p.subCat) return;
+      if (!subs[p.subCat]) { subs[p.subCat] = { label: p.subCatLabel || p.subCat, count: 0 }; subOrder.push(p.subCat); }
+      subs[p.subCat].count++;
+    });
+    var subLinks = subOrder.map(function (key) {
+      return '<li><a href="san-pham.html?cat=' + c.key + '&sub=' + key + '">' +
+        subs[key].label + ' <span class="mega-count">' + subs[key].count + "</span></a></li>";
+    }).join("");
+
+    return (
+      '<div class="mega-col">' +
+        '<a class="mega-col-title" href="san-pham.html?cat=' + c.key + '">' +
+          '<span class="mega-ic">' + c.icon + "</span>" + c.label +
+          ' <span class="mega-count">' + inCat.length + "</span>" +
+        "</a>" +
+        (subLinks ? '<ul class="mega-sublist">' + subLinks + "</ul>" : "") +
+      "</div>"
+    );
+  }).join("");
+
+  return (
+    '<div class="mega-menu">' +
+      '<div class="mega-menu-inner">' +
+        cols +
+        '<div class="mega-col mega-col-cta">' +
+          '<p>Không tìm thấy thiết bị phù hợp?</p>' +
+          '<a class="btn btn-primary btn-sm" href="san-pham.html">Xem toàn bộ catalogue</a>' +
+          '<a class="btn btn-outline btn-sm" href="index.html#lien-he">Yêu cầu tư vấn</a>' +
+        "</div>" +
+      "</div>" +
+    "</div>"
+  );
+}
+
 function aiHeaderHTML(activePage) {
   var navItems = [
     { href: "index.html", label: "Trang chủ", key: "home" },
-    { href: "san-pham.html", label: "Sản phẩm", key: "products" },
+    { href: "san-pham.html", label: "Sản phẩm", key: "products", mega: true },
     { href: "index.html#gioi-thieu", label: "Giới thiệu", key: "about" },
     { href: "index.html#lien-he", label: "Liên hệ", key: "contact" }
   ];
   var nav = navItems.map(function (n) {
-    return '<a href="' + n.href + '"' + (activePage === n.key ? ' class="active"' : "") + ">" + n.label + "</a>";
+    if (!n.mega) {
+      return '<a href="' + n.href + '"' + (activePage === n.key ? ' class="active"' : "") + ">" + n.label + "</a>";
+    }
+    return (
+      '<div class="nav-item has-mega">' +
+        '<a href="' + n.href + '" class="nav-mega-trigger' + (activePage === n.key ? " active" : "") + '">' +
+          n.label + ' <span class="mega-caret">▾</span>' +
+        "</a>" +
+        aiBuildMegaMenuHTML() +
+      "</div>"
+    );
   }).join("");
 
   return (
@@ -64,9 +116,28 @@ function aiFooterHTML() {
   );
 }
 
+function aiWireMegaMenu(headerEl) {
+  var item = headerEl.querySelector(".nav-item.has-mega");
+  if (!item) return;
+  var trigger = item.querySelector(".nav-mega-trigger");
+
+  trigger.addEventListener("click", function (e) {
+    // Trên thiết bị cảm ứng (không hỗ trợ hover): lần bấm đầu mở mega menu
+    // thay vì đi thẳng tới trang catalogue; bấm lần nữa hoặc bấm ra ngoài để đóng.
+    if (window.matchMedia && window.matchMedia("(hover: none)").matches) {
+      e.preventDefault();
+      item.classList.toggle("open");
+    }
+  });
+
+  document.addEventListener("click", function (e) {
+    if (!item.contains(e.target)) item.classList.remove("open");
+  });
+}
+
 function aiMountLayout(activePage) {
   var h = document.getElementById("aiHeader");
   var f = document.getElementById("aiFooter");
-  if (h) h.innerHTML = aiHeaderHTML(activePage);
+  if (h) { h.innerHTML = aiHeaderHTML(activePage); aiWireMegaMenu(h); }
   if (f) f.innerHTML = aiFooterHTML();
 }
