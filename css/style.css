@@ -148,7 +148,7 @@ ul { list-style: none; }
   top: calc(100% + 14px);
   left: 50%;
   transform: translateX(-50%);
-  width: min(920px, 90vw);
+  width: min(1180px, 94vw);
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
@@ -169,7 +169,7 @@ ul { list-style: none; }
 .nav-item.has-mega:hover .mega-caret,
 .nav-item.has-mega.open .mega-caret { transform: rotate(180deg); }
 
-.mega-menu-inner { display: grid; grid-template-columns: repeat(4, 1fr) 0.85fr; gap: 26px; text-align: left; }
+.mega-menu-inner { display: grid; grid-template-columns: repeat(4, 1fr) 0.9fr; gap: 40px; text-align: left; }
 .mega-col-title {
   display: flex; align-items: center; gap: 8px;
   font-size: 14px; font-weight: 800; color: var(--navy-900);
