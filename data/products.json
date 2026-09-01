@@ -3006,6 +3006,174 @@
         "Dự trữ cốc thay thế cho xưởng sơn"
       ],
       "why": "Có sẵn cốc thay thế chính hãng giúp xưởng luôn sẵn sàng chuyển đổi màu sơn nhanh mà không phải chờ vệ sinh cốc cũ."
+    },
+    {
+      "slug": "w71",
+      "name": "Súng Phun Sơn Anest Iwata W71",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
+      "img": "https://nhatquan.vn/wp-content/uploads/2021/06/Sung-Phun-Son-W71.jpg",
+      "shortDesc": "Súng phun sơn gỗ Anest Iwata W71, nhiều tùy chọn cỡ béc từ 0.8–1.8mm, chuyên dùng cho đồ gỗ nội thất cần độ mịn cao.",
+      "lead": "W71 là dòng súng phun sơn gỗ quen thuộc của Anest Iwata, có cả bản bầu dưới (series S) và bầu ngang (series G) với nhiều cỡ béc từ 0,8mm đến 1,8mm để chọn đúng độ mịn cho từng loại vật liệu. Thân súng gọn nhẹ, cầm chắc tay, phù hợp các xưởng gỗ nội thất cần phun màu, phun bóng chi tiết đòi hỏi độ tỉ mỉ cao.",
+      "features": [
+        [
+          "🎯",
+          "Đa dạng cỡ béc 0,8–1,8mm — chọn đúng độ mịn cho từng loại vật liệu"
+        ],
+        [
+          "🪶",
+          "Thân súng gọn nhẹ, cầm chắc tay, thao tác thoải mái khi phun lâu"
+        ],
+        [
+          "🪵",
+          "Chuyên dùng cho đồ gỗ nội thất cần độ phủ mịn, tiết kiệm sơn"
+        ],
+        [
+          "🔄",
+          "Có bản bầu dưới (series S) và bầu ngang (series G) tùy nhu cầu sử dụng"
+        ]
+      ],
+      "specs": {
+        "Model tiêu biểu": "W71-0, W71-1S đến W71-4S (bầu dưới), W71-1G đến W71-4G (bầu ngang)",
+        "Cỡ béc": "0,8 – 1,8 mm",
+        "Vệt phun": "100 – 265 mm tùy model",
+        "Hơi trợ lực": "0,29 – 0,34 MPa",
+        "Khí tiêu thụ": "75 – 265 Lpm tùy model",
+        "Trọng lượng": "khoảng 475 g"
+      },
+      "applications": [
+        "Phun màu, phun bóng đồ gỗ nội thất",
+        "Chi tiết gỗ đòi hỏi độ phủ mịn, tỉ mỉ cao",
+        "Phun sơn công nghiệp cỡ nhỏ và vừa"
+      ],
+      "why": "Với nhiều lựa chọn cỡ béc trong cùng một dòng, W71 giúp xưởng gỗ nội thất dễ dàng chọn đúng model phù hợp độ nhớt sơn/vecni đang dùng mà không cần đổi hẳn sang súng khác."
+    },
+    {
+      "slug": "w77",
+      "name": "Súng Phun Sơn Anest Iwata W77",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
+      "img": "https://nhatquan.vn/wp-content/uploads/2021/06/sung-phun-son-iwata-w77-1.jpg",
+      "shortDesc": "Súng phun sơn/keo Anest Iwata W77, đầu phun và kim béc thép không gỉ 316, chuyên phun keo và vật liệu độ nhớt cao cho ngành gỗ.",
+      "lead": "W77 là dòng súng bình trên lâu đời của Anest Iwata, nổi bật với đầu phun và kim béc bằng thép không gỉ 316 rất cứng, chịu mài mòn tốt khi phun các vật liệu có độ nhớt cao như keo dán. Bộ chỉnh khí được tích hợp sẵn trong súng, cân bằng tốt khi cầm phun trong thời gian dài — phù hợp phun keo trong ngành sản xuất đồ gỗ, nệm lò xo và nhiều ứng dụng công nghiệp khác.",
+      "features": [
+        [
+          "🔩",
+          "Đầu phun và kim béc thép không gỉ 316, chịu mài mòn tốt với vật liệu độ nhớt cao"
+        ],
+        [
+          "🧴",
+          "Chuyên trị phun keo dán, sơn độ nhớt cao — không chỉ riêng sơn lỏng"
+        ],
+        [
+          "⚖️",
+          "Thiết kế cân bằng, bộ chỉnh khí tích hợp sẵn trong súng"
+        ],
+        [
+          "📏",
+          "6 model với đường béc từ 1,5mm đến 2,5mm tùy nhu cầu"
+        ]
+      ],
+      "specs": {
+        "Model": "W77-1G, 11G, 12G, 2G, 21G, 3G",
+        "Đường béc": "1,5 – 2,5 mm",
+        "Khoảng cách phun": "250 mm",
+        "Áp lực hơi phun": "0,34 MPa",
+        "Khí tiêu thụ": "180 – 370 lít/phút tùy model",
+        "Trọng lượng": "khoảng 550 g"
+      },
+      "applications": [
+        "Phun keo dán trong sản xuất đồ gỗ nội thất",
+        "Phun keo cho nệm lò xo",
+        "Phun sơn/vật liệu độ nhớt cao trong công nghiệp"
+      ],
+      "why": "Khi vật liệu phun không phải sơn loãng thông thường mà là keo dán hoặc hợp chất độ nhớt cao, kim béc thép 316 của W77 bền hơn hẳn kim béc thường — tránh mài mòn nhanh và giữ vệt phun ổn định lâu dài."
+    },
+    {
+      "slug": "w61",
+      "name": "Súng Phun Sơn Anest Iwata W61",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
+      "img": "https://nhatquan.vn/wp-content/uploads/2021/06/sung-phun-son-w611.jpg",
+      "shortDesc": "Súng phun sơn gỗ Anest Iwata W61, thân nhỏ gọn, cỡ béc 1.3–1.5mm, phù hợp phun màu/phun bóng và sơn dặm chi tiết nhỏ.",
+      "lead": "W61 là một trong những dòng súng phun sơn đời đầu của Anest Iwata Nhật Bản, vẫn được ưa chuộng nhờ thân súng nhỏ gọn và thao tác đơn giản. Giống các dòng W71, W77 hay W101, W61 dùng để phun màu và phun bóng sản phẩm gỗ nội thất, với các cỡ béc phổ biến 1,3mm và 1,5mm.",
+      "features": [
+        [
+          "🪶",
+          "Thân súng nhỏ gọn, nhẹ tay, dễ thao tác trong không gian hẹp"
+        ],
+        [
+          "🎯",
+          "Cỡ béc 1,3mm và 1,5mm — phù hợp phun màu và phun bóng đồ gỗ"
+        ],
+        [
+          "🩹",
+          "Thích hợp phun sơn dặm, vá lỗi chi tiết nhỏ nhanh gọn"
+        ],
+        [
+          "🪵",
+          "Cùng họ súng phun gỗ nội thất với W71, W77, W101"
+        ]
+      ],
+      "specs": {
+        "Model": "W61-21G (1,3mm), W61-31G (1,5mm) và các biến thể khác",
+        "Cỡ béc": "1,3 – 1,5 mm",
+        "Ứng dụng chính": "Phun màu, phun bóng, sơn dặm chi tiết nhỏ"
+      },
+      "applications": [
+        "Phun sơn màu, phun bóng đồ gỗ nội thất",
+        "Sơn dặm, vá chi tiết nhỏ trên bề mặt gỗ",
+        "Xưởng gỗ cần súng phun gọn nhẹ, thao tác nhanh"
+      ],
+      "why": "Với các lỗi sơn cục bộ hoặc chi tiết nhỏ không cần phun cả mảng lớn, W61 gọn nhẹ hơn các dòng súng cỡ lớn, giúp thợ sơn xử lý nhanh mà không lãng phí vật liệu."
+    },
+    {
+      "slug": "kiwami",
+      "name": "Súng Phun Sơn Anest Iwata Kiwami",
+      "category": "coating",
+      "categoryLabel": "Thiết Bị Phun Sơn",
+      "subCat": "woodworking",
+      "subCatLabel": "Đồ Gỗ & Keo Dán",
+      "img": "https://nhatquan.vn/wp-content/uploads/2023/04/sung-phun-son-kiwami-134.jpg",
+      "shortDesc": "Súng phun sơn ô tô Anest Iwata dòng Kiwami, nhiều đầu chia gió mã màu riêng cho từng lớp sơn nhũ bạc, sơn bóng và sơn lót.",
+      "lead": "Kiwami là dòng súng phun sơn ô tô của Anest Iwata với hệ đầu chia gió (air cap) được mã màu riêng cho từng công đoạn: đầu vàng KIWAMI-1-13B4 chuyên sơn nhũ bạc, đầu bạc KIWAMI-1-14B2 cho lớp phủ bóng ngoài cùng, đầu xanh KIWAMI-1-16B2 dành cho sơn lót với kim phun tôi cứng như súng áp lực. Mỗi đầu chia gió được tối ưu riêng để đạt độ mịn hạt sơn và độ dày lớp phủ phù hợp từng bước trong quy trình sơn xe.",
+      "features": [
+        [
+          "🟡",
+          "Đầu chia gió vàng B4 — chuyên sơn nhũ bạc, giảm độ mờ lớp phủ"
+        ],
+        [
+          "⚪",
+          "Đầu chia gió bạc B2 — lớp phủ bóng dày, đều, mép vệt phun mịn"
+        ],
+        [
+          "🟢",
+          "Đầu chia gió xanh — chuyên sơn lót, kim phun tôi cứng, hạt sơn đều"
+        ],
+        [
+          "🎯",
+          "8 model với cỡ béc 1,3–1,6mm và nhiều loại đầu chia gió khác nhau"
+        ]
+      ],
+      "specs": {
+        "Model tiêu biểu": "KIWAMI-1-13B4, 1-14B2, 1-16B2, 1-13B8, 1-13B10, 1-14B8, 1-13KP6",
+        "Cỡ béc": "1,3 – 1,6 mm",
+        "Hơi trợ lực": "0,15 – 0,24 MPa",
+        "Khí tiêu thụ": "160 – 230 L/phút",
+        "Vệt phun": "200 – 275 mm"
+      },
+      "applications": [
+        "Sơn nhũ bạc, sơn phủ bóng xe ô tô",
+        "Sơn lót trước khi phủ màu",
+        "Xưởng sơn sửa chữa ô tô cần đổi đầu chia gió theo từng công đoạn"
+      ],
+      "why": "Thay vì dùng một súng cho mọi lớp sơn, hệ đầu chia gió mã màu của Kiwami giúp thợ sơn ô tô chọn đúng đầu phun cho từng bước — sơn lót, sơn nhũ, sơn bóng — mà không cần đổi cả cây súng, tiết kiệm chi phí đầu tư."
     }
   ]
 }
