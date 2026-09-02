@@ -87,9 +87,36 @@
         <p>Để lại thông tin hoặc gọi hotline, đội ngũ kỹ thuật của chúng tôi sẽ liên hệ tư vấn trong 24h.</p>
       </div>
     </div>
-    <div class="why-box" style="max-width:700px;">
-      <h4>Thông tin liên hệ</h4>
-      <p>Hotline: <a href="tel:0907811767" style="color:inherit;text-decoration:underline;">0907 811 767</a> &nbsp;·&nbsp; Email: info@nhatquan.vn<br>Địa chỉ: 10 Đường 18A, Phường Bình Trưng, TP. Hồ Chí Minh, Việt Nam</p>
+    <div class="contact-grid">
+      <div class="why-box">
+        <h4>Thông tin liên hệ</h4>
+        <p>Hotline: <a href="tel:0907811767" style="color:inherit;text-decoration:underline;">0907 811 767</a> &nbsp;·&nbsp; Email: info@nhatquan.vn<br>Địa chỉ: 10 Đường 18A, Phường Bình Trưng, TP. Hồ Chí Minh, Việt Nam</p>
+      </div>
+      <form id="contactForm" class="contact-form">
+        <input type="hidden" name="access_key" id="cfAccessKey" value="">
+        <input type="hidden" name="subject" value="Yêu cầu tư vấn từ website Anest Iwata Việt Nam">
+        <input type="checkbox" name="botcheck" style="display:none;" tabindex="-1" autocomplete="off">
+        <div class="cf-row">
+          <div class="cf-field">
+            <label for="cfName">Họ tên *</label>
+            <input type="text" id="cfName" name="name" required>
+          </div>
+          <div class="cf-field">
+            <label for="cfPhone">Số điện thoại *</label>
+            <input type="tel" id="cfPhone" name="phone" required>
+          </div>
+        </div>
+        <div class="cf-field">
+          <label for="cfEmail">Email</label>
+          <input type="email" id="cfEmail" name="email">
+        </div>
+        <div class="cf-field">
+          <label for="cfMessage">Nội dung cần tư vấn</label>
+          <textarea id="cfMessage" name="message" rows="4" placeholder="Bạn cần tư vấn thiết bị nào, cho ngành nào..."></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary" id="cfSubmit">Gửi yêu cầu tư vấn</button>
+        <div id="cfStatus" class="cf-status" role="status"></div>
+      </form>
     </div>
   </div>
 </section>
@@ -99,6 +126,7 @@
 <script src="js/data-loader.js"></script>
 <script src="js/layout.js"></script>
 <script src="js/catalog.js"></script>
+<script src="js/contact-form.js"></script>
 <script>
   window.aiDataReady.then(function () {
     aiMountLayout("home");
