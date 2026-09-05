@@ -1,6 +1,6 @@
 /* ============================================================
    ANEST IWATA VIETNAM CATALOGUE — DESIGN SYSTEM
-   Bảng màu riêng: Navy công nghiệp + Cam năng lượng
+   Bảng màu riêng: Navy công nghiệp + Xanh dương năng lượng
    (không sao chép bảng màu/CSS trang nguồn anestiwataamericas.com)
    ============================================================ */
 
@@ -13,10 +13,10 @@
   --navy-100: #e7ecf5;
   --navy-50:  #f3f6fb;
 
-  --flame-600: #c8460f;
-  --flame-500: #e8571c;
-  --flame-400: #f2803f;
-  --flame-100: #fde3d3;
+  --flame-600: #0e5fc2;
+  --flame-500: #1877e0;
+  --flame-400: #4d9bef;
+  --flame-100: #dcebfd;
 
   --steel-700: #48556b;
   --steel-500: #6b7789;
