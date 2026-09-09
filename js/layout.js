@@ -77,13 +77,18 @@ function aiHeaderHTML(activePage) {
       '<nav class="main-nav">' + nav + "</nav>" +
       '<div class="header-cta">' +
         '<button class="icon-btn" onclick="document.getElementById(\'searchInput\') ? document.getElementById(\'searchInput\').focus() : location.href=\'san-pham.html\'">🔍</button>' +
-        '<a href="tel:0907811767" class="call-btn">' +
-          '<svg viewBox="0 0 24 24" width="16" height="16" fill="#fff" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.7 5.1 6.5 6.5l2.2-2.2c0.3-0.3 0.7-0.4 1-0.2 1.1 0.4 2.3 0.6 3.5 0.6 0.6 0 1 0.4 1 1v3.5c0 0.6-0.4 1-1 1C10.6 21 3 13.4 3 4c0-0.6 0.4-1 1-1h3.5c0.6 0 1 0.4 1 1 0 1.2 0.2 2.4 0.6 3.5 0.1 0.3 0 0.7-0.2 1L6.6 10.8z"/></svg>' +
-          "0907 811 767" +
-        "</a>" +
         '<a href="san-pham.html" class="btn btn-primary btn-sm">Xem catalogue</a>' +
       "</div>" +
     "</div></header>"
+  );
+}
+
+function aiFloatingCallHTML() {
+  return (
+    '<a href="tel:0907811767" class="float-call-btn" aria-label="Gọi hotline 0907 811 767">' +
+      '<svg viewBox="0 0 24 24" width="18" height="18" fill="#fff" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.7 5.1 6.5 6.5l2.2-2.2c0.3-0.3 0.7-0.4 1-0.2 1.1 0.4 2.3 0.6 3.5 0.6 0.6 0 1 0.4 1 1v3.5c0 0.6-0.4 1-1 1C10.6 21 3 13.4 3 4c0-0.6 0.4-1 1-1h3.5c0.6 0 1 0.4 1 1 0 1.2 0.2 2.4 0.6 3.5 0.1 0.3 0 0.7-0.2 1L6.6 10.8z"/></svg>' +
+      "0907 811 767" +
+    "</a>"
   );
 }
 
@@ -144,4 +149,10 @@ function aiMountLayout(activePage) {
   var f = document.getElementById("aiFooter");
   if (h) { h.innerHTML = aiHeaderHTML(activePage); aiWireMegaMenu(h); }
   if (f) f.innerHTML = aiFooterHTML();
+
+  if (!document.querySelector(".float-call-btn")) {
+    var wrap = document.createElement("div");
+    wrap.innerHTML = aiFloatingCallHTML();
+    document.body.appendChild(wrap.firstElementChild);
+  }
 }

@@ -209,17 +209,29 @@ ul { list-style: none; }
   background: var(--navy-50); color: var(--navy-800);
   border: none; cursor: pointer;
 }
-.call-btn {
-  display: inline-flex; align-items: center; gap: 8px;
+.float-call-btn {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 300;
+  display: inline-flex; align-items: center; gap: 9px;
   background: linear-gradient(135deg, var(--flame-500), var(--flame-600));
-  color: #fff; font-weight: 700; font-size: 14px;
-  padding: 10px 18px; border-radius: 999px;
+  color: #fff; font-weight: 700; font-size: 15px;
+  padding: 14px 22px; border-radius: 999px;
   white-space: nowrap;
+  box-shadow: var(--shadow-lg);
   transition: all 0.18s ease;
+  animation: aiCallPulse 2.2s ease-in-out infinite;
 }
-.call-btn:hover { filter: brightness(1.08); transform: translateY(-1px); box-shadow: var(--shadow-md); }
-.call-btn svg { flex-shrink: 0; }
-@media (max-width: 900px) { .call-btn span, .call-btn { font-size: 13px; padding: 9px 14px; } }
+.float-call-btn:hover { filter: brightness(1.08); transform: translateY(-2px); animation-play-state: paused; }
+.float-call-btn svg { flex-shrink: 0; }
+@keyframes aiCallPulse {
+  0%, 100% { box-shadow: var(--shadow-lg), 0 0 0 0 rgba(232,87,28,0.45); }
+  50% { box-shadow: var(--shadow-lg), 0 0 0 10px rgba(232,87,28,0); }
+}
+@media (max-width: 640px) {
+  .float-call-btn { right: 16px; bottom: 16px; padding: 12px 18px; font-size: 14px; }
+}
 .menu-toggle { display: none; }
 
 /* ---------- Hero ---------- */
