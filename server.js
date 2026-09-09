@@ -159,6 +159,11 @@ app.use(
   })
 );
 
+// Trang "Nhà phân phối" — URL dạng /nha-phan-phoi/ (có/không dấu gạch chéo cuối)
+app.get(["/nha-phan-phoi", "/nha-phan-phoi/"], (req, res) => {
+  res.sendFile(path.join(__dirname, "nha-phan-phoi.html"));
+});
+
 // URL đẹp cho trang chi tiết sản phẩm: /ten-slug -> product.html
 // (chỉ khớp 1 segment không có dấu chấm, để không đụng tới các request tài nguyên/API)
 app.get(/^\/[a-zA-Z0-9-]+$/, (req, res) => {

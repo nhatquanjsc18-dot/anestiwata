@@ -1,5 +1,8 @@
 RewriteEngine On
 
+# Trang "Nhà phân phối"
+RewriteRule ^nha-phan-phoi/?$ nha-phan-phoi.html [L]
+
 # URL đẹp cho trang chi tiết sản phẩm: /ten-slug -> product.html
 # (chỉ áp dụng khi không phải file/thư mục có thật, dùng cho Apache/LiteSpeed - Shared Hosting)
 RewriteCond %{REQUEST_FILENAME} !-f
