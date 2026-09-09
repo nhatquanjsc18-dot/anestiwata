@@ -48,9 +48,8 @@ function aiBuildMegaMenuHTML() {
 
 function aiHeaderHTML(activePage) {
   var navItems = [
-    { href: "index.html", label: "Trang chủ", key: "home" },
-    { href: "san-pham.html", label: "Sản phẩm", key: "products", mega: true },
     { href: "/nha-phan-phoi/", label: "Nhà phân phối", key: "dealer" },
+    { href: "san-pham.html", label: "Sản phẩm", key: "products", mega: true },
     { href: "index.html#gioi-thieu", label: "Giới thiệu", key: "about" },
     { href: "index.html#lien-he", label: "Liên hệ", key: "contact" }
   ];
