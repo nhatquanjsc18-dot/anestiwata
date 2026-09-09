@@ -50,6 +50,7 @@ function aiHeaderHTML(activePage) {
   var navItems = [
     { href: "index.html", label: "Trang chủ", key: "home" },
     { href: "san-pham.html", label: "Sản phẩm", key: "products", mega: true },
+    { href: "dai-ly.html", label: "Đại lý", key: "dealer" },
     { href: "index.html#gioi-thieu", label: "Giới thiệu", key: "about" },
     { href: "index.html#lien-he", label: "Liên hệ", key: "contact" }
   ];
@@ -107,6 +108,7 @@ function aiFooterHTML() {
         '<div><h4>Danh mục sản phẩm</h4><ul>' + catLinks + "</ul></div>" +
         '<div><h4>Hỗ trợ</h4><ul>' +
           '<li><a href="san-pham.html">Toàn bộ catalogue</a></li>' +
+          '<li><a href="dai-ly.html">Đại lý phân phối</a></li>' +
           '<li><a href="index.html#gioi-thieu">Giới thiệu công ty</a></li>' +
           '<li><a href="index.html#lien-he">Liên hệ báo giá</a></li>' +
           '<li><a href="index.html#gioi-thieu">Chính sách bảo hành</a></li>' +
