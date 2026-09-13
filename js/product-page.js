@@ -52,7 +52,7 @@ function aiRenderProductPage() {
         "<h1>" + product.name + "</h1>" +
         '<p class="lead">' + (product.lead || product.shortDesc || "") + "</p>" +
         '<div class="actions">' +
-          '<a href="index.html#lien-he" class="btn btn-primary">Yêu cầu báo giá</a>' +
+          '<button type="button" class="btn btn-primary" id="btnRequestQuote">Yêu cầu báo giá</button>' +
           '<a href="san-pham.html" class="btn btn-outline">Xem thêm sản phẩm</a>' +
         "</div>" +
         '<ul class="feature-list">' + featuresHTML + "</ul>" +
@@ -100,6 +100,13 @@ function aiRenderProductPage() {
 
   if (related.length) {
     aiRenderGrid("relatedGrid", related);
+  }
+
+  var quoteBtn = document.getElementById("btnRequestQuote");
+  if (quoteBtn) {
+    quoteBtn.addEventListener("click", function () {
+      aiOpenQuoteModal(product.name);
+    });
   }
 
   // Tabs behavior
