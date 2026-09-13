@@ -90,7 +90,7 @@ function aiInitQuoteModal() {
       .then(function (r) { return r.json(); })
       .then(function (data) {
         if (data.success) {
-          statusEl.textContent = "Đã gửi thành công! Đội ngũ kỹ thuật sẽ báo giá trong 24h.";
+          statusEl.textContent = "Đã gửi thành công! Đội ngũ kỹ thuật sẽ báo giá trong 24h. Đang cần gấp hãy liên hệ ngay hotline 0907 811 767 để không làm trễ việc của bạn.";
           statusEl.className = "cf-status cf-success";
           e.target.reset();
         } else {
