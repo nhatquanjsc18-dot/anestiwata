@@ -96,6 +96,7 @@ ul { list-style: none; }
 .topbar a:hover { color: #fff; }
 .topbar-links { display: flex; gap: 20px; }
 .topbar-links span { color: var(--flame-400); font-weight: 600; }
+.topbar-text-mobile { display: none; }
 
 /* ---------- Header ---------- */
 .site-header {
@@ -460,6 +461,10 @@ ul { list-style: none; }
 @media (max-width: 768px) {
   .main-nav { display: none; }
   .menu-toggle { display: flex; }
+  .topbar-text-desktop { display: none; }
+  .topbar-text-mobile { display: block; }
+  .topbar-links { display: none; }
+  .logo .mark { display: none; }
   .hero { padding: 50px 0 40px; }
   .hero .container { grid-template-columns: 1fr; }
   .hero h1 { font-size: 32px; }

@@ -69,7 +69,8 @@ function aiHeaderHTML(activePage) {
 
   return (
     '<div class="topbar"><div class="container">' +
-      '<div>Nhà phân phối thiết bị phun sơn công nghiệp Anest Iwata tại Việt Nam</div>' +
+      '<div class="topbar-text-desktop">Nhà phân phối thiết bị phun sơn công nghiệp Anest Iwata tại Việt Nam</div>' +
+      '<div class="topbar-text-mobile">NHÀ PHÂN PHỐI ANEST IWATA TẠI VIỆT NAM</div>' +
       '<div class="topbar-links"><a href="tel:0907811767">Hotline: 0907 811 767</a><span>Giao hàng toàn quốc</span></div>' +
     "</div></div>" +
     '<header class="site-header"><div class="container">' +
