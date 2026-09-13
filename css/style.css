@@ -270,11 +270,10 @@ ul { list-style: none; }
 .hero-stats div strong { display: block; font-size: 28px; font-weight: 800; color: #fff; }
 .hero-stats div span { font-size: 13px; color: var(--steel-300); }
 .hero-visual {
-  background: rgba(255,255,255,0.05);
+  background: #fff;
   border: 1px solid rgba(255,255,255,0.12);
   border-radius: var(--radius-lg);
   padding: 30px;
-  backdrop-filter: blur(6px);
 }
 .hero-visual img { border-radius: var(--radius-md); width: 100%; max-height: 460px; object-fit: contain; display: block; margin: 0 auto; }
 
