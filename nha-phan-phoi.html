@@ -24,7 +24,8 @@
   .dealer-hero p { color: var(--steel-300); max-width: 640px; margin: 0 auto; font-size: 16px; }
 
   .dealer-intro { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; }
-  .dealer-intro img { border-radius: var(--radius-lg); width: 100%; }
+  .dealer-intro-img { background: var(--navy-50); border-radius: var(--radius-lg); padding: 20px; display: flex; align-items: center; justify-content: center; }
+  .dealer-intro img { border-radius: var(--radius-sm); max-width: 100%; max-height: 480px; width: auto; object-fit: contain; }
   .dealer-intro-text p { margin-bottom: 14px; color: var(--text-muted); }
 
   .reason-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 22px; margin-top: 30px; }
@@ -66,7 +67,9 @@
 
 <section class="section">
   <div class="container dealer-intro">
-    <img src="/assets/certificate-dealership.jpg" alt="Chứng nhận đại lý phân phối chính hãng Anest Iwata của Nhất Quán JSC">
+    <div class="dealer-intro-img">
+      <img src="/assets/certificate-dealership.jpg" alt="Chứng nhận đại lý phân phối chính hãng Anest Iwata của Nhất Quán JSC">
+    </div>
     <div class="dealer-intro-text">
       <span class="section-eyebrow">Nhà phân phối Nhất Quán</span>
       <h2 style="margin:10px 0 16px;">Đại lý Anest Iwata uy tín tại Việt Nam</h2>

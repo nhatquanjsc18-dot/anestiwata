@@ -127,9 +127,16 @@ function aiInitCatalogPage() {
 }
 
 /* ---------------- Khối sản phẩm nổi bật (index.html) ---------------- */
-function aiInitFeaturedGrid(containerId, count) {
+function aiInitFeaturedGrid(containerId, count, slugs) {
   var el = document.getElementById(containerId);
   if (!el) return;
+  if (slugs && slugs.length) {
+    var picked = slugs.map(function (s) {
+      return PRODUCTS.find(function (p) { return p.slug === s; });
+    }).filter(Boolean);
+    aiRenderGrid(containerId, picked);
+    return;
+  }
   // Lấy đại diện đều từ mỗi danh mục để hiển thị đa dạng
   var byCategory = {};
   PRODUCTS.forEach(function (p) {

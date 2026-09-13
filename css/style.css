@@ -276,7 +276,7 @@ ul { list-style: none; }
   padding: 30px;
   backdrop-filter: blur(6px);
 }
-.hero-visual img { border-radius: var(--radius-md); width: 100%; }
+.hero-visual img { border-radius: var(--radius-md); width: 100%; max-height: 460px; object-fit: contain; display: block; margin: 0 auto; }
 
 /* ---------- Section headings ---------- */
 .section { padding: 72px 0; }
